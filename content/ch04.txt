@@ -1,0 +1,274 @@
+# 4 | Saying tech words right | Tech words പറയേണ്ട രീതി
+SUMMARY: ഇന്റർവ്യൂവിലും ക്ലയന്റ് കോളിലും നിങ്ങൾ ഏറ്റവും കൂടുതൽ പറയുന്നത് tech വാക്കുകളാണ്. ഈ അധ്യായത്തിൽ അവ ശരിയായ stress-ഓടെ എങ്ങനെ പറയാമെന്നും, എന്തുകൊണ്ടാണ് നമ്മൾ അവ തെറ്റിക്കുന്നതെന്നും പഠിക്കാം.
+
+## 4.1 Why we get tech words wrong | എന്തുകൊണ്ട് തെറ്റുന്നു
+
+മലയാളം ഒരു phonetic ഭാഷയാണ്. എഴുതുന്നതുപോലെ തന്നെയാണ് നമ്മൾ വായിക്കുന്നത്. "ക" എന്ന് എഴുതിയാൽ എപ്പോഴും "ക" തന്നെ.
+
+ഇംഗ്ലീഷ് അങ്ങനെയല്ല. Spelling ഒരു വഴിക്ക്, ഉച്ചാരണം മറ്റൊരു വഴിക്ക്. "cache" എന്ന് എഴുതുന്നു, പക്ഷേ പറയുന്നത് "കാഷ്" എന്ന് മാത്രം. "queue" എന്നതിൽ അഞ്ച് അക്ഷരങ്ങൾ, പക്ഷേ ശബ്ദം ഒന്ന് മാത്രം: "ക്യൂ".
+
+നമ്മളിൽ പലരും tech വാക്കുകൾ ആദ്യം കണ്ടത് documentation-ലോ Stack Overflow-ലോ ആണ്, കേട്ടിട്ടല്ല. അതുകൊണ്ട് spelling നോക്കി സ്വന്തമായി ഒരു ഉച്ചാരണം ഉണ്ടാക്കി. ഓഫീസിൽ എല്ലാവരും അതേ രീതിയിൽ പറയുന്നതുകൊണ്ട് ആരും തിരുത്തിയില്ല. ഇതിനെയാണ് spelling-based reading എന്ന് പറയുന്നത്.
+
+രണ്ടാമത്തെ പ്രശ്നം stress ആണ്. മലയാളത്തിൽ എല്ലാ syllable-ഉം ഏകദേശം ഒരേ ശക്തിയിലാണ് പറയുന്നത്. ഇംഗ്ലീഷിൽ ഓരോ വാക്കിലും ഒരു syllable മാത്രം ഉറക്കെ, നീളത്തിൽ, ഉയർന്ന സ്വരത്തിൽ വരും. ബാക്കിയുള്ളവ ചുരുങ്ങി "അ" പോലെ ഒരു ദുർബല ശബ്ദമാകും. ഈ stress തെറ്റിയാൽ, ശബ്ദങ്ങൾ ശരിയാണെങ്കിൽ പോലും കേൾക്കുന്നയാൾക്ക് വാക്ക് മനസ്സിലാകാൻ ഒരു നിമിഷം വൈകും.
+
+NOTE: ഈ പുസ്തകത്തിൽ stress കാണിക്കുന്നത് ഇങ്ങനെയാണ്: {de-PLOY-ment}. വലിയ അക്ഷരത്തിലുള്ള ഭാഗമാണ് stress ഉള്ള syllable. Narrator സാധാരണ വാക്ക് പറയും, നിങ്ങൾ ശ്രദ്ധയോടെ കേട്ട് ആവർത്തിക്കുക.
+
+TIP: ഒരു വാക്കിനെക്കുറിച്ച് സംശയം വന്നാൽ YouGlish എന്ന സൈറ്റിൽ ആ വാക്ക് type ചെയ്യുക. യഥാർത്ഥ YouTube വീഡിയോകളിൽ native speakers ആ വാക്ക് പറയുന്നത് കേൾക്കാം. Conference talk-കളിൽ engineers തന്നെ പറയുന്നത് കേൾക്കുന്നതാണ് ഏറ്റവും നല്ലത്.
+
+## 4.2 Patterns that fix many words at once | ഒരുപാട് വാക്കുകൾ ഒരുമിച്ച് ശരിയാക്കുന്ന നിയമങ്ങൾ
+
+ഓരോ വാക്കും വെവ്വേറെ പഠിക്കേണ്ടതില്ല. കുറച്ച് patterns അറിഞ്ഞാൽ നൂറുകണക്കിന് വാക്കുകൾ ഒറ്റയടിക്ക് ശരിയാകും.
+
+### Pattern 1: -tion, -sion
+
+-tion അല്ലെങ്കിൽ -sion എന്ന് അവസാനിക്കുന്ന വാക്കുകളിൽ, stress എപ്പോഴും അതിന് തൊട്ടുമുമ്പുള്ള syllable-ൽ ആണ്. -tion എന്നത് "ഷൻ" എന്ന ചെറിയ ശബ്ദം മാത്രം. "ടിയോൺ" എന്ന് പറയരുത്.
+
+EN: {quan-ti-ZA-tion}. {or-ches-TRA-tion}. {au-then-ti-CA-tion}.
+EN: {hal-lu-ci-NA-tion}. {in-te-GRA-tion}. {de-CI-sion}.
+
+### Pattern 2: -ic, -ical
+
+-ic എന്ന് അവസാനിച്ചാൽ stress തൊട്ടുമുമ്പുള്ള syllable-ൽ. -ical ആയാലും അതേ സ്ഥലത്ത് തന്നെ നിൽക്കും.
+
+EN: {se-MAN-tic}. {a-GEN-tic}. {heu-RIS-tic}. {de-ter-mi-NIS-tic}.
+EN: {TECH-ni-cal}. {LOG-i-cal}. {an-a-LYT-i-cal}.
+
+### Pattern 3: -ity
+
+-ity എന്ന് അവസാനിക്കുന്ന വാക്കുകളിലും stress തൊട്ടുമുമ്പുള്ള syllable-ൽ.
+
+EN: {sim-i-LAR-i-ty}. {ca-PAC-i-ty}. {se-CU-ri-ty}. {a-vail-a-BIL-i-ty}. {ob-serv-a-BIL-i-ty}.
+
+### Pattern 4: -ize, -ise
+
+-ize ചേർത്താൽ stress മാറുന്നില്ല. മൂല വാക്കിന്റെ stress അതേപടി നിൽക്കും. പക്ഷേ -ize-ന് ശേഷം -ation വന്നാൽ, Pattern 1 പ്രകാരം stress -ation-ലേക്ക് മാറും.
+
+EN: {TO-ken}, {TO-ken-ize}, {TO-ken-iz-er}.
+EN: {OP-ti-mize}, {op-ti-mi-ZA-tion}.
+EN: {QUAN-tize}, {quan-ti-ZA-tion}.
+
+### Pattern 5: -ure
+
+-ture എന്നത് "ചർ" എന്നും, -sure എന്നത് "ഷർ" പോലെയും ആണ് (measure എന്നതിൽ "ഴർ" പോലെ ഒരു മൃദുവായ ശബ്ദം). "ട്യൂർ" എന്ന് പറയരുത്. ഇത് ദുർബലമായ ഒരു syllable ആണ്, stress ഒരിക്കലും അതിൽ വരില്ല.
+
+EN: {AR-chi-tec-ture}. {IN-fra-struc-ture}. {FEA-ture}. {FAIL-ure}. {MEA-sure}.
+
+### Pattern 6: Noun versus verb
+
+ഒരേ spelling ഉള്ള ചില വാക്കുകളിൽ noun ആണെങ്കിൽ stress ആദ്യം, verb ആണെങ്കിൽ രണ്ടാമത്.
+
+| Noun | Verb | Malayalam note |
+| {RE-cord} | {re-CORD} | "Save the record" എന്നതിൽ ആദ്യം, "Record the call" എന്നതിൽ രണ്ടാമത്. |
+| {PRO-gress} | {pro-GRESS} | Status update-ൽ ഇത് പലപ്പോഴും വരും. |
+| {OB-ject} | {ob-JECT} | Code-ലെ object എപ്പോഴും noun ആണ്. |
+| {CON-tract} | {con-TRACT} | Job offer-ലെ contract noun ആണ്. |
+| {IM-port} | {im-PORT} | "the import statement", പക്ഷേ "we import the module". |
+
+### Pattern 7: Silent letters
+
+Spelling-ലുള്ള എല്ലാ അക്ഷരവും പറയണമെന്നില്ല. Django-യിലെ D, Wednesday-യിലെ ആദ്യ d, schema-യിലെ h, colleague-ന്റെ അവസാനത്തെ ue, ഇവയൊന്നും ഉച്ചരിക്കില്ല.
+
+WARN: "ഞാൻ ഇത്രയും കാലം ഇങ്ങനെയാണ് പറഞ്ഞത്" എന്ന് വിഷമിക്കേണ്ട. ഇന്ത്യയിലെ മിക്ക engineers-ഉം ഇതേ തെറ്റുകൾ ചെയ്യുന്നു. ഇന്ന് മുതൽ ശരിയാക്കിയാൽ മതി.
+
+## 4.3 Tools, platforms and products | ടൂളുകളുടെ പേരുകൾ
+
+ഈ പേരുകൾ നിങ്ങളുടെ CV-യിലും ഇന്റർവ്യൂവിലും ആവർത്തിച്ച് വരും. ഇവ തെറ്റിച്ചാൽ "ഇയാൾ ഇത് ശരിക്കും ഉപയോഗിച്ചിട്ടുണ്ടോ" എന്ന സംശയം പോലും ഉണ്ടാകാം.
+
+| Word | Stress | Malayalam note |
+| data | {DA-ta} | "ഡേറ്റ" (US, UK) അല്ലെങ്കിൽ "ഡാറ്റ". രണ്ടും ശരി. |
+| cache | {CACHE} | "കാഷ്". "കാഷേ" അല്ല, "ക്യാച്ച്" അല്ല. |
+| queue | {QUEUE} | "ക്യൂ". ഒറ്റ syllable മാത്രം. |
+| Kubernetes | {ku-ber-NE-tes} | "കൂബർനെറ്റീസ്". NE എന്ന ഭാഗത്ത് ഊന്നൽ. |
+| PostgreSQL | {POST-gres} Q L | "പോസ്റ്റ്ഗ്രെസ് ക്യൂ എൽ". സാധാരണ "Postgres" എന്ന് മാത്രം പറഞ്ഞാൽ മതി. |
+| SQL | S Q L, or sequel | "എസ് ക്യൂ എൽ" അല്ലെങ്കിൽ "സീക്വൽ". രണ്ടും ശരി. |
+| Nginx | engine x | "എൻജിൻ-എക്സ്". "എൻജിൻക്സ്" എന്ന് പറയരുത്. |
+| Linux | {LIN-ux} | "ലിനക്സ്". "ലൈനക്സ്" അല്ല. |
+| Ubuntu | {u-BUN-tu} | "ഊബൂണ്ടൂ". BUN എന്ന ഭാഗം "ബൂൺ" പോലെ. |
+| Python | {PY-thon} | "പൈതൺ". th എന്നത് നാക്ക് പല്ലിനിടയിൽ വെച്ച്. |
+| PyTorch | {PY-torch} | "പൈ-ടോർച്ച്". |
+| Pydantic | {py-DAN-tic} | "പൈ-ഡാന്റിക്". |
+| Django | {DJAN-go} | "ജാങ്ഗോ". D ഉച്ചരിക്കില്ല. |
+| Celery | {CEL-e-ry} | "സെലറി". പച്ചക്കറിയുടെ പേര് പോലെ തന്നെ. |
+| Redis | {RE-dis} | "റെഡിസ്". |
+| Kafka | {KAF-ka} | "കാഫ്ക". |
+| Azure | {AZ-ure} | "ആഷർ". zh ശബ്ദം, measure എന്ന വാക്കിലെപ്പോലെ. "അസ്യൂർ" അല്ല. |
+| Vertex AI | {VER-tex} A I | "വെർടെക്സ് എ ഐ". |
+| Ollama | {o-LLA-ma} | "ഓലാമ". LA എന്ന ഭാഗത്ത് ഊന്നൽ. |
+| vLLM | v L L M | "വീ എൽ എൽ എം". അവസാനത്തെ അക്ഷരത്തിൽ ഊന്നൽ. |
+| Qdrant | quadrant, {QUAD-rant} | "ക്വാഡ്രന്റ്". |
+| Hugging Face | {HUG-ging} {FACE} | "ഹഗ്ഗിങ് ഫെയ്സ്". |
+| Whisper | {WHIS-per} | "വിസ്പർ". W ആണ്, V അല്ല. |
+| NVIDIA | {en-VID-i-a} | "എൻവിഡിയ". |
+| GPU | G P U | "ജീ പീ യൂ". അവസാനത്തെ U-ൽ ഊന്നൽ. |
+| CUDA | {CU-da} | "കൂഡ". |
+| Docker | {DOCK-er} | "ഡോക്കർ". |
+| YAML | {YA-ml} | "യാമൽ". ഒറ്റ വാക്കായി. |
+| JSON | {JAY-son} | "ജേസൺ". ഒരു പേര് പോലെ. |
+| GUI | {GOO-ey} | "ഗൂയി". |
+| OAuth | {O-auth} | "ഓ-ഓത്ത്". |
+| async | {A-sync} | "എയ്-സിങ്ക്". |
+| asynchronous | {a-SYN-chro-nous} | "എയ്-സിങ്ക്രനസ്". SYN എന്ന ഭാഗത്ത് ഊന്നൽ. |
+| char | char, or car | "ചാർ" അല്ലെങ്കിൽ "കാർ". രണ്ടും ഉപയോഗത്തിലുണ്ട്. |
+| width | {WIDTH} | "വിഡ്ത്". |
+| height | {HEIGHT} | "ഹൈറ്റ്". "ഹെയ്ത്ത്" അല്ല. അവസാനം t ശബ്ദം മാത്രം. |
+
+## 4.4 Core engineering words | എഞ്ചിനീയറിംഗ് വാക്കുകൾ
+
+ഇവ ഓരോ meeting-ലും വരുന്ന വാക്കുകളാണ്. Stress-ൽ പ്രത്യേക ശ്രദ്ധ കൊടുക്കുക.
+
+| Word | Stress | Malayalam note |
+| algorithm | {AL-go-rithm} | "ആൽഗരിതം". ആദ്യ syllable-ൽ ഊന്നൽ. |
+| architecture | {AR-chi-tec-ture} | "ആർക്കിടെക്ചർ". ch എന്നത് "ക്ക്" ആണ്. |
+| infrastructure | {IN-fra-struc-ture} | "ഇൻഫ്രസ്ട്രക്ചർ". |
+| deployment | {de-PLOY-ment} | "ഡിപ്ലോയ്മെന്റ്". "ഡെപ്ലോയ്മെന്റ്" അല്ല. |
+| latency | {LA-ten-cy} | "ലേറ്റൻസി". ആദ്യ syllable-ൽ "ലേ". |
+| throughput | {THROUGH-put} | "ത്രൂപുട്ട്". th ശബ്ദം, t അല്ല. |
+| inference | {IN-fer-ence} | "ഇൻഫറൻസ്". ആദ്യ syllable-ൽ ഊന്നൽ. "ഇൻഫെറൻസ്" അല്ല. |
+| pipeline | {PIPE-line} | "പൈപ്ലൈൻ". |
+| embedding | {em-BED-ding} | "എംബെഡിങ്". |
+| retrieval | {re-TRIE-val} | "റിട്രീവൽ". |
+| vector | {VEC-tor} | "വെക്ടർ". V ശബ്ദം, W അല്ല. |
+| tokenizer | {TO-ken-iz-er} | "ടോക്കനൈസർ". ആദ്യ syllable-ൽ ഊന്നൽ. |
+| quantization | {quan-ti-ZA-tion} | "ക്വോണ്ടിസേഷൻ". |
+| diarization | {di-a-ri-ZA-tion} | "ഡയറൈസേഷൻ". ആരാണ് സംസാരിക്കുന്നത് എന്ന് തിരിച്ചറിയൽ. |
+| hallucination | {hal-lu-ci-NA-tion} | "ഹലൂസിനേഷൻ". |
+| orchestration | {or-ches-TRA-tion} | "ഓർക്കെസ്ട്രേഷൻ". ch എന്നത് "ക്ക്". |
+| authentication | {au-then-ti-CA-tion} | "ഓതന്റിക്കേഷൻ". |
+| integer | {IN-te-ger} | "ഇന്റിജർ". g എന്നത് "ജ" ശബ്ദം. |
+| variable | {VA-ri-a-ble} | "വെയറിയബിൾ". |
+| parameter | {pa-RA-me-ter} | "പരാമിറ്റർ". RA എന്ന ഭാഗത്ത് ഊന്നൽ. "പാരാമീറ്റർ" അല്ല. |
+| hierarchy | {HI-er-ar-chy} | "ഹൈയറാർക്കി". |
+| schema | {SCHE-ma} | "സ്കീമ". h ഉച്ചരിക്കില്ല. |
+| suite | {SUITE} | "സ്വീറ്റ്". "സ്യൂട്ട്" അല്ല. Test suite. |
+| route | {ROUTE} | "റൂട്ട്". |
+| router | {ROUT-er} | "റൗട്ടർ" (US) അല്ലെങ്കിൽ "റൂട്ടർ" (UK). |
+| debug | {de-BUG} | "ഡീബഗ്". BUG എന്ന ഭാഗത്ത് ഊന്നൽ. |
+
+## 4.5 The AI-era vocabulary | AI കാലത്തെ വാക്കുകൾ
+
+ഇന്നത്തെ ഇന്റർവ്യൂകളിൽ AI വാക്കുകൾ എല്ലായിടത്തും ഉണ്ട്. ഇവ ആത്മവിശ്വാസത്തോടെ പറയാൻ കഴിഞ്ഞാൽ നിങ്ങൾ ആ മേഖലയിൽ ശരിക്കും ജോലി ചെയ്യുന്നയാളാണെന്ന് തോന്നും.
+
+| Word | Stress | Malayalam note |
+| LLM | L L M | "എൽ എൽ എം". അവസാനത്തെ M-ൽ ഊന്നൽ. |
+| Anthropic | {an-THROP-ic} | "ആന്ത്രോപിക്". Pattern 2 പ്രകാരം -ic-ന് മുമ്പ് ഊന്നൽ. |
+| Claude | {CLAUDE} | "ക്ലോഡ്". ഒറ്റ syllable. |
+| OpenAI | {O-pen} A I | "ഓപ്പൺ എ ഐ". |
+| Llama | {LLA-ma} | "ലാമ". |
+| Mistral | {MIS-tral} | "മിസ്ട്രൽ". |
+| Gemini | {GEM-i-ni} | "ജെമിനൈ" അല്ലെങ്കിൽ "ജെമിനി". |
+| TensorFlow | {TEN-sor-flow} | "ടെൻസർഫ്ലോ". |
+| NumPy | {NUM-py} | "നം-പൈ". "നം-പീ" എന്നും കേൾക്കാം. |
+| Jupyter | {JU-pi-ter} | "ജൂപിറ്റർ". ഗ്രഹത്തിന്റെ പേര് പോലെ. |
+| transformer | {trans-FORM-er} | "ട്രാൻസ്ഫോർമർ". FORM-ൽ ഊന്നൽ. |
+| fine-tuning | {FINE-tun-ing} | "ഫൈൻ-ട്യൂണിങ്". |
+| agent | {A-gent} | "ഏജന്റ്". |
+| agentic | {a-GEN-tic} | "ഏജന്റിക്". GEN-ൽ ഊന്നൽ മാറുന്നു. |
+| semantic | {se-MAN-tic} | "സിമാന്റിക്". |
+| similarity | {sim-i-LAR-i-ty} | "സിമിലാരിറ്റി". |
+| cosine | {CO-sine} | "കോസൈൻ". |
+| reranker | {re-RANK-er} | "റീ-റാങ്കർ". |
+| multimodal | {mul-ti-MO-dal} | "മൾട്ടി-മോഡൽ". |
+| evaluation | {e-val-u-A-tion} | "ഇവാല്യുവേഷൻ". |
+| benchmark | {BENCH-mark} | "ബെഞ്ച്മാർക്ക്". |
+| gradient | {GRA-di-ent} | "ഗ്രേഡിയന്റ്". |
+| epoch | {E-poch} | "ഈപ്പോക്ക്" അല്ലെങ്കിൽ "എപ്പക്ക്". ch എന്നത് "ക്ക്". |
+| stochastic | {sto-CHAS-tic} | "സ്റ്റക്കാസ്റ്റിക്". |
+| deterministic | {de-ter-mi-NIS-tic} | "ഡിറ്റർമിനിസ്റ്റിക്". |
+| heuristic | {heu-RIS-tic} | "ഹ്യൂറിസ്റ്റിക്". |
+| idempotent | {i-DEM-po-tent} | "ഐ-ഡെം-പൊട്ടന്റ്". "ഐഡം-പോ-ടന്റ്" എന്നും കേൾക്കാം. |
+| concurrency | {con-CUR-ren-cy} | "കൺകറൻസി". |
+| observability | {ob-serv-a-BIL-i-ty} | "ഒബ്സർവബിലിറ്റി". |
+| Grafana | {gra-FA-na} | "ഗ്രഫാന". |
+| Prometheus | {pro-ME-the-us} | "പ്രമീതിയസ്". |
+| Terraform | {TER-ra-form} | "ടെറഫോം". |
+
+## 4.6 Everyday work words and Gulf names | ദിവസേനയുള്ള വാക്കുകൾ
+
+ഈ വാക്കുകൾ tech അല്ല, പക്ഷേ ഓഫീസിൽ എല്ലാ ദിവസവും വരും. Gulf-ൽ ജോലി തേടുന്നവർക്ക് സ്ഥലപ്പേരുകളും പ്രധാനമാണ്.
+
+| Word | Stress | Malayalam note |
+| Wednesday | {WEDNES-day} | "വെൻസ്ഡേ". നടുവിലെ d ഉച്ചരിക്കില്ല. |
+| colleague | {COL-league} | "കൊളീഗ്". "കൊളീഗ്യൂ" അല്ല. |
+| schedule | {SCHED-ule} | "സ്കെജൂൾ" (US) അല്ലെങ്കിൽ "ഷെഡ്യൂൾ" (UK). |
+| vehicle | {VE-hi-cle} | "വീയിക്കൽ". h മിക്കവാറും കേൾക്കില്ല. |
+| dirham | {DIR-ham} | "ഡിർഹം". |
+| Riyadh | {ri-YADH} | "റിയാദ്". YADH എന്ന ഭാഗത്ത് ഊന്നൽ. |
+| Abu Dhabi | {A-bu} {DHA-bi} | "അബു ദാബി". |
+| Saudi | {SAU-di} | "സൗദി" അല്ലെങ്കിൽ "സോദി". |
+
+## 4.7 Acronyms | ചുരുക്കെഴുത്തുകൾ
+
+Acronyms രണ്ട് തരമുണ്ട്. ചിലത് അക്ഷരം അക്ഷരമായി പറയുന്നു. ചിലത് ഒറ്റ വാക്കായി വായിക്കുന്നു. തെറ്റായ രീതിയിൽ പറഞ്ഞാൽ ആദ്യമായി കേൾക്കുന്നവർക്ക് മനസ്സിലാകില്ല.
+
+അക്ഷരം അക്ഷരമായി പറയുമ്പോൾ, ഊന്നൽ സാധാരണ അവസാനത്തെ അക്ഷരത്തിലാണ്. ഉദാഹരണത്തിന് API എന്നതിൽ I എന്ന ഭാഗം അൽപം ഉറക്കെ.
+
+| Type | Examples | Malayalam note |
+| Letter by letter | API, LLM, SSE, AWS, GCP, ETL, SLA, MCP, OCR, TTS, STT | ഓരോ അക്ഷരവും വേറെ, അവസാനത്തേതിൽ ഊന്നൽ. |
+| Letter by letter | CI CD | "സീ ഐ, സീ ഡീ" എന്ന് രണ്ട് ഭാഗമായി. |
+| One word | RAG | "റാഗ്". ഒരു തുണിക്കഷണത്തിന്റെ പേര് പോലെ. |
+| One word | CRUD | "ക്രഡ്". |
+| One word | SaaS | "സാസ്". |
+| One word | NASA, JSON, YAML | "നാസ", "ജേസൺ", "യാമൽ". |
+| One word | GIF | "ഗിഫ്" അല്ലെങ്കിൽ "ജിഫ്". രണ്ടും കേൾക്കാം. |
+
+EN: We expose a REST API and stream tokens over SSE.
+EN: Our RAG pipeline uses an LLM for the final answer.
+EN: The CI CD pipeline deploys to AWS after every merge.
+
+## 4.8 Drill sentences | വാക്യങ്ങളിൽ പരിശീലനം
+
+ഒറ്റ വാക്കായി ശരിയായി പറയാൻ എളുപ്പമാണ്. യഥാർത്ഥ പരീക്ഷണം വാക്യത്തിനുള്ളിൽ വേഗത്തിൽ പറയുമ്പോഴാണ്. ഓരോ വാക്യവും കേൾക്കുക, നിർത്തുക, അതേ താളത്തിൽ ആവർത്തിക്കുക.
+
+DRILL: 4.1 | The big stack sentence
+ഈ വാക്യം ഉറക്കെ മൂന്ന് തവണ പറയുക. ആദ്യം പതുക്കെ, ഓരോ തവണയും വേഗം കൂട്ടിക്കൊണ്ട്. ഓരോ tool name-ന്റെയും stress ശ്രദ്ധിക്കുക.
+EN: We serve Whisper and Canary on vLLM / behind an Nginx gateway, / cache the embeddings in Redis, / queue the jobs with Celery, / and store the vectors in Qdrant / on a Kubernetes cluster.
+END
+
+DRILL: 4.2 | Engineering words in context
+ഓരോ വാക്യത്തിലെയും stress ഉള്ള വാക്കുകൾ ശ്രദ്ധിച്ച് ആവർത്തിക്കുക.
+EN: The latency is fine, / but the throughput drops under load.
+EN: We moved the inference workers / to a separate GPU node.
+EN: The architecture has three layers: / ingestion, retrieval, and generation.
+EN: Our infrastructure runs on Azure / with Terraform for provisioning.
+EN: I wrote a test suite / for the authentication module.
+EN: The schema has one integer column / and two variables we can tune.
+END
+
+DRILL: 4.3 | AI-era sentences
+ഇന്റർവ്യൂവിൽ AI project വിവരിക്കുമ്പോൾ നിങ്ങൾ പറയാൻ സാധ്യതയുള്ള വാക്യങ്ങളാണ് ഇവ.
+EN: The tokenizer splits the text / before we compute the embeddings.
+EN: Retrieval quality matters more / than the size of the LLM.
+EN: We use cosine similarity / and a reranker for the top results.
+EN: Quantization cut our GPU memory in half / with almost no loss in accuracy.
+EN: The orchestration layer decides / which agent handles each step.
+EN: We fine-tuned the model in PyTorch / and tracked every epoch in a dashboard.
+EN: Our evaluation set catches most hallucinations / before release.
+EN: I've used models from Anthropic, OpenAI, and Mistral / in production.
+END
+
+DRILL: 4.4 | Pattern pairs
+ഓരോ ജോടിയിലും stress എങ്ങനെ മാറുന്നു എന്ന് ശ്രദ്ധിക്കുക.
+EN: Token. Tokenize. Tokenizer.
+EN: Optimize. Optimization.
+EN: Agent. Agentic.
+EN: Similar. Similarity.
+EN: Orchestra. Orchestration.
+EN: The record is saved. / Please record the call.
+EN: We made good progress. / The project will progress next week.
+END
+
+DRILL: 4.5 | Everyday words
+EN: Let's schedule the review for Wednesday.
+EN: My colleague in Abu Dhabi / will join the call.
+EN: The salary is quoted in dirhams.
+EN: The client team is based in Riyadh.
+END
+
+TIP: ഓരോ ദിവസവും നിങ്ങളുടെ സ്വന്തം project-നെക്കുറിച്ച് മൂന്ന് വാക്യങ്ങൾ ഉണ്ടാക്കി, അതിലെ tech words ഈ പട്ടികയിൽ നോക്കി ശരിയാക്കി, ഉറക്കെ പറയുക. ഒരു മാസം കൊണ്ട് നിങ്ങളുടെ "project pitch" വളരെ വ്യക്തമാകും.
+
+## 4.9 Quick check | ചെറിയ ക്വിസ്
+
+QUIZ: "cache" എന്ന വാക്ക് എങ്ങനെയാണ് പറയുന്നത്? || കാഷേ || *കാഷ് || ക്യാച്ച് || cache എന്നത് ഒറ്റ syllable മാത്രം: "കാഷ്". അവസാനത്തെ e ഉച്ചരിക്കില്ല.
+QUIZ: "quantization" എന്ന വാക്കിൽ stress എവിടെയാണ്? || ആദ്യ syllable-ൽ, QUAN || *-tion-ന് തൊട്ടുമുമ്പ്, ZA || അവസാനം, TION || -tion എന്ന് അവസാനിക്കുന്ന വാക്കുകളിൽ stress എപ്പോഴും തൊട്ടുമുമ്പുള്ള syllable-ൽ ആണ്.
+QUIZ: "suite" (test suite) എങ്ങനെ പറയണം? || സ്യൂട്ട് || *സ്വീറ്റ് || സ്യൂയിറ്റ് || suite എന്നത് sweet പോലെയാണ്. suit (വസ്ത്രം) എന്നതുമായി തെറ്റിക്കരുത്.
+QUIZ: താഴെയുള്ളവയിൽ ഏത് acronym ആണ് ഒറ്റ വാക്കായി പറയുന്നത്? || API || LLM || *RAG || RAG എന്നത് "റാഗ്" എന്ന് ഒറ്റ വാക്കായി പറയുന്നു. API, LLM എന്നിവ അക്ഷരം അക്ഷരമായി.

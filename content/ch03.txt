@@ -1,0 +1,385 @@
+# 3 | Stress, rhythm and intonation | ഇംഗ്ലീഷിന്റെ "സംഗീതം"
+SUMMARY: ശബ്ദങ്ങൾ ശരിയായാലും stress തെറ്റിയാൽ ഇംഗ്ലീഷ് മനസ്സിലാകാൻ പ്രയാസമാണ്. ഈ അധ്യായത്തിൽ word stress, schwa, sentence stress, linking, intonation, വേഗം എന്നിവ പഠിക്കാം.
+
+ഇതാണ് ഈ പുസ്തകത്തിലെ ഏറ്റവും പ്രധാനപ്പെട്ട അധ്യായം. പല മലയാളികളുടെയും ശബ്ദങ്ങൾ ശരിയായിട്ടും വിദേശികൾക്ക് മനസ്സിലാകാൻ ബുദ്ധിമുട്ടുന്നതിന്റെ പ്രധാന കാരണം stress ആണ്.
+
+### Syllable-timed versus stress-timed | രണ്ട് തരം താളം
+
+മലയാളത്തിൽ എല്ലാ syllable-നും ഏകദേശം ഒരേ ഭാരവും ഒരേ സമയവുമാണ്. "ക-മ്പ്യൂ-ട്ടർ" എന്ന് പറയുമ്പോൾ മൂന്ന് ഭാഗവും ഒരുപോലെ. ഇതിനെ syllable-timed എന്ന് പറയുന്നു. ഒരു തീവണ്ടിയുടെ താളം പോലെ: ടക് ടക് ടക് ടക്.
+
+ഇംഗ്ലീഷ് stress-timed ആണ്. ചില syllable-കൾ ഉറക്കെ, നീളത്തിൽ, ഉയർന്ന pitch-ൽ പറയുന്നു. മറ്റുള്ളവ ചെറുതായി, വേഗത്തിൽ, ഏകദേശം വിഴുങ്ങിയതുപോലെ. ഒരു ഡ്രം താളം പോലെ: DUM da da DUM da DUM.
+
+ഒരു native speaker-ന്റെ ചെവി ആദ്യം പിടിക്കുന്നത് ഈ താളമാണ്. ശബ്ദങ്ങൾ അല്പം തെറ്റിയാലും താളം ശരിയാണെങ്കിൽ അവർക്ക് മനസ്സിലാകും. ശബ്ദങ്ങൾ എല്ലാം ശരിയായാലും താളം തെറ്റിയാൽ അവർ ബുദ്ധിമുട്ടും. അതുകൊണ്ടാണ് ഈ അധ്യായം ഇത്ര പ്രധാനം.
+
+EN: I'm working on the development of a new component.
+
+മുകളിലെ വാചകം കേൾക്കുക. എല്ലാ വാക്കുകളും ഒരേ ശക്തിയിലല്ല വരുന്നത് എന്ന് ശ്രദ്ധിക്കുക.
+
+### How stress is made | ഊന്നൽ എങ്ങനെ കൊടുക്കാം
+
+ഒരു stressed syllable-ന് മൂന്ന് സ്വഭാവങ്ങളുണ്ട്.
+
+- ഉറക്കെ: അല്പം കൂടുതൽ ശക്തിയിൽ.
+- നീളത്തിൽ: vowel അല്പം നീട്ടി.
+- ഉയർന്ന pitch: ശബ്ദം അല്പം ഉയർത്തി.
+
+മൂന്നിൽ ഏറ്റവും പ്രധാനം നീളമാണ്. stressed syllable നീട്ടുക, ബാക്കി ചെറുതാക്കുക. ഉറക്കെ അലറേണ്ട കാര്യമില്ല.
+
+## 3.1 Word stress | വാക്കിലെ ഊന്നൽ
+
+### Why it matters | എന്തുകൊണ്ട് പ്രധാനം
+
+രണ്ടോ അതിലധികമോ syllable ഉള്ള ഓരോ ഇംഗ്ലീഷ് വാക്കിനും ഒരു "ശക്തമായ" syllable ഉണ്ട്. Native speakers വാക്കുകൾ തിരിച്ചറിയുന്നത് ഈ stress pattern വെച്ചാണ്, ഓരോ ശബ്ദവും കേട്ടല്ല. തെറ്റായ syllable-ൽ stress ഇട്ടാൽ, എല്ലാ ശബ്ദവും ശരിയായാലും വാക്ക് തിരിച്ചറിയാൻ പ്രയാസം. ഉദാഹരണത്തിന്, {DE-vel-op-ment} എന്ന് പറഞ്ഞാൽ കേൾക്കുന്നയാൾ ഒരു നിമിഷം നിന്ന് "ഏത് വാക്ക്?" എന്ന് ആലോചിക്കും. ഒരു മീറ്റിംഗിൽ ഇത് 20 തവണ സംഭവിച്ചാൽ, അവർ ക്ഷീണിക്കും.
+
+ഈ പുസ്തകത്തിൽ stress കാണിക്കുന്നത് ഇങ്ങനെയാണ്: {de-VEL-op-ment}. വലിയ അക്ഷരത്തിലുള്ള ഭാഗമാണ് stressed syllable. App-ൽ അത് highlight ചെയ്ത് കാണിക്കും.
+
+### How to practise | എങ്ങനെ പരിശീലിക്കാം
+
+- ആദ്യം stressed syllable കണ്ടെത്തുക.
+- കൈകൊണ്ട് മേശയിൽ ഒരു തട്ട് കൊടുക്കുക, stressed syllable പറയുന്ന അതേ നിമിഷം.
+- ബാക്കി syllable-കൾ ചെറുതായി, പതുക്കെ, വേഗത്തിൽ പറയുക.
+- പിന്നെ app-ൽ കേട്ട് താരതമ്യം ചെയ്യുക.
+
+### Common tech and office words | സാധാരണ തെറ്റുന്ന വാക്കുകൾ
+
+| Word | Correct | What Malayalis often say |
+| development | {de-VEL-op-ment} | {DE-vel-op-ment} |
+| develop | {de-VEL-op} | {DE-vel-op} |
+| component | {com-PO-nent} | {COM-po-nent} |
+| analysis | {a-NAL-y-sis} | {A-nal-y-sis} |
+| analyse | {AN-a-lyse} | {an-a-LYSE} |
+| determine | {de-TER-mine} | {de-ter-MINE} |
+| architecture | {AR-chi-tec-ture} | {ar-chi-TEC-ture} |
+| category | {CAT-e-go-ry} | {ca-TE-go-ry} |
+| comfortable | {COMF-ta-ble} | {com-FOR-ta-ble} |
+| hotel | {ho-TEL} | {HO-tel} |
+| event | {e-VENT} | {E-vent} |
+| success | {suc-CESS} | {SUC-cess} |
+| percent | {per-CENT} | {PER-cent} |
+| engineer | {en-gi-NEER} | {EN-gi-neer} |
+| committee | {com-MIT-tee} | {com-mit-TEE} |
+
+ചില വാക്കുകളെക്കുറിച്ച് ഒരു വിശദീകരണം.
+
+- determine എന്നതിന്റെ അവസാനം "മൈൻ" അല്ല. ചെറിയ "മിൻ" ആണ്. stress നടുവിൽ.
+- comfortable എന്നത് നാല് syllable അല്ല, മൂന്ന് മാത്രം. "for" എന്ന ഭാഗം ഏകദേശം അപ്രത്യക്ഷമാകും.
+- analysis, analyse എന്നിവയിൽ stress വ്യത്യസ്ത സ്ഥലത്താണ്. ഒരേ കുടുംബത്തിലെ വാക്കുകളിൽ stress മാറാം.
+- engineer എന്ന വാക്ക് നമ്മൾ ദിവസവും പറയുന്നതാണ്. അവസാനത്തെ ഭാഗത്താണ് stress. ഇന്ന് മുതൽ ശരിയായി പറയുക.
+
+EN: I'm an engineer on the development team.
+EN: We need a detailed analysis of the architecture.
+EN: Each component belongs to one category.
+EN: The event was a success. Ninety percent of users were comfortable with it.
+EN: The committee will determine the budget.
+
+DRILL: 3.1 | Tap the stress
+ഓരോ വാക്കും പറയുമ്പോൾ stressed syllable-ൽ മേശയിൽ തട്ടുക. ഓരോ വാക്കും 3 തവണ.
+
+| Word | Stress |
+| development | {de-VEL-op-ment} |
+| component | {com-PO-nent} |
+| architecture | {AR-chi-tec-ture} |
+| engineer | {en-gi-NEER} |
+| percent | {per-CENT} |
+| analysis | {a-NAL-y-sis} |
+
+EN: development, component, architecture, engineer, percent, analysis.
+EN: The engineer explained the architecture of each component.
+END
+
+TIP: Self-check: "development" എന്ന് റെക്കോർഡ് ചെയ്യുക. ആദ്യ syllable "de" ചെറുതും ദുർബലവുമായി കേൾക്കുന്നുണ്ടോ? രണ്ടാമത്തെ "VEL" ആണോ ഏറ്റവും ശക്തം?
+
+### The noun versus verb rule | Noun-ഉം verb-ഉം
+
+രണ്ട് syllable ഉള്ള പല വാക്കുകളും noun ആയും verb ആയും ഉപയോഗിക്കാം. എഴുത്ത് ഒന്നുതന്നെ. പക്ഷേ stress മാറും.
+
+- Noun ആണെങ്കിൽ stress ആദ്യ syllable-ൽ.
+- Verb ആണെങ്കിൽ stress രണ്ടാമത്തെ syllable-ൽ.
+
+ഇത് തെറ്റിയാൽ കേൾക്കുന്നയാൾക്ക് വാചകത്തിന്റെ grammar തന്നെ ആശയക്കുഴപ്പത്തിലാകും.
+
+| Noun | Verb |
+| a {REC-ord} | to {re-CORD} |
+| a {PROJ-ect} | to {pro-JECT} |
+| an {IN-crease} | to {in-CREASE} |
+| an {OB-ject} | to {ob-JECT} |
+| a {PRES-ent} | to {pre-SENT} |
+| an {UP-date} | to {up-DATE} |
+| a {CON-flict} | to {con-FLICT} |
+
+EN: Let me record this meeting. We'll keep a record of it.
+EN: I'll present the project tomorrow.
+EN: We saw a big increase in traffic, so we need to increase the limits.
+EN: Here's a quick update. I'll update the ticket after the call.
+EN: The two changes conflict. Can you resolve the conflict?
+
+NOTE: Narrator ഈ വാക്കുകൾ സാധാരണ രീതിയിൽ വായിക്കും. Noun-ഉം verb-ഉം ഒരേ വാചകത്തിൽ വരുന്ന മുകളിലെ ഉദാഹരണങ്ങൾ കേട്ട്, stress മാറുന്നത് ശ്രദ്ധിക്കുക.
+
+### Suffix rules | Suffix നോക്കി stress കണ്ടെത്താം
+
+ഓരോ വാക്കും ഓർത്തുവെക്കേണ്ട ആവശ്യമില്ല. വാക്കിന്റെ അവസാന ഭാഗം, അതായത് suffix, നോക്കി stress ഊഹിക്കാൻ കഴിയും. ഇവ വളരെ ഉപയോഗപ്രദമാണ്.
+
+Rule 1: -tion, -sion, -ic, -ical, -ity, -ian എന്നിവയിൽ അവസാനിക്കുന്ന വാക്കുകളിൽ stress suffix-ന് തൊട്ടുമുമ്പുള്ള syllable-ൽ.
+
+| Word | Stress |
+| application | {ap-pli-CA-tion} |
+| decision | {de-CI-sion} |
+| automatic | {au-to-MAT-ic} |
+| technical | {TECH-ni-cal} |
+| scalability | {sca-la-BIL-i-ty} |
+| reliability | {re-li-a-BIL-i-ty} |
+| statistician | {stat-is-TI-cian} |
+
+EN: The application made an automatic decision.
+EN: Scalability and reliability are technical requirements.
+
+Rule 2: -ee, -eer, -ese, -ique എന്നിവയിൽ stress suffix-ൽ തന്നെ.
+
+| Word | Stress |
+| employee | {em-ploy-EE} |
+| engineer | {en-gi-NEER} |
+| Japanese | {Jap-a-NESE} |
+| technique | {tech-NIQUE} |
+
+EN: Every employee and engineer learned the new technique.
+
+Rule 3: -ize, -ise, -ate എന്നിവയിൽ അവസാനിക്കുന്ന verb-കളിൽ stress സാധാരണ രണ്ടോ മൂന്നോ syllable മുമ്പ്. suffix-ൽ stress ഇല്ല.
+
+| Word | Stress |
+| optimize | {OP-ti-mize} |
+| serialize | {SE-ri-a-lize} |
+| automate | {AU-to-mate} |
+| validate | {VAL-i-date} |
+| integrate | {IN-te-grate} |
+
+EN: We need to optimize, validate and automate the pipeline.
+EN: Integrate the service, then serialize the output.
+
+WARN: സാധാരണ തെറ്റ്: "opti-MIZE", "vali-DATE" എന്ന് അവസാനത്തിൽ ശക്തി കൊടുക്കുന്നത്. -ize, -ate എന്നിവ ചെറുതായി പറയുക.
+
+QUIZ: "scalability" എന്ന വാക്കിൽ stress എവിടെ? || {SCA-la-bil-i-ty} || *{sca-la-BIL-i-ty} || {sca-la-bil-I-ty} || -ity എന്ന suffix-ന് തൊട്ടുമുമ്പുള്ള syllable ആയ BIL-ൽ ആണ് stress.
+
+QUIZ: "Can you update the doc?" എന്ന വാചകത്തിൽ update എങ്ങനെ പറയണം? || *{up-DATE}, കാരണം ഇവിടെ അത് verb ആണ് || {UP-date}, കാരണം എല്ലായ്പ്പോഴും ആദ്യ syllable || രണ്ട് syllable-നും ഒരേ ശക്തി || രണ്ട് syllable ഉള്ള പല വാക്കുകളിലും verb ആണെങ്കിൽ രണ്ടാമത്തെ syllable-ൽ stress. Noun ആയ "a quick update" ആണെങ്കിൽ ആദ്യത്തേതിൽ.
+
+## 3.2 Schwa | ഇംഗ്ലീഷിലെ ഏറ്റവും സാധാരണ ശബ്ദം
+
+### Why it matters | എന്തുകൊണ്ട് പ്രധാനം
+
+Stress ഇല്ലാത്ത syllable-കളിലെ vowel മിക്കവാറും ഒരു ചെറിയ, അയഞ്ഞ "അ" ആയി മാറുന്നു. ഈ ശബ്ദത്തെ schwa എന്ന് വിളിക്കുന്നു. ഇംഗ്ലീഷിൽ ഏറ്റവും കൂടുതൽ കേൾക്കുന്ന ശബ്ദം ഇതാണ്.
+
+മലയാളികൾ എല്ലാ vowel-ഉം എഴുതിയതുപോലെ വ്യക്തമായി പറയുന്നു. "com-PU-ter" എന്നതിലെ "com" "കോം" ആയി പറയും. "a-BOUT" എന്നതിലെ "a" "എ" ആയി പറയും. ഓരോ syllable-നും പൂർണ്ണ ശക്തി കൊടുക്കുമ്പോൾ stressed syllable വേറിട്ട് നിൽക്കില്ല. അതാണ് നമ്മുടെ ഇംഗ്ലീഷ് "robotic" ആയി തോന്നുന്നതിന്റെ പ്രധാന കാരണം. Schwa ഉപയോഗിക്കാൻ തുടങ്ങിയാൽ, stress സ്വയം തെളിഞ്ഞുവരും.
+
+### How to make it | എങ്ങനെ പറയാം
+
+- വായ്, നാവ്, ചുണ്ട് എല്ലാം പൂർണ്ണമായി അയച്ചിടുക.
+- വായ് ചെറുതായി മാത്രം തുറക്കുക.
+- ഒരു ചെറിയ, മടിയുള്ള "അ" പറയുക. ആരോ ചോദ്യം ചോദിച്ചപ്പോൾ ആലോചിക്കുന്ന "അ...". പക്ഷേ വളരെ ചെറുത്.
+- ഇത് വേഗത്തിലും ദുർബലമായും പറയണം. ഒരിക്കലും stress കൊടുക്കരുത്.
+
+| Word | Sounds like |
+| about | {uh-BOUT} |
+| problem | {PROB-lum} |
+| computer | {kum-PYOO-ter} |
+| data | {DAY-tuh} |
+| system | {SIS-tum} |
+| police | {puh-LEES} |
+| today | {tuh-DAY} |
+| Python | {PIE-thun} |
+
+EN: about, problem, computer, data, system, police, today, Python.
+EN: Today, the system had a problem with the data.
+EN: What about the Python version on the computer?
+
+WARN: സാധാരണ തെറ്റ്: Python എന്നതിനെ "പൈ-തോൺ" എന്ന് രണ്ട് syllable-നും ഒരേ ശക്തിയിൽ പറയുന്നത്. രണ്ടാമത്തേത് ചെറിയ schwa ആണ്. system എന്നത് "സിസ്-റ്റം" അല്ല, "SIS-tum".
+
+DRILL: 3.2 | Find the schwa
+ഓരോ വാക്കിലും stressed syllable നീട്ടി, ബാക്കി ചെറിയ "അ" ആക്കി പറയുക. ഓരോന്നും 3 തവണ.
+
+EN: banana, Canada, America, potato, tomorrow.
+EN: production, condition, support, problem, solution.
+EN: The production support problem was solved today.
+EN: Tomorrow, we'll compare the two solutions.
+END
+
+TIP: Self-check: "Canada" എന്ന് പറയുക. ആദ്യ "Ca" മാത്രം വ്യക്തം, ബാക്കി രണ്ടും ചെറിയ "അ" ആയി കേൾക്കുന്നുണ്ടോ? "ക-ന-ഡ" എന്ന് മൂന്നും ഒരുപോലെയാണെങ്കിൽ വീണ്ടും ശ്രമിക്കുക.
+
+## 3.3 Sentence stress | Content words and function words
+
+### Why it matters | എന്തുകൊണ്ട് പ്രധാനം
+
+വാക്കിനുള്ളിൽ stress ഉള്ളതുപോലെ, വാചകത്തിനുള്ളിലും stress ഉണ്ട്. അർത്ഥം നൽകുന്ന വാക്കുകൾക്ക് stress. Grammar-ന് വേണ്ടിയുള്ള ചെറിയ വാക്കുകൾ ദുർബലമായി, വേഗത്തിൽ.
+
+ഇത് കേൾക്കുന്നയാൾക്ക് വളരെ സഹായകമാണ്. Stressed വാക്കുകൾ മാത്രം കേട്ടാലും അവർക്ക് ആശയം മനസ്സിലാകും. ഒരു telegram പോലെ. എല്ലാ വാക്കും ഒരേ ശക്തിയിൽ പറഞ്ഞാൽ, ഏതാണ് പ്രധാനം എന്ന് അവർ സ്വയം കണ്ടെത്തണം. അത് ക്ഷീണിപ്പിക്കും.
+
+| Content words (stressed) | Function words (weak) |
+| nouns: database, cluster | articles: a, an, the |
+| main verbs: moved, dropped | prepositions: to, of, for, at, by |
+| adjectives: new, slow | conjunctions: and, but, or |
+| numbers: forty, three | helping verbs: is, was, can, have |
+| negatives: not, never, can't | pronouns: it, we, they |
+
+EN: We **moved** the **database** to a **new cluster**, and the **latency dropped** by **forty percent**.
+
+ഈ വാചകത്തിൽ bold ആയ വാക്കുകൾ മാത്രം വായിച്ചുനോക്കുക: moved, database, new cluster, latency dropped, forty percent. ആശയം മുഴുവൻ കിട്ടി, അല്ലേ?
+
+ബാക്കി വാക്കുകൾ ചെറുതാകും. "to a" എന്നത് ഏകദേശം "tuh-uh". "and the" എന്നത് "un-thuh". "by" ചെറുതായി. ഒരു ഡ്രം താളം പോലെ: DUM da da DUM da DUM.
+
+NOTE: Function words ദുർബലമാകുമ്പോൾ അവയും schwa ആയി മാറുന്നു. "to" എന്നത് "tuh", "for" എന്നത് "fer", "and" എന്നത് "un", "can" എന്നത് "kun". ഇവ എഴുതിയതുപോലെ പൂർണ്ണമായി പറയേണ്ട.
+
+EN: I **need** to **check** the **logs** for **errors**.
+EN: Can you **send** me the **link** after the **call**?
+EN: The **build** was **green**, but the **tests** were **slow**.
+
+WARN: Negative വാക്കുകൾ ശ്രദ്ധിക്കുക. "can" എന്നത് ദുർബലവും ചെറുതും ആണ്. "can't" എപ്പോഴും stressed ആണ്, നീളത്തിൽ. ഇത് തെറ്റിയാൽ "I can do it" എന്നതും "I can't do it" എന്നതും ഒരുപോലെ കേൾക്കും. അർത്ഥം നേരെ വിപരീതം.
+
+EN: I can do it by Friday.
+EN: I **can't** do it by Friday.
+
+DRILL: 3.3 | Contrastive stress
+Meeting-കളിൽ വളരെ ഉപയോഗപ്രദമായ ഒരു കഴിവാണിത്. ഒരേ വാചകം, stress മാറുമ്പോൾ അർത്ഥം മാറുന്നു. ഓരോന്നും 3 തവണ, bold ആയ വാക്കിന് കൂടുതൽ ശക്തിയും നീളവും കൊടുത്ത്.
+
+EN: **I** didn't break the build.
+ഇതിന്റെ അർത്ഥം: ഞാനല്ല, മറ്റാരോ ആണ് ചെയ്തത്.
+
+EN: I **didn't** break the build.
+ഇതിന്റെ അർത്ഥം: ഞാൻ ചെയ്തിട്ടില്ല, ഉറപ്പ്.
+
+EN: I didn't break the **build**.
+ഇതിന്റെ അർത്ഥം: ഞാൻ build അല്ല, മറ്റെന്തോ ആണ് പൊട്ടിച്ചത്.
+
+ഇനി tech വാചകങ്ങളിൽ.
+
+EN: The bug is in the **frontend**, not the backend.
+EN: I said **Tuesday**, not Thursday.
+EN: We need **three** nodes, not two.
+END
+
+TIP: Self-check: ഒരു ഇംഗ്ലീഷ് വാചകം എഴുതി, content words-ന് അടിവരയിടുക. പിന്നെ അവയ്ക്ക് മാത്രം ശക്തി കൊടുത്ത് റെക്കോർഡ് ചെയ്യുക. ഒരു ഡ്രം താളം കേൾക്കുന്നുണ്ടോ?
+
+## 3.4 Linking | വാക്കുകൾ ചേർത്ത് പറയുക
+
+### Why it matters | എന്തുകൊണ്ട് പ്രധാനം
+
+Native speakers വാക്കുകൾ ഓരോന്നായി വേർതിരിച്ച് പറയുന്നില്ല. ഒരു വാചകം ഒരു നീണ്ട ഒഴുക്കായാണ് വരുന്നത്. നമ്മൾ ഓരോ വാക്കും വേറെ വേറെ പറയുമ്പോൾ, പലപ്പോഴും അവസാനം ഒരു "ഉ" ചേർത്ത്, സംസാരം മുറിഞ്ഞുമുറിഞ്ഞ് കേൾക്കും. Linking പഠിക്കുന്നത് രണ്ട് കാര്യങ്ങൾക്ക് സഹായിക്കും. നിങ്ങളുടെ സംസാരം സ്വാഭാവികമാകും. Native speakers വേഗത്തിൽ സംസാരിക്കുമ്പോൾ അവരെ മനസ്സിലാക്കാനും എളുപ്പമാകും.
+
+### The main rule | പ്രധാന നിയമം
+
+ഒരു വാക്ക് consonant-ൽ അവസാനിക്കുകയും അടുത്ത വാക്ക് vowel-ൽ തുടങ്ങുകയും ചെയ്താൽ, ആ consonant അടുത്ത വാക്കിലേക്ക് നീങ്ങുന്നു. രണ്ട് വാക്കും ഒന്നായി കേൾക്കും.
+
+| Written | Sounds like |
+| turn it off | tur-ni-toff |
+| pick it up | pi-ki-tup |
+| log in | lo-gin |
+| set it up | se-di-dup (US) |
+| an issue | a-nissue |
+| what are you | wha-da-ya |
+| check it out | che-ki-tout |
+
+EN: Turn it off and on again.
+EN: Can you pick it up from here?
+EN: Please log in and set it up.
+EN: We found an issue in the API.
+EN: What are you working on?
+
+NOTE: Chapter 2-ലെ "അവസാനത്തെ ഉ വേണ്ട" എന്ന നിയമം ഇവിടെ പ്രധാനമാണ്. "turn-u it-u off-u" എന്ന് പറഞ്ഞാൽ linking ഒരിക്കലും നടക്കില്ല.
+
+DRILL: 3.4 | Link the words
+ആദ്യം ഓരോ വാക്കും പതുക്കെ വേറെ വേറെ പറയുക. പിന്നെ ചേർത്ത്, ഒറ്റ വാക്ക് പോലെ, സാധാരണ വേഗത്തിൽ. App-ൽ കേട്ട് shadow ചെയ്യുക.
+
+EN: Look at it. Log out. Back up all of it.
+EN: Let me check it out and get back to you.
+EN: Is it an internal issue or an external one?
+EN: Just pick it up after an hour.
+END
+
+TIP: Self-check: "Is it an issue?" എന്ന് റെക്കോർഡ് ചെയ്യുക. നാല് വാക്കും ഒരു ഒഴുക്കായി കേൾക്കുന്നുണ്ടോ, അതോ നാല് കഷണങ്ങളായോ?
+
+## 3.5 Intonation | ചോദ്യങ്ങളും ഉറപ്പും
+
+### Why it matters | എന്തുകൊണ്ട് പ്രധാനം
+
+Intonation എന്നാൽ വാചകത്തിലെ ശബ്ദത്തിന്റെ ഉയർച്ചയും താഴ്ചയും ആണ്. വാക്കുകൾ ഒന്നുതന്നെയായാലും, intonation മാറിയാൽ അർത്ഥവും മനോഭാവവും മാറും. ഒരു വാചകത്തിന്റെ അവസാനം ശബ്ദം ഉയർന്നാൽ കേൾക്കുന്നയാൾ അത് ഒരു ചോദ്യമായോ ഉറപ്പില്ലായ്മയായോ എടുക്കും. താഴ്ന്നാൽ ഉറപ്പായി, തീരുമാനമായി എടുക്കും. ഇന്റർവ്യൂകളിലും ക്ലയന്റ് കോളുകളിലും നിങ്ങളെക്കുറിച്ചുള്ള അഭിപ്രായം ഉണ്ടാക്കുന്നതിൽ ഇതിന് വലിയ പങ്കുണ്ട്.
+
+### Four patterns | നാല് രീതികൾ
+
+Yes or No questions: അവസാനം ശബ്ദം ഉയരുന്നു.
+
+EN: Is the deployment done?
+EN: Can you share your screen?
+EN: Did the tests pass?
+
+Wh questions, അതായത് what, why, how, when, where, who: അവസാനം ശബ്ദം താഴുന്നു. ഇവ ഉയർത്തേണ്ട.
+
+EN: What's the root cause?
+EN: When can we ship it?
+EN: How long will it take?
+
+Statements: അവസാനം താഴ്ന്ന് അവസാനിക്കണം. ഉയർന്ന് അവസാനിച്ചാൽ ഉറപ്പില്ലാത്തതുപോലെ, അനുവാദം ചോദിക്കുന്നതുപോലെ തോന്നും. നിങ്ങളുടെ estimate, rate, salary expectation എന്നിവ പറയുമ്പോൾ ഇത് പ്രത്യേകിച്ച് പ്രധാനം. ചോദ്യം പോലെ ഉയർത്തിയാൽ, മറുവശം അത് കുറയ്ക്കാൻ ശ്രമിക്കും.
+
+EN: Our estimate for this phase is six weeks.
+EN: My expected salary is within the range we discussed.
+EN: The root cause was a memory leak.
+
+Lists: ഓരോ ഇനത്തിലും ശബ്ദം ചെറുതായി ഉയരും. അവസാന ഇനത്തിൽ മാത്രം താഴും. അത് കേൾക്കുന്നയാൾക്ക് "ലിസ്റ്റ് തീർന്നു" എന്ന സൂചന നൽകുന്നു.
+
+EN: We use Python, FastAPI, and Postgres.
+EN: I worked on search, ranking, and evaluation.
+
+WARN: മലയാളി ശീലം: "Right?", "No?", "isn't it?" എന്ന് എല്ലാ വാചകത്തിന്റെയും അവസാനം ചേർക്കുന്നത്. ഇത് ഉറപ്പില്ലായ്മ കാണിക്കുന്നു. ഒരു പ്രസ്താവന പറഞ്ഞ് നിർത്തുക. Pause ചെയ്യുന്നത് ആത്മവിശ്വാസമാണ്. നിശബ്ദത നിറയ്ക്കേണ്ട ആവശ്യമില്ല.
+
+EN: The fix is ready. I'll deploy it after lunch.
+
+DRILL: 3.5 | Rise and fall
+ഓരോ വാചകവും app-ൽ കേൾക്കുക. ശബ്ദം ഉയരുന്നത് കൈ ഉയർത്തിയും, താഴുന്നത് കൈ താഴ്ത്തിയും കാണിച്ച് shadow ചെയ്യുക.
+
+EN: Is the API down?
+EN: Why is the API down?
+EN: The API is down.
+EN: We checked the logs, the metrics, and the traces.
+EN: My rate for this project is eighty dollars an hour.
+END
+
+TIP: Self-check: "My rate is eighty dollars an hour" എന്ന് റെക്കോർഡ് ചെയ്യുക. അവസാനം ശബ്ദം താഴുന്നുണ്ടോ? അതോ ഒരു ചോദ്യം പോലെ ഉയരുന്നുണ്ടോ? ഉറപ്പോടെ താഴുന്നതുവരെ ആവർത്തിക്കുക.
+
+QUIZ: നിങ്ങളുടെ estimate പറയുമ്പോൾ വാചകത്തിന്റെ അവസാനം ശബ്ദം എങ്ങനെ? || ചോദ്യം പോലെ ഉയർത്തണം || *താഴ്ത്തി, ഉറപ്പോടെ അവസാനിപ്പിക്കണം || അവസാനം "right?" ചേർക്കണം || Statement താഴ്ന്ന് അവസാനിക്കുമ്പോൾ ഉറപ്പായി തോന്നും. ഉയർന്നാൽ നിങ്ങൾക്ക് തന്നെ ഉറപ്പില്ല എന്ന സന്ദേശം കൊടുക്കും.
+
+## 3.6 Speed | വേഗം കുറയ്ക്കുക, pause കൂട്ടുക
+
+### Why it matters | എന്തുകൊണ്ട് പ്രധാനം
+
+നമ്മൾ മലയാളത്തിൽ വേഗത്തിൽ സംസാരിക്കുന്നവരാണ്. ആ വേഗം ഇംഗ്ലീഷിലേക്കും കൊണ്ടുവരുന്നു. പരിഭ്രമം വരുമ്പോൾ, പ്രത്യേകിച്ച് ഇന്റർവ്യൂകളിൽ, വേഗം ഇനിയും കൂടും. ഒരു വിദേശിക്ക് നമ്മുടെ accent-ഉം ശീലിച്ചിട്ടില്ല. Accent-ഉം വേഗവും ഒരുമിച്ച് വരുമ്പോൾ മനസ്സിലാക്കാൻ വളരെ പ്രയാസം.
+
+വേഗം കുറച്ചാൽ മൂന്ന് ഗുണങ്ങൾ. കേൾക്കുന്നയാൾക്ക് മനസ്സിലാക്കാൻ സമയം കിട്ടും. നിങ്ങൾക്ക് അടുത്ത വാചകം ആലോചിക്കാൻ സമയം കിട്ടും. നിങ്ങൾ ശാന്തനും ആത്മവിശ്വാസമുള്ളവനുമായി തോന്നും.
+
+### The target | ലക്ഷ്യം
+
+- ഇംഗ്ലീഷിൽ മിനിറ്റിൽ ഏകദേശം 130 മുതൽ 150 വരെ വാക്കുകൾ ആണ് ലക്ഷ്യം.
+- ഓരോ ആശയത്തിനും ശേഷം ഒരു ചെറിയ pause. ഇതിനെ thought groups എന്ന് പറയുന്നു. Chapter 6-ൽ വിശദമായി പഠിക്കും.
+- 60 സെക്കൻഡ് intro-യിൽ ഏകദേശം 140 വാക്കുകൾ മാത്രം. അതിൽ കൂടുതൽ ആണെങ്കിൽ നിങ്ങൾ വളരെ വേഗത്തിലാണ്.
+
+EN: Hi, I'm Arun, / an AI engineer from Kochi. / I build speech and language systems. / Most recently, / I built an on-prem RAG platform / for a client.
+
+ചരിഞ്ഞ വരയുള്ള സ്ഥലങ്ങളിൽ ഒരു ചെറിയ pause എടുക്കുക. ഒരു ശ്വാസം എടുക്കാനുള്ള സമയം മതി.
+
+DRILL: 3.6 | Measure your speed
+1. നിങ്ങളുടെ "Tell me about yourself" ഉത്തരം 60 സെക്കൻഡ് റെക്കോർഡ് ചെയ്യുക.
+2. Recording ടൈപ്പ് ചെയ്യുക, അല്ലെങ്കിൽ ഒരു transcription tool ഉപയോഗിക്കുക. വാക്കുകൾ എണ്ണുക.
+3. 160-ൽ കൂടുതലാണെങ്കിൽ, ഓരോ ആശയത്തിനും ശേഷം pause ചേർത്ത് വീണ്ടും റെക്കോർഡ് ചെയ്യുക.
+4. 140 ന് അടുത്ത് വരുന്നതുവരെ ആവർത്തിക്കുക.
+
+EN: I have five years of experience / in machine learning. / I've worked on search, / speech, / and document AI. / Right now, / I'm looking for a role / where I can own a product end to end.
+END
+
+TIP: Self-check: ഒരു വാചകം അവസാനിക്കുമ്പോൾ നിങ്ങൾ ശ്വാസം എടുക്കുന്നുണ്ടോ? ഒരു ശ്വാസത്തിൽ മൂന്ന് വാചകം പറയുന്നുണ്ടെങ്കിൽ, വേഗം കൂടുതലാണ്.
+
+## 3.7 Putting it together | എല്ലാം ഒരുമിച്ച്
+
+ഈ അധ്യായത്തിലെ ആറ് കാര്യങ്ങളും ഒരു ചെറിയ ഖണ്ഡികയിൽ പരിശീലിക്കാം. ആദ്യം app-ൽ കേൾക്കുക. പിന്നെ വാക്കുകളുടെ stress, bold ആയ content words, linking, അവസാനത്തിലെ താഴ്ച, pause എന്നിവ ശ്രദ്ധിച്ച് shadow ചെയ്യുക.
+
+EN: Last **quarter**, / we **moved** our **search** to a **new cluster**. / The **latency dropped** by **forty percent**, / and **costs** went **down** by **half**. / **Next**, / we **plan** to **automate** the **evaluation** pipeline.
+
+TIP: ഈ ഖണ്ഡിക ഒരു ആഴ്ച ദിവസവും ഒരു തവണ റെക്കോർഡ് ചെയ്യുക. ഏഴാം ദിവസത്തെ recording ഒന്നാം ദിവസത്തേതുമായി താരതമ്യം ചെയ്യുക.
+
+QUIZ: മലയാളികളുടെ ഇംഗ്ലീഷ് "robotic" ആയി തോന്നാനുള്ള പ്രധാന കാരണം എന്ത്? || V, W ശബ്ദങ്ങൾ || *എല്ലാ syllable-നും ഒരേ ശക്തി കൊടുക്കുന്നതും schwa ഉപയോഗിക്കാത്തതും || വളരെ പതുക്കെ സംസാരിക്കുന്നത് || മലയാളം syllable-timed ആണ്. ഇംഗ്ലീഷിൽ stressed syllable നീട്ടി, ബാക്കി schwa ആക്കി ചെറുതാക്കുമ്പോഴാണ് സ്വാഭാവിക താളം വരുന്നത്.
+
+ശബ്ദങ്ങളും താളവും ഇപ്പോൾ നിങ്ങളുടെ കയ്യിലുണ്ട്. അടുത്ത അധ്യായത്തിൽ, നമ്മൾ ദിവസവും പറയുന്ന 90-ലധികം tech words ശരിയായ stress-ഓടെ പഠിക്കാം.

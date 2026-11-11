@@ -1,0 +1,363 @@
+# 7 | Workplace English | ജോലിസ്ഥലത്തെ ഇംഗ്ലീഷ്
+SUMMARY: ശമ്പളവും promotion-ഉം കൂടുന്നത് code നന്നായതുകൊണ്ട് മാത്രമല്ല, നിങ്ങളുടെ ജോലി മറ്റുള്ളവർ കാണുകയും മനസ്സിലാക്കുകയും ചെയ്യുമ്പോഴാണ്. Stand-up മുതൽ client call വരെ, ദിവസവും വരുന്ന സന്ദർഭങ്ങളിൽ എന്ത് പറയണം, എങ്ങനെ പറയണം എന്ന് ഈ അധ്യായത്തിൽ പഠിക്കാം.
+
+## 7.0 Why this chapter matters | എന്തുകൊണ്ട് ഈ അധ്യായം
+
+നമ്മളിൽ പലരും നല്ല engineers ആണ്. പക്ഷേ appraisal സമയത്ത് കേൾക്കുന്നത് ഇതൊക്കെയാണ്: "communication gap ഉണ്ട്", "prioritisation ശരിയല്ല", "visibility കുറവാണ്".
+
+ഇതിന്റെ കാരണം മിക്കപ്പോഴും കഴിവില്ലായ്മ അല്ല. നമ്മൾ ചെയ്യുന്നത് ശരിയായ സമയത്ത്, ശരിയായ രീതിയിൽ പറയാത്തതാണ്.
+
+നമ്മുടെ നാട്ടിലെ ശീലം "പണി ചെയ്യുക, മിണ്ടാതിരിക്കുക" എന്നതാണ്. Global teams-ൽ അത് മറിച്ചാണ്. അവിടെ നിങ്ങൾ പറയാത്ത ജോലി, നടക്കാത്ത ജോലി പോലെയാണ്.
+
+ഈ അധ്യായത്തിലെ ഓരോ ഭാഗത്തും നാല് കാര്യങ്ങൾ ഉണ്ട്. എന്തുകൊണ്ട് ഇത് പ്രധാനം. നമ്മൾ സാധാരണ ചെയ്യുന്ന തെറ്റ്. പറയാനുള്ള phrases. പിന്നെ ഒരു ചെറിയ dialogue.
+
+TIP: ഈ phrases മനഃപാഠമാക്കേണ്ട. ഉറക്കെ മൂന്നോ നാലോ തവണ പറഞ്ഞാൽ മതി. അടുത്ത meeting-ൽ ഒരെണ്ണം എങ്കിലും ഉപയോഗിക്കുക.
+
+## 7.1 Stand-up updates | 30 സെക്കൻഡിലെ update
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+Daily stand-up ആണ് നിങ്ങളുടെ lead-ഉം team-ഉം നിങ്ങളെ ഏറ്റവും കൂടുതൽ കേൾക്കുന്ന സമയം. ദിവസവും 30 സെക്കൻഡ്. ഒരു വർഷം കൊണ്ട് അത് നൂറുകണക്കിന് ചെറിയ "impressions" ആണ്.
+
+വ്യക്തമായ update പറയുന്ന ആൾ, "ഇയാൾക്ക് കാര്യങ്ങൾ control-ൽ ഉണ്ട്" എന്ന തോന്നൽ ഉണ്ടാക്കുന്നു. അതാണ് ownership.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: "Yesterday I was working on that ticket. Today also I will continue the same. No blockers." ഇതാണ് ഏറ്റവും സാധാരണ update. ഇതിൽ ഒരു വിവരവും ഇല്ല. എന്ത് തീർന്നു, എന്ത് ബാക്കി, എപ്പോൾ തീരും എന്ന് ആർക്കും മനസ്സിലാകില്ല.
+
+രണ്ടാമത്തെ തെറ്റ്: blocker ഉണ്ടെങ്കിലും "no blockers" എന്ന് പറയുക. പിന്നീട് deadline-ന്റെ തലേന്ന് "ഇത് കിട്ടാത്തതുകൊണ്ട് പറ്റിയില്ല" എന്ന് പറയുക. അത് വിശ്വാസം കുറയ്ക്കും.
+
+### Formula: Done, Doing, Blocker
+
+1. Done: ഇന്നലെ എന്ത് പൂർത്തിയായി. എവിടെ എത്തി, staging-ലോ production-ലോ.
+2. Doing: ഇന്ന് എന്ത് ചെയ്യും. സാധിക്കുമെങ്കിൽ ഒരു number.
+3. Blocker: എന്ത് വേണം, ആരിൽ നിന്ന്, എന്ന് മുമ്പ്, ഇല്ലെങ്കിൽ എന്ത് സംഭവിക്കും.
+
+EN: Yesterday I finished the retry logic for the transcription queue, / and it's on staging.
+EN: Today I'm load-testing it with two thousand jobs.
+EN: One blocker: / I need the production GPU quota confirmed by Thursday, / otherwise the release moves to next week.
+
+ശ്രദ്ധിക്കുക: blocker-ന് ഒരു തീയതിയും ഒരു പ്രത്യാഘാതവും ഉണ്ട്. "Thursday-ക്കുള്ളിൽ കിട്ടിയില്ലെങ്കിൽ release നീങ്ങും." ഇത് കേൾക്കുന്ന lead-ന് എന്ത് ചെയ്യണം എന്ന് കൃത്യമായി അറിയാം.
+
+### Useful phrases
+
+EN: I'm on track for Friday.
+EN: This is taking longer than I expected, / because the test data was incomplete. / New estimate: Monday.
+EN: No blockers right now, / but I'll need a review from Priya by tomorrow afternoon.
+EN: I'll take the details offline with Rahul after the call.
+EN: Nothing new since yesterday; / still debugging the memory leak. / I'll ask for help if it's not fixed by noon.
+
+TIP: "I'll take this offline" എന്നതിന്റെ അർത്ഥം: ഇത് ഇപ്പോൾ എല്ലാവരുടെയും സമയം കളയാതെ, പിന്നീട് ബന്ധപ്പെട്ട ആളുമായി മാത്രം സംസാരിക്കാം. Stand-up ചെറുതാക്കാൻ ഇത് വളരെ ഉപകാരപ്രദം.
+
+### Mini-dialogue
+
+EN: Lead: Arun, you're up.
+EN: Arun: Yesterday I finished the retry logic, and it's on staging. Today I'm load-testing it. One blocker: I need the GPU quota confirmed by Thursday.
+EN: Lead: Okay. Who owns the quota request?
+EN: Arun: The infra team. I raised the ticket on Monday. Could you nudge them if there's no reply by tomorrow?
+EN: Lead: Sure, I'll follow up.
+
+ഇവിടെ Arun പ്രശ്നം പറയുക മാത്രമല്ല, എന്ത് സഹായം വേണം എന്നും പറഞ്ഞു. അതാണ് വ്യത്യാസം.
+
+## 7.2 Confirming requirements in writing | മനസ്സിലാക്കിയത് എഴുതി ഉറപ്പിക്കുക
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+ഒരു engineer-ന്റെ ഏറ്റവും വലിയ സമയനഷ്ടം തെറ്റായ കാര്യം നന്നായി build ചെയ്യുന്നതാണ്. രണ്ടാഴ്ച പണിയെടുത്തിട്ട് "ഞങ്ങൾ ഉദ്ദേശിച്ചത് ഇതല്ല" എന്ന് കേൾക്കുന്നത് ഏറ്റവും വേദനാജനകമാണ്.
+
+ഏത് പുതിയ ജോലിയും തുടങ്ങുന്നതിന് മുമ്പ്, നിങ്ങൾ മനസ്സിലാക്കിയത് ചുരുക്കി എഴുതി, ഒരു "yes" വാങ്ങുക. ഇത് നിങ്ങളെ സംരക്ഷിക്കും. പിന്നീട് തർക്കം വന്നാൽ, ആ message തന്നെ തെളിവാണ്.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: Meeting-ൽ മനസ്സിലായില്ലെങ്കിലും "okay, okay" എന്ന് തലയാട്ടുക. ചോദിച്ചാൽ മണ്ടനാണെന്ന് തോന്നുമോ എന്ന പേടി. പിന്നെ സ്വന്തം ഊഹം വെച്ച് build ചെയ്യുക.
+
+സത്യത്തിൽ, confirm ചെയ്യുന്ന ആളെയാണ് senior ആയി കാണുന്നത്. ചോദ്യം ചോദിക്കുന്നത് ദൗർബല്യമല്ല, professionalism ആണ്.
+
+### The confirmation message
+
+ഈ ഘടന ഓർക്കുക: ലക്ഷ്യം, എന്ത് ചെയ്യും, എന്ത് ചെയ്യില്ല, എപ്പോൾ, പിന്നെ "തെറ്റുണ്ടെങ്കിൽ പറയൂ".
+
+EN: Just to confirm my understanding before I start: / we'll deploy the new service on its own, / route only voicemail traffic to its API, / and leave call recordings on the current pipeline. / Target: staging by Friday. / Let me know if I've got anything wrong.
+
+"Let me know if I've got anything wrong" എന്ന അവസാന വരി വളരെ പ്രധാനം. അത് മറുപടി പറയാൻ ഒരു എളുപ്പ വഴി കൊടുക്കുന്നു.
+
+### Useful phrases
+
+EN: So the goal is faster search, / and success means results in under one second. / Is that right?
+EN: What's out of scope for this release?
+EN: Who has the final say on the architecture here?
+EN: Can I summarise what we agreed in Slack, / so everyone's aligned?
+EN: Is this a must-have for the first version, / or a nice-to-have?
+
+TIP: "Out of scope" ചോദ്യം ഒരിക്കലും വിട്ടുകളയരുത്. എന്ത് ചെയ്യണ്ട എന്ന് അറിയുന്നത്, എന്ത് ചെയ്യണം എന്ന് അറിയുന്നതിനേക്കാൾ സമയം ലാഭിക്കും.
+
+### Mini-dialogue
+
+EN: Manager: We need the new search feature for the client demo.
+EN: Arun: Sure. Just to make sure I build the right thing: is it search over the product documents only, or the support tickets as well?
+EN: Manager: Documents only for now.
+EN: Arun: Got it. And the demo is on Thursday?
+EN: Manager: Yes, Thursday morning.
+EN: Arun: Great. I'll write a short summary in the channel, so we're all on the same page.
+
+Meeting കഴിഞ്ഞ ഉടൻ Arun channel-ൽ ഇങ്ങനെ എഴുതും:
+
+EN: Summary of today's call: search over product documents only, support tickets are out of scope. Demo on Thursday morning. I'll have it on staging by Wednesday evening. Please correct me if I missed anything.
+
+## 7.3 Prioritising | "ഇല്ല" എന്ന് പറയാതെ "ഇല്ല" എന്ന് പറയുക
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+എല്ലാം ഏറ്റെടുക്കുന്ന ആൾ അവസാനം ഒന്നും സമയത്ത് തീർക്കില്ല. അപ്പോൾ "reliable അല്ല" എന്ന പേര് വരും. പക്ഷേ നേരിട്ട് "no" പറഞ്ഞാൽ "team player അല്ല" എന്നും തോന്നാം.
+
+പരിഹാരം: "no" പറയരുത്. Trade-off കാണിക്കുക. തീരുമാനം അവർക്ക് വിട്ടുകൊടുക്കുക. അപ്പോൾ നിങ്ങൾ സഹായിക്കാൻ തയ്യാറാണ്, പക്ഷേ നിങ്ങളുടെ സമയത്തിന് ഒരു പരിധി ഉണ്ട് എന്ന് അവർക്ക് മനസ്സിലാകും.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: "Yes sir, I will do" എന്ന് എല്ലാറ്റിനും പറയുക. എന്നിട്ട് രാത്രി വൈകി ഇരുന്ന് പണിയെടുക്കുക. എന്നിട്ടും deadline തെറ്റുക. ഈ "yes" ആരെയും സഹായിക്കുന്നില്ല, നിങ്ങളെ പോലും.
+
+### Useful phrases
+
+EN: Happy to take this on. / Right now I'm on the client release for Friday / and the GPU migration. / Which one should move, / so I can pick this up?
+EN: I can do it by Thursday, / or today if we push the dashboard work. / Which do you prefer?
+EN: I can't do all three this week. / Here's what I suggest: / A today, / B on Wednesday, / C next week.
+EN: If this is urgent, / I'll need someone to cover the code review.
+EN: Let me check my plate / and get back to you in an hour / with a realistic date.
+
+"Which one should move?" എന്നതാണ് ഇവിടത്തെ magic ചോദ്യം. നിങ്ങൾ "no" പറഞ്ഞില്ല. നിങ്ങൾ അവരോട് priority തീരുമാനിക്കാൻ ആവശ്യപ്പെട്ടു. അതാണ് lead-ന്റെ ജോലിയും.
+
+NOTE: "Plate" എന്നാൽ ഇവിടെ നിങ്ങളുടെ കയ്യിലുള്ള ജോലികൾ. "My plate is full" എന്നാൽ ഇപ്പോൾ ഒരുപാട് ജോലിയുണ്ട്.
+
+### Mini-dialogue
+
+EN: Lead: Arun, can you also look into the billing bug today?
+EN: Arun: Happy to. Right now I'm finishing the release for Friday. If I take the billing bug today, the release moves to Monday. Which one is more important?
+EN: Lead: Hmm. The release can't move.
+EN: Arun: Okay. Then I'll start the billing bug on Friday afternoon, right after the release. Does that work?
+EN: Lead: Yes, that works. Thanks.
+
+## 7.4 Disagreeing politely | മാന്യമായി വിയോജിക്കുക
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+Senior engineer ആകാൻ, തെറ്റായ തീരുമാനം കാണുമ്പോൾ അത് പറയാൻ കഴിയണം. മിണ്ടാതിരുന്നാൽ, പിന്നീട് പ്രശ്നം വരുമ്പോൾ "നിങ്ങൾക്ക് അറിയാമായിരുന്നില്ലേ?" എന്ന ചോദ്യം വരും.
+
+പക്ഷേ എങ്ങനെ പറയുന്നു എന്നത് വളരെ പ്രധാനം. ആളെ അല്ല, ആശയത്തെ ആണ് ചോദ്യം ചെയ്യേണ്ടത്. അഭിപ്രായം അല്ല, data കൊണ്ട് സംസാരിക്കുക.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: രണ്ട് അറ്റങ്ങൾ. ഒന്ന്: senior പറഞ്ഞാൽ തെറ്റാണെന്ന് അറിഞ്ഞിട്ടും മിണ്ടാതിരിക്കുക. രണ്ട്: "No, that is wrong" എന്ന് നേരിട്ട്, മൂർച്ചയോടെ പറയുക. ഇംഗ്ലീഷിൽ ഇത് വളരെ rude ആയി കേൾക്കും.
+
+ഇതിന് ഇടയിലുള്ള വഴി: ആദ്യം അവരുടെ point അംഗീകരിക്കുക. പിന്നെ നിങ്ങളുടെ ആശങ്ക, ഒരു number-ഓടെ. അവസാനം ഒരു പരീക്ഷണം നിർദ്ദേശിക്കുക.
+
+### Useful phrases
+
+EN: I see the point. / My concern is the latency: / in our last test, / it went from one point eight to four seconds.
+EN: Could we try a quick experiment before deciding? / I can have numbers by tomorrow.
+EN: I'd suggest a different approach, / and here's why.
+EN: I may be missing something. / Can you walk me through the reasoning?
+EN: I'm happy to go with this. / I just want to flag the risk, / so we're not surprised later.
+
+"I just want to flag the risk" എന്ന വാചകം ശ്രദ്ധിക്കുക. തീരുമാനം അവരുടേത് ആണെങ്കിലും, നിങ്ങൾ മുന്നറിയിപ്പ് കൊടുത്തു എന്ന് രേഖയായി. "Disagree and commit" എന്നാണ് ഇതിനെ പറയുന്നത്.
+
+### Mini-dialogue
+
+EN: Architect: Let's just use the largest model for everything. It's simpler.
+EN: Arun: I see the point, it's definitely simpler. My concern is cost and latency. In our last test, the large model was three times slower.
+EN: Architect: But the quality is better.
+EN: Arun: True for complex questions. For simple ones, the small model scored almost the same. Could I run a quick comparison on a hundred real queries? I can share the numbers tomorrow.
+EN: Architect: Okay, let's see the numbers first.
+
+## 7.5 When you don't understand | മനസ്സിലാകാത്തപ്പോൾ
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+US, UK, Australian accents. വേഗത്തിലുള്ള സംസാരം. മോശം audio. ഇതൊക്കെ കാരണം call-ൽ എല്ലാം മനസ്സിലാകില്ല. അത് സാധാരണമാണ്. Native speakers പോലും ഇടയ്ക്ക് "sorry, say that again?" എന്ന് ചോദിക്കാറുണ്ട്.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: മനസ്സിലായില്ലെങ്കിലും "yes, yes" പറയുക. പിന്നീട് തെറ്റായ കാര്യം ചെയ്യുക. അല്ലെങ്കിൽ "What?" എന്ന് മാത്രം ചോദിക്കുക, അത് rude ആയി കേൾക്കും.
+
+### Useful phrases
+
+EN: Sorry, / could you say that again? / The audio cut out.
+EN: Just to make sure I understood: / you mean we should cache the results per user?
+EN: Could you give me an example?
+EN: Could you spell that for me?
+EN: Sorry, / could you slow down a little? / I want to make sure I get the details right.
+
+TIP: "The audio cut out" ആണ് call-ൽ ഏറ്റവും സുരക്ഷിതമായ വഴി. ആർക്കും വിഷമം തോന്നില്ല. പേരുകൾക്കും product names-നും "Could you spell that?" ഉപയോഗിക്കുക.
+
+### Mini-dialogue
+
+EN: Client: We'll need the webhook to hit our endpoint with an idempotency key.
+EN: Arun: Sorry, the audio cut out for a second. Could you say the last part again?
+EN: Client: Each webhook call should include an idempotency key.
+EN: Arun: Got it. Just to make sure I understood: if you receive the same key twice, you'll ignore the second call?
+EN: Client: Exactly.
+
+## 7.6 Bad news and incidents | മോശം വാർത്ത പറയുമ്പോൾ
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+Production-ൽ പ്രശ്നം വരും. അത് ഒഴിവാക്കാൻ പറ്റില്ല. പക്ഷേ എങ്ങനെ പറയുന്നു എന്നതാണ് നിങ്ങളെ വിശ്വസിക്കാവുന്ന ആളാക്കുന്നത്. ആദ്യം, വ്യക്തമായി, ശാന്തമായി പറയുന്ന ആളെയാണ് managers ഏറ്റവും വിലമതിക്കുന്നത്.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: രണ്ട് സാധാരണ തെറ്റുകൾ. ഒന്ന്: ആരും അറിയാതെ ശരിയാക്കാൻ ശ്രമിക്കുക, മറച്ചുവെക്കുക. രണ്ട്: "Very very sorry sir, my mistake, I am very sorry" എന്ന് അഞ്ച് തവണ ക്ഷമ ചോദിക്കുക. ഇത് പ്രശ്നം വലുതായി തോന്നിപ്പിക്കും.
+
+### Formula: What happened, Impact, Fix, Next step
+
+1. What happened: എന്ത് സംഭവിച്ചു, എപ്പോൾ, എത്ര നേരം.
+2. Impact: എത്ര users, എത്ര data, എന്തെങ്കിലും നഷ്ടമായോ.
+3. Fix: ഇപ്പോൾ എന്ത് ചെയ്തു.
+4. Next step: വീണ്ടും വരാതിരിക്കാൻ എന്ത് ചെയ്യും, എപ്പോൾ.
+
+ക്ഷമാപണം ഒരു തവണ മതി. ബാക്കി സമയം പരിഹാരത്തെക്കുറിച്ച്.
+
+EN: Quick heads-up: / the voicemail transcription was delayed / for about twenty minutes this morning.
+EN: Cause: / a GPU worker got stuck.
+EN: Impact: / around three hundred messages were delayed, / and no data was lost.
+EN: Fix: / the watchdog restarted it, / and I've added an alert.
+EN: I'll share a short write-up by end of day.
+
+### Useful phrases
+
+EN: Quick heads-up on an issue this morning.
+EN: Sorry for the trouble. / Here's what happened and what we've done.
+EN: We're still investigating. / I'll send the next update in thirty minutes.
+EN: The root cause was a missing timeout on the API call.
+EN: To stop this from happening again, / I've added a test and an alert.
+
+TIP: കാരണം ഇതുവരെ അറിയില്ലെങ്കിലും ആദ്യ update ഉടൻ അയക്കുക. "We're still investigating, next update in thirty minutes" എന്നത് നിശ്ശബ്ദതയേക്കാൾ എത്രയോ നല്ലതാണ്.
+
+### Mini-dialogue
+
+EN: Manager: I heard some customers didn't get their transcripts. What happened?
+EN: Arun: Yes. From nine to nine-twenty, one GPU worker got stuck. About three hundred messages were delayed, but none were lost. The watchdog restarted it, and everything is processed now.
+EN: Manager: Will it happen again?
+EN: Arun: I've added an alert, so we'll know within two minutes next time. I'll share the full write-up by end of day.
+EN: Manager: Good. Thanks for the quick update.
+
+## 7.7 Making your work visible | നിങ്ങളുടെ ജോലി കാണിക്കുക
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+നിങ്ങളുടെ manager-ന് പത്ത് പേരുണ്ട്. എല്ലാവരുടെയും ജോലി ഓർത്തിരിക്കാൻ കഴിയില്ല. Appraisal സമയത്ത് അവർ ഓർക്കുന്നത്, അവർ കേട്ടതും വായിച്ചതും ആണ്. നിങ്ങൾ പറഞ്ഞില്ലെങ്കിൽ, മറ്റാരും പറയില്ല.
+
+ഇത് പൊങ്ങച്ചമല്ല. ഇത് വിവരം കൊടുക്കലാണ്.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: "നല്ല ജോലി സ്വയം സംസാരിക്കും" എന്ന വിശ്വാസം. Global companies-ൽ അത് നടക്കില്ല. രണ്ടാമത്തെ തെറ്റ്: എല്ലായിടത്തും "we" മാത്രം പറയുക. Team work-ന് "we" ശരിയാണ്, പക്ഷേ നിങ്ങൾ ചെയ്തതിന് "I" പറയണം. അല്ലെങ്കിൽ നിങ്ങൾ എന്ത് ചെയ്തു എന്ന് ആർക്കും അറിയില്ല.
+
+### Three habits
+
+- എല്ലാ വെള്ളിയാഴ്ചയും lead-ന് ഒരു മൂന്ന് വരി update: Shipped, In progress, Risks.
+- എപ്പോഴും numbers: "latency മൂന്ന് സെക്കൻഡിൽ നിന്ന് ഒന്നേ പോയിന്റ് എട്ടിലേക്ക്", "ഓരോ deployment-ലും ഒരു GPU node ലാഭിച്ചു".
+- നിങ്ങളുടെ ജോലിക്ക് "I", team ജോലിക്ക് "we".
+
+EN: Shipped: / output validation for the transcription worker. / Bad transcripts are down to zero this week.
+EN: In progress: / the new search index. / On track for next Wednesday.
+EN: Risks: / the GPU quota is still not confirmed.
+
+### Useful phrases
+
+EN: I cut the average latency from three seconds to one point eight.
+EN: I led the migration, / and the team helped with testing.
+EN: This change saves one GPU node per deployment.
+EN: I wrote a short doc on how we fixed it, / in case other teams hit the same issue.
+EN: Could I present this in the next team demo?
+
+### Mini-dialogue
+
+EN: Lead: How did the migration go?
+EN: Arun: It went well. I moved all three services last week, with zero downtime. Average latency dropped by about forty percent.
+EN: Lead: Nice. Did anyone help?
+EN: Arun: Yes, Neha wrote the load tests, which saved me two days. I'll add a short summary to the weekly update.
+
+ഇവിടെ Arun സ്വന്തം ജോലിക്ക് "I" പറഞ്ഞു, Neha-യ്ക്ക് credit-ഉം കൊടുത്തു. രണ്ടും ഒരുമിച്ച് ചെയ്യാം.
+
+## 7.8 Client-facing calls | Client-നോട് നേരിട്ട് സംസാരിക്കുമ്പോൾ
+
+### എന്തുകൊണ്ട് ഇത് പ്രധാനം
+
+AI കാലത്ത്, ഏറ്റവും വില കൂടിയ engineers code മാത്രം എഴുതുന്നവരല്ല. Customer-ന്റെ പ്രശ്നം മനസ്സിലാക്കി, അത് ഒരു working system ആക്കുന്നവരാണ്. Forward Deployed Engineer പോലുള്ള roles ഇതാണ്. അതിനെക്കുറിച്ച് പിന്നീടുള്ള ഒരു അധ്യായത്തിൽ വിശദമായി പറയും.
+
+Client call-ൽ നാല് കഴിവുകൾ വേണം. ശരിയായ ചോദ്യങ്ങൾ ചോദിക്കുക. എന്ത് ചെയ്യും എന്ത് ചെയ്യില്ല എന്ന് വ്യക്തമാക്കുക. Demo സമയത്ത് കാണിക്കുന്നത് വിശദീകരിക്കുക. പുതിയ ആവശ്യങ്ങൾ വരുമ്പോൾ ശാന്തമായി കൈകാര്യം ചെയ്യുക.
+
+### നമ്മൾ ചെയ്യുന്ന തെറ്റ്
+
+WARN: Client പറയുന്നതെല്ലാം "yes, possible" എന്ന് സമ്മതിക്കുക. പിന്നെ team-നോട് "client ചോദിച്ചു" എന്ന് പറഞ്ഞ് impossible deadline ഉണ്ടാക്കുക. മറ്റൊരു തെറ്റ്: client-ന്റെ ബിസിനസ് പ്രശ്നം മനസ്സിലാക്കാതെ നേരിട്ട് technology-യെക്കുറിച്ച് സംസാരിക്കുക.
+
+### Discovery questions | പ്രശ്നം മനസ്സിലാക്കാൻ
+
+ആദ്യ meeting-ൽ കൂടുതൽ കേൾക്കുക, കുറച്ച് സംസാരിക്കുക. എഴുപത് ശതമാനം അവർ, മുപ്പത് ശതമാനം നിങ്ങൾ.
+
+EN: What does the process look like today, / step by step?
+EN: Where does it hurt the most?
+EN: How much time does your team spend on this each week?
+EN: What would a great result look like in three months?
+EN: How will you measure whether this is working?
+EN: Who else needs to be involved in the decision?
+
+അവർ പറഞ്ഞത് അവരുടെ വാക്കുകളിൽ തിരിച്ചു പറയുക. ഇത് നിങ്ങൾ കേട്ടു എന്ന് അവർക്ക് ഉറപ്പ് കൊടുക്കും.
+
+EN: So if I understood correctly, / your agents spend two hours a day / searching old tickets for answers, / and you'd like that under twenty minutes.
+
+### Scoping | എന്ത് ചെയ്യും, എന്ത് ചെയ്യില്ല
+
+EN: For the first phase, / I suggest we focus on one use case: / answering questions from your product manuals.
+EN: Integration with your CRM / would be phase two.
+EN: Before we commit to a date, / I'd like to test with fifty of your real documents.
+EN: Here's what we need from your side: / sample data, / one contact person, / and access to a test environment.
+
+### Demo narration | Demo സമയത്ത് സംസാരിക്കുക
+
+Demo-യിൽ നിശ്ശബ്ദമായി click ചെയ്യരുത്. ഓരോ step-ഉം എന്തിനാണ് എന്ന് പറയുക. Feature അല്ല, അവരുടെ പ്രശ്നം എങ്ങനെ തീരുന്നു എന്ന് പറയുക.
+
+EN: Let me show you how this works / with one of your own documents.
+EN: Here, / I'm asking the same question your support team gets every day.
+EN: Notice the answer shows the source page, / so your team can verify it in one click.
+EN: If the system isn't confident, / it says so, / instead of guessing.
+EN: Let me pause here. / Any questions so far?
+
+TIP: Demo-ക്ക് മുമ്പ് ഒരു backup തയ്യാറാക്കുക: ഒരു recorded video അല്ലെങ്കിൽ screenshots. Live demo പരാജയപ്പെട്ടാൽ ഇങ്ങനെ പറയാം: "Looks like the network is slow. Let me show you the recording while it loads."
+
+### Handling "Can it also do X?"
+
+ഇത് ഓരോ demo-യിലും വരും. ഉടൻ "yes" പറയരുത്. ഉടൻ "no" പറയരുത്. ആദ്യം എന്തിനാണ് എന്ന് ചോദിക്കുക. പിന്നെ സത്യസന്ധമായ ഉത്തരം, ഒരു next step-ഓടെ.
+
+EN: Good question. / What would you use it for?
+EN: Technically, yes. / It's not in the current scope, / so let me check the effort / and come back to you by Friday.
+EN: Not in this version, / but here's how we could add it later.
+EN: That's a great idea for phase two. / Let me note it down.
+EN: I'd rather not promise that today / without testing it on your data first.
+
+### Mini-dialogue
+
+EN: Client: This looks great. Can it also answer questions from our email inbox?
+EN: Arun: Good question. What kind of questions come in by email?
+EN: Client: Mostly order status and refund requests.
+EN: Arun: That makes sense. Technically it's possible, but it's not in the current scope. Order status would need access to your order system. Let me check the effort and send you an estimate by Friday. Is that okay?
+EN: Client: Sure, that works.
+EN: Arun: Great. I'll add it to the summary I send after this call.
+
+ശ്രദ്ധിക്കുക: Arun "no" പറഞ്ഞില്ല, "yes" എന്ന് വാക്ക് കൊടുത്തതുമില്ല. ആവശ്യം മനസ്സിലാക്കി, scope-ന് പുറത്താണെന്ന് പറഞ്ഞു, ഒരു തീയതിയോടെ next step കൊടുത്തു. Call-ന് ശേഷം എഴുതി അയക്കുന്ന summary-യിലും ഇത് ഉണ്ടാകും.
+
+DRILL: 7 | One week of workplace English
+ഈ ആഴ്ച, ഓരോ ദിവസവും ഒരു കാര്യം ചെയ്യുക.
+1. തിങ്കൾ: Stand-up-ൽ Done, Doing, Blocker formula ഉപയോഗിക്കുക.
+2. ചൊവ്വ: ഒരു പുതിയ task തുടങ്ങുന്നതിന് മുമ്പ് "Just to confirm my understanding" message അയക്കുക.
+3. ബുധൻ: ഒരു request വന്നാൽ "Which one should move?" എന്ന് ചോദിക്കുക.
+4. വ്യാഴം: ഒരു meeting-ൽ "Just to make sure I understood" ഉപയോഗിക്കുക.
+5. വെള്ളി: Lead-ന് Shipped, In progress, Risks update അയക്കുക.
+EN: Just to confirm my understanding before I start.
+EN: Which one should move, so I can pick this up?
+EN: Shipped, in progress, risks.
+END
+
+QUIZ: ഒരു stand-up blocker-ൽ ഏറ്റവും പ്രധാനമായി ഉണ്ടാകേണ്ടത് എന്ത്? || ക്ഷമാപണം || *എന്ത് വേണം, എന്ന് മുമ്പ്, ഇല്ലെങ്കിൽ എന്ത് സംഭവിക്കും || Ticket number മാത്രം || തീയതിയും പ്രത്യാഘാതവും പറയുമ്പോൾ lead-ന് എന്ത് ചെയ്യണം എന്ന് കൃത്യമായി അറിയാം.
+QUIZ: Lead ഒരു പുതിയ ജോലി തരുമ്പോൾ നിങ്ങൾ already busy ആണ്. ഏറ്റവും നല്ല മറുപടി ഏത്? || No, I am busy. || Yes, I will do everything. || *Happy to take this on. Which one should move so I can pick this up? || "Which one should move" priority തീരുമാനിക്കാൻ lead-നെ സഹായിക്കുന്നു, "no" പറയാതെ തന്നെ.
+QUIZ: Incident update-ന്റെ ശരിയായ ക്രമം ഏത്? || ക്ഷമ, ക്ഷമ, ക്ഷമ || *What happened, Impact, Fix, Next step || Fix മാത്രം, ആരോടും പറയാതെ || ക്ഷമ ഒരു തവണ മതി. ബാക്കി സമയം impact-ഉം പരിഹാരവും.
+QUIZ: Demo-യിൽ client "Can it also do X?" എന്ന് ചോദിക്കുമ്പോൾ ആദ്യം എന്ത് ചെയ്യണം? || ഉടൻ yes പറയുക || ഉടൻ no പറയുക || *എന്തിനാണ് അത് വേണ്ടത് എന്ന് ചോദിക്കുക || ആവശ്യം മനസ്സിലാക്കിയ ശേഷം scope-ഉം effort-ഉം പറഞ്ഞ് ഒരു next step കൊടുക്കുക.

@@ -1,0 +1,349 @@
+# 12 | The Forward Deployed Engineer | കോഡും കസ്റ്റമറും ഒരുമിച്ച് കൈകാര്യം ചെയ്യുന്ന റോൾ
+SUMMARY: 2026-ൽ AI ലോകത്ത് ഏറ്റവും വേഗത്തിൽ വളരുന്ന റോളുകളിൽ ഒന്നാണ് Forward Deployed Engineer (FDE). ഈ അധ്യായത്തിൽ ആ റോൾ എന്താണ്, എന്തുകൊണ്ട് നല്ല ശമ്പളം കിട്ടുന്നു, interview എങ്ങനെയാണ്, ഒരു AI engineer-ന് എങ്ങനെ 30 ദിവസം കൊണ്ട് തയ്യാറെടുക്കാം, FDE ജോലിക്ക് വേണ്ട English എന്നിവ പഠിക്കാം.
+
+## 12.1 What is a Forward Deployed Engineer? | FDE എന്നാൽ എന്ത്?
+
+ലളിതമായി പറഞ്ഞാൽ, FDE എന്നത് കസ്റ്റമറുടെ അടുത്തേക്ക് "മുന്നോട്ട് അയയ്ക്കപ്പെടുന്ന" ഒരു software engineer ആണ്. ഓഫീസിൽ ഇരുന്ന് ticket-കൾ മാത്രം ചെയ്യുന്ന ആളല്ല. കസ്റ്റമറുടെ യഥാർത്ഥ പ്രശ്നം മനസ്സിലാക്കി, അവരുടെ data-യിലും systems-ലും നേരിട്ട് പണിയെടുത്ത്, ഒരു പരിഹാരം production-ൽ എത്തിക്കുന്ന ആളാണ്.
+
+"Forward deployed" എന്ന വാക്ക് സൈന്യത്തിൽ നിന്നാണ് വന്നത്. യുദ്ധമുഖത്തേക്ക് മുന്നിൽ അയയ്ക്കുന്ന സംഘം എന്നാണ് അർത്ഥം. Software-ൽ, കമ്പനിയുടെ product കസ്റ്റമറുടെ ലോകത്ത് ശരിക്കും പ്രവർത്തിക്കാൻ വേണ്ടി മുന്നിൽ നിൽക്കുന്ന engineer എന്നാണ് ഉദ്ദേശിക്കുന്നത്.
+
+### Palantir-ൽ നിന്നുള്ള തുടക്കം
+
+ഈ റോൾ ആദ്യം വ്യാപകമായി ഉപയോഗിച്ചത് Palantir എന്ന data software കമ്പനിയാണ്, ഏകദേശം 2010-കളുടെ തുടക്കത്തിൽ. അവരുടെ product സർക്കാരുകൾക്കും വലിയ കമ്പനികൾക്കും വേണ്ടിയായിരുന്നു. ഓരോ കസ്റ്റമറുടെയും data കുഴഞ്ഞുമറിഞ്ഞതായിരുന്നു. അതുകൊണ്ട് engineers-നെ നേരിട്ട് കസ്റ്റമർ സൈറ്റിലേക്ക് അയച്ചു. Palantir-നുള്ളിൽ ഈ engineers-നെ "Delta" എന്നാണ് വിളിച്ചിരുന്നത്.
+
+### 2025–2026-ൽ എന്തുകൊണ്ട് ഇത് "hot" ആയി?
+
+LLM-കൾ വന്നപ്പോൾ ഒരു പുതിയ പ്രശ്നം ഉണ്ടായി. Model ശക്തമാണ്, പക്ഷേ ഒരു bank-ലോ hospital-ലോ അത് ഉപയോഗപ്രദമാക്കാൻ ഒരുപാട് പണിയുണ്ട്. Data ബന്ധിപ്പിക്കണം, RAG ഉണ്ടാക്കണം, agents എഴുതണം, evals വേണം, security-യും compliance-ഉം നോക്കണം. ഈ "അവസാന മൈൽ" ചെയ്യാനാണ് AI കമ്പനികൾ FDE-മാരെ എടുക്കുന്നത്.
+
+- 2025 ജൂണിൽ venture firm Andreessen Horowitz (a16z) FDE-യെ "startups-ലെ ഏറ്റവും hot job" എന്ന് വിളിച്ചു.
+- Financial Times റിപ്പോർട്ട് പ്രകാരം 2025 ജനുവരി മുതൽ സെപ്റ്റംബർ വരെ FDE job listings 800 ശതമാനത്തിൽ കൂടുതൽ വർദ്ധിച്ചു.
+- Indeed data പ്രകാരം 2025 ഏപ്രിലിൽ ഏകദേശം 640 listings ഉണ്ടായിരുന്നത് 2026 ഏപ്രിലിൽ 5,000-ത്തിലധികമായി.
+- ഇന്ന് OpenAI, Anthropic, Scale AI, Databricks, Sierra, Decagon, n8n, Cohere, ElevenLabs തുടങ്ങി ഒരുപാട് കമ്പനികൾ FDE-മാരെ എടുക്കുന്നു.
+
+NOTE: Anthropic-ൽ ഈ റോളിന് പലപ്പോഴും "Applied AI Engineer" എന്നാണ് പേര്. മറ്റ് കമ്പനികളിൽ "Solutions Engineer (AI)", "AI Deployment Engineer", "Forward Deployed AI Engineer" എന്നൊക്കെ കാണാം. Job search ചെയ്യുമ്പോൾ ഈ പേരുകളെല്ലാം ഉപയോഗിക്കുക.
+
+FDE-യെ ഒറ്റ വാചകത്തിൽ ഇംഗ്ലീഷിൽ പറയാൻ പഠിക്കുക. Interview-ൽ ഇത് ഉപയോഗപ്പെടും.
+
+EN: A forward deployed engineer is a software engineer / who works directly with customers / to turn a general product into a working solution / on their real data.
+EN: I sit with the customer, / understand the problem, / build the integration, / and make sure it actually runs in production.
+
+## 12.2 What an FDE does day to day | ഒരു FDE-യുടെ സാധാരണ ആഴ്ച
+
+FDE ജോലി ഓരോ കമ്പനിയിലും അല്പം വ്യത്യസ്തമാണ്. പക്ഷേ പൊതുവായി ആറ് തരം പണികളുണ്ട്.
+
+1. **Discovery.** കസ്റ്റമറുടെ team-നോട് സംസാരിച്ച് യഥാർത്ഥ പ്രശ്നം കണ്ടെത്തുക. അവർ ചോദിക്കുന്നത് എല്ലായ്പ്പോഴും അവർക്ക് വേണ്ടതാവണമെന്നില്ല.
+2. **Scoping.** വലിയ, അവ്യക്തമായ ആഗ്രഹത്തെ ചെറിയ, അളക്കാവുന്ന ഘട്ടങ്ങളാക്കുക. "എല്ലാം AI ആക്കണം" എന്നതിനെ "ആദ്യം support tickets-ന്റെ 30 ശതമാനം auto-answer ചെയ്യാം" എന്നാക്കുക.
+3. **Building.** കസ്റ്റമറുടെ data-യിൽ RAG pipelines, agents, tool integrations, APIs, dashboards എഴുതുക. ഇത് യഥാർത്ഥ production code ആണ്, demo മാത്രമല്ല.
+4. **Demos.** പണിതത് കസ്റ്റമറുടെ engineers-നും managers-നും executives-നും കാണിച്ച് വിശദീകരിക്കുക.
+5. **Deployment and support.** Staging-ൽ നിന്ന് go-live വരെ കൊണ്ടുപോവുക. Production-ൽ പ്രശ്നം വന്നാൽ debug ചെയ്യുക.
+6. **Feedback to product.** കസ്റ്റമറുടെ അടുത്ത് കണ്ട പ്രശ്നങ്ങളും missing features-ഉം സ്വന്തം കമ്പനിയുടെ product, research teams-ന് എത്തിക്കുക.
+
+### Travel and onsite
+
+പല FDE റോളുകളിലും യാത്രയുണ്ട്. ചില postings-ൽ 25 മുതൽ 50 ശതമാനം വരെ travel എന്ന് പറയുന്നു. കസ്റ്റമറുടെ ഓഫീസിൽ ദിവസങ്ങളോ ആഴ്ചകളോ ഇരിക്കേണ്ടി വരാം. പൂർണ്ണമായും remote ആയ FDE റോളുകൾ കുറവാണ്. GCC-യിൽ ഇത് പലപ്പോഴും ഗുണമാണ്. Dubai, Riyadh, Abu Dhabi എന്നിവിടങ്ങളിലെ സർക്കാർ, bank കസ്റ്റമേഴ്സിന് on-site engineer വേണം.
+
+### A sample week
+
+| Day | What Arun does |
+| Monday | Discovery call with a hospital's IT team. Writes a one-page scope. |
+| Tuesday | Connects to their document store. Builds a first RAG prototype. |
+| Wednesday | Builds a small eval set with 50 real questions from the customer. |
+| Thursday | Demo to the operations manager. Collects feedback. |
+| Friday | Fixes two failure cases. Sends a written update. Files feature requests for the product team. |
+
+TIP: FDE-യുടെ ജോലിയുടെ പകുതിയോളം സംസാരവും എഴുത്തുമാണ്. അതുകൊണ്ടാണ് ഈ പുസ്തകത്തിലെ English പരിശീലനം ഈ റോളിന് നേരിട്ട് പണമായി മാറുന്നത്.
+
+## 12.3 FDE compared with other roles | മറ്റ് റോളുകളുമായുള്ള വ്യത്യാസം
+
+FDE-യെ പലരും solutions engineer-മായോ consultant-മായോ തെറ്റിദ്ധരിക്കും. Interview-ൽ ഈ വ്യത്യാസം വ്യക്തമായി പറയാൻ കഴിയണം.
+
+| Role | Main job | Writes production code? | Owns the outcome? |
+| Software engineer | Builds the core product for many customers | Yes | For the product, not one customer |
+| Solutions engineer | Helps sell. Runs demos and proofs of concept | Sometimes, mostly demos | Until the deal is signed |
+| Consultant | Advises and designs. Often hands off to others | Rarely | Until the report or project ends |
+| Forward deployed engineer | Builds and ships the solution inside one customer | Yes, a lot | Until it works in production |
+
+ഏറ്റവും പ്രധാന വ്യത്യാസം **ownership** ആണ്. Solutions engineer demo കാണിച്ച് deal കഴിഞ്ഞാൽ അടുത്തതിലേക്ക് പോകും. FDE ആ കസ്റ്റമറുടെ system യഥാർത്ഥത്തിൽ പ്രവർത്തിക്കുന്നത് വരെ കൂടെ നിൽക്കും. Software engineer ഒരുപാട് കസ്റ്റമേഴ്സിന് വേണ്ടി ഒരു product ഉണ്ടാക്കുന്നു. FDE ഒരു കസ്റ്റമറുടെ കുഴഞ്ഞ ലോകത്ത് ആ product പ്രവർത്തിപ്പിക്കുന്നു.
+
+EN: A solutions engineer helps the customer decide to buy. / A forward deployed engineer makes sure the purchase actually works.
+EN: Unlike a consultant, / I don't just recommend an architecture. / I build it, ship it, and support it.
+
+## 12.4 Why it pays well, and typical pay | ശമ്പളം എന്തുകൊണ്ട് കൂടുതൽ?
+
+FDE-ക്ക് നല്ല ശമ്പളം കിട്ടാൻ മൂന്ന് കാരണങ്ങളുണ്ട്.
+
+- **Rare mix.** നല്ല coding-ഉം നല്ല communication-ഉം ഒരേ ആളിൽ കാണുന്നത് കുറവാണ്. ഇത് രണ്ടും ഉള്ളവർ കുറവായതുകൊണ്ട് വില കൂടും.
+- **Close to revenue.** FDE ജോലി നേരിട്ട് വലിയ contracts-നെ ബാധിക്കുന്നു. ഒരു enterprise deal വിജയിക്കുന്നതോ പരാജയപ്പെടുന്നതോ പലപ്പോഴും deployment-നെ ആശ്രയിച്ചാണ്.
+- **Demand is ahead of supply.** Postings പല മടങ്ങ് വർദ്ധിച്ചു. പക്ഷേ ഈ റോളിന് തയ്യാറായ engineers അത്രയും കൂടിയിട്ടില്ല.
+
+താഴെയുള്ള കണക്കുകൾ 2026-ലെ public job postings-ൽ നിന്നും salary reports-ൽ നിന്നും എടുത്ത ഏകദേശ കണക്കുകളാണ്. Company, level, city എന്നിവ അനുസരിച്ച് വലിയ മാറ്റമുണ്ടാകും.
+
+| Market | Approximate pay (2026) | Notes |
+| US, top AI labs | Base about USD 185,000 to 320,000 a year. Total pay with equity often USD 350,000 to 550,000 for senior roles | Equity makes the big difference |
+| US, wider market | Median base about USD 170,000 a year | Based on an analysis of about 1,000 postings |
+| Remote for a US or EU startup, from India | Roughly USD 60,000 to 150,000 a year | Wide range. Often contract roles |
+| India, Bengaluru and other hubs | Roughly 15 to 40 lakh rupees a year for experienced FDEs. Entry level lower | New title in India. Compare with senior SWE pay |
+| GCC, Dubai | Senior postings around AED 400,000 to 500,000 a year, or about AED 35,000 to 42,000 a month | Tax free. Often needs UAE residency or onsite work |
+
+WARN: ഈ കണക്കുകൾ ഏകദേശമാണ്. പല sources-ഉം recruiting blogs ആണ്. ഒരു offer ചർച്ച ചെയ്യുന്നതിന് മുൻപ് ആ സമയത്തെ live postings-ഉം levels.fyi പോലുള്ള sites-ഉം നോക്കുക.
+
+NOTE: India-യിൽ "FDE" എന്ന title-ൽ ചില service companies താഴ്ന്ന ശമ്പളത്തിൽ സാധാരണ implementation ജോലി നൽകുന്നുണ്ട്. Title മാത്രം നോക്കരുത്. Production code എഴുതുന്നുണ്ടോ, കസ്റ്റമർ ആരാണ്, product ഏതാണ് എന്ന് ചോദിക്കുക.
+
+## 12.5 The FDE skill mix | വേണ്ട കഴിവുകൾ
+
+FDE-ക്ക് അഞ്ച് തരം കഴിവുകൾ വേണം. എല്ലാത്തിലും expert ആകേണ്ടതില്ല. പക്ഷേ ഒന്നിലും പൂജ്യം ആകരുത്.
+
+| Skill | What it means | How it is tested |
+| Coding | Python and usually TypeScript. APIs, data pipelines, debugging someone else's messy code | Live coding, take-home |
+| LLM applications | RAG, agents, tool calling, prompt design, evals, cost and latency trade-offs | Technical deep dive, build task |
+| Communication | Discovery questions, clear demos, written updates, calm under pressure | Customer role-play |
+| Product sense | Finding the real problem, cutting scope, choosing what matters to the business | Decomposition round |
+| Field readiness | Travel, onsite work, security reviews, on-prem and cloud deployment | Hiring manager and behavioural round |
+
+ഇതിൽ "product sense" എന്നത് മലയാളി engineers പലപ്പോഴും ശ്രദ്ധിക്കാത്ത ഒന്നാണ്. നമ്മൾ പറഞ്ഞത് ചെയ്യാൻ പഠിച്ചവരാണ്. FDE-ക്ക് "എന്തുകൊണ്ട് ഇത് ചെയ്യണം, ഇതിനേക്കാൾ ചെറുതും വിലപ്പെട്ടതുമായ ഒന്നുണ്ടോ" എന്ന് ചോദിക്കാൻ കഴിയണം.
+
+## 12.6 Mapping your experience to FDE | നിങ്ങളുടെ അനുഭവം FDE ഭാഷയിൽ
+
+നമ്മുടെ sample speaker Arun-നെ എടുക്കാം. Arun Kochi-യിൽ നിന്നുള്ള ഒരു AI engineer ആണ്. ഒരു speech-AI product, ഒരു on-prem RAG platform, ഒരു agent engine എന്നിവയിൽ പണിയെടുത്തിട്ടുണ്ട്. ചില clients-ന്റെ servers-ൽ നേരിട്ട് deploy ചെയ്തിട്ടുണ്ട്. Arun-ന് FDE എന്ന title ഇല്ല. പക്ഷേ ജോലി ഏറെക്കുറെ FDE ജോലി തന്നെയാണ്. അത് FDE ഭാഷയിൽ പറയാൻ പഠിക്കണം.
+
+| Your experience | FDE skill it proves | How to say it |
+| RAG over large document sets | Building on customer data | I built retrieval over the client's own documents and measured answer quality. |
+| Agents with tool calling | Integrating with customer systems | I connected the agent to the client's internal APIs with safe, logged tool calls. |
+| Speech AI in production | Real-time, messy real-world input | I shipped speech AI that handled real calls, accents and noise. |
+| On-prem Kubernetes deployment | Field readiness, security | I deployed inside the client's own data centre, with no data leaving their network. |
+| Talking to a client about requirements | Discovery and scoping | I turned a vague request into a scoped first release. |
+
+ഓരോ കഥയും STAR രീതിയിൽ (Chapter 8) തയ്യാറാക്കുക. പക്ഷേ FDE interview-ൽ ഒരു കാര്യം കൂടി ചേർക്കണം. **കസ്റ്റമറുടെ ഭാഗത്തെ ഫലം.** "Latency കുറഞ്ഞു" എന്നതിനേക്കാൾ "കസ്റ്റമറുടെ support team-ന്റെ സമയം ലാഭിച്ചു" എന്നത് കൂടുതൽ ശക്തമാണ്.
+
+EN: In my current role, / I've effectively been doing forward deployed work / without the title.
+EN: I deployed an on-prem RAG platform / inside a client's data centre, / because their data could not leave the building.
+EN: I scoped the first release with their team, / built the retrieval and evaluation, / and stayed with them until it was live.
+EN: The result was that their analysts / found answers in seconds / instead of searching folders for an hour.
+
+DRILL: 12.1 | Rewrite your projects as FDE stories
+നിങ്ങളുടെ മൂന്ന് പ്രോജക്റ്റുകൾ എടുക്കുക. ഓരോന്നിനും നാല് വാചകങ്ങൾ എഴുതുക.
+1. ആര് ആയിരുന്നു കസ്റ്റമർ, അവരുടെ പ്രശ്നം എന്തായിരുന്നു?
+2. നിങ്ങൾ scope എങ്ങനെ തീരുമാനിച്ചു?
+3. നിങ്ങൾ എന്ത് പണിതു, എവിടെ deploy ചെയ്തു?
+4. കസ്റ്റമർക്ക് കിട്ടിയ ഫലം എന്ത്, ഒരു number സഹിതം?
+ഓരോ കഥയും 90 സെക്കൻഡിൽ റെക്കോർഡ് ചെയ്യുക.
+END
+
+## 12.7 The FDE interview loop | ഇന്റർവ്യൂ എങ്ങനെയാണ്?
+
+FDE interview സാധാരണ SWE interview-ൽ നിന്ന് വ്യത്യസ്തമാണ്. Pure algorithm puzzles കുറവാണ്. പകരം അവ്യക്തമായ പ്രശ്നങ്ങളും കസ്റ്റമർ സാഹചര്യങ്ങളുമാണ്. Company അനുസരിച്ച് നാല് മുതൽ ആറ് വരെ rounds ഉണ്ടാകാം. Recruiter call മുതൽ offer വരെ സാധാരണ മൂന്ന് മുതൽ ആറ് ആഴ്ച എടുക്കും.
+
+| Round | What happens | What they look for |
+| Recruiter screen | Your background and why FDE | Clear story, real interest in customers |
+| Coding | Practical coding. Sometimes a messy codebase to fix or extend | Working code, debugging, thinking aloud |
+| Decomposition or case | A vague business problem. You break it into a plan | Clarifying questions, scoping, trade-offs |
+| Customer role-play | An interviewer plays a difficult customer | Listening, calm, honesty, pushing back politely |
+| Take-home or build task | Build a small working system for a use case, then defend it | Quality, judgement, a clear demo |
+| Hiring manager and behavioural | Past stories, travel, ownership | Ownership, resilience, learning fast |
+
+### The decomposition round
+
+ഇതാണ് ഏറ്റവും കൂടുതൽ candidates പരാജയപ്പെടുന്ന round. ഉദാഹരണം: "ഒരു വലിയ insurance കമ്പനി claims processing AI ഉപയോഗിച്ച് വേഗത്തിലാക്കാൻ ആഗ്രഹിക്കുന്നു. നിങ്ങൾ എങ്ങനെ സമീപിക്കും?" ഇവിടെ ഉടനെ architecture വരയ്ക്കരുത്. ആദ്യം ചോദ്യങ്ങൾ ചോദിക്കുക. പിന്നെ പ്രശ്നം ഭാഗങ്ങളാക്കുക. പിന്നെ ഏറ്റവും ചെറിയ വിലപ്പെട്ട ആദ്യ ഘട്ടം തിരഞ്ഞെടുക്കുക.
+
+ഈ ക്രമം ഓർക്കുക. Clarify, decompose, prioritise, build plan, measure, risks.
+
+EN: Before I propose anything, / can I ask a few questions about the current process?
+EN: How many claims do you handle per day, / and where does most of the time go today?
+EN: Let me break this into three parts: / reading the documents, / checking them against the policy, / and deciding what needs a human.
+EN: I'd start with the first part only, / because it's the biggest time sink / and the easiest to measure.
+EN: Success for phase one would be: / ninety percent of fields extracted correctly, / checked on a sample of two hundred real claims.
+EN: The main risks are data privacy and bad scans, / so I'd confirm where the data can be processed / and keep a human review step.
+
+### The customer role-play round
+
+ഇവിടെ interviewer ഒരു ദേഷ്യമുള്ളതോ സംശയമുള്ളതോ ആയ കസ്റ്റമറായി അഭിനയിക്കും. അവർ നിങ്ങളുടെ technical അറിവ് മാത്രമല്ല നോക്കുന്നത്. നിങ്ങൾ ശ്രദ്ധിച്ച് കേൾക്കുന്നുണ്ടോ, ശാന്തമായിരിക്കുന്നുണ്ടോ, അറിയില്ലെങ്കിൽ സത്യം പറയുന്നുണ്ടോ, അസാധ്യമായ കാര്യത്തിന് "yes" പറയാതിരിക്കുന്നുണ്ടോ എന്നെല്ലാമാണ്. ഇതിനുള്ള English വിശദമായി 12.8-ൽ ഉണ്ട്.
+
+WARN: Role-play-ൽ ഏറ്റവും വലിയ തെറ്റ് എല്ലാത്തിനും "yes, we can do that" എന്ന് പറയുന്നതാണ്. FDE-യുടെ വില "no" അല്ലെങ്കിൽ "not yet" എന്ന് മാന്യമായി പറയാൻ കഴിയുന്നതിലാണ്.
+
+### Coding and take-home
+
+Coding round-ൽ പലപ്പോഴും LeetCode hard ചോദ്യങ്ങൾ കുറവാണ്. പകരം ഒരു API-യിൽ നിന്ന് data എടുത്ത് process ചെയ്യുക, ഒരു bug കണ്ടെത്തുക, നിലവിലുള്ള code-ൽ ഒരു feature ചേർക്കുക തുടങ്ങിയവ. Take-home-ൽ ഒരു ചെറിയ RAG app അല്ലെങ്കിൽ agent ഉണ്ടാക്കാൻ പറയാം. അത് പിന്നീട് ഒരു live deep dive-ൽ നിങ്ങൾ defend ചെയ്യണം. README, ഒരു ചെറിയ eval, ഒരു 3 മിനിറ്റ് demo video എന്നിവ എപ്പോഴും ചേർക്കുക.
+
+## 12.8 FDE English | കസ്റ്റമറുടെ മുന്നിലെ ഇംഗ്ലീഷ്
+
+ഇതാണ് ഈ അധ്യായത്തിന്റെ ഹൃദയം. ഓരോ വിഭാഗത്തിലെയും വാചകങ്ങൾ ഉറക്കെ പറഞ്ഞ് പരിശീലിക്കുക. "/" ഉള്ളിടത്ത് ചെറിയ pause എടുക്കുക.
+
+### Discovery questions | പ്രശ്നം കണ്ടെത്താനുള്ള ചോദ്യങ്ങൾ
+
+Discovery-യുടെ ലക്ഷ്യം solution പറയലല്ല. കസ്റ്റമറെക്കൊണ്ട് സംസാരിപ്പിക്കലാണ്. Open questions ചോദിക്കുക, അതായത് "yes" അല്ലെങ്കിൽ "no" കൊണ്ട് ഉത്തരം പറയാൻ കഴിയാത്ത ചോദ്യങ്ങൾ. നിങ്ങൾ 30 ശതമാനം സംസാരിക്കുക, കസ്റ്റമർ 70 ശതമാനം.
+
+EN: Can you walk me through how this works today, / step by step?
+EN: Where does it hurt the most right now?
+EN: Who uses this every day, / and who will decide if the project is a success?
+EN: If this worked perfectly, / what would be different in three months?
+EN: How do you measure this today? / Do you have any numbers?
+EN: What have you already tried, / and why didn't it work?
+EN: Where does the data live, / and are there any rules about where it can go?
+EN: Is there a deadline or an event / that makes this urgent?
+
+കേട്ടത് തിരിച്ച് ചുരുക്കി പറയുക. ഇത് കസ്റ്റമർക്ക് "ഇയാൾ ശ്രദ്ധിച്ച് കേട്ടു" എന്ന വിശ്വാസം നൽകും. ഇതിനെ "playing it back" എന്ന് പറയും.
+
+EN: Let me play that back to make sure I understood.
+EN: Your agents spend about forty percent of their time / searching old tickets, / and the main goal is to cut that in half / before the busy season in March. / Did I get that right?
+
+### Scoping and pushing back | Scope ചുരുക്കലും മാന്യമായി "no" പറയലും
+
+കസ്റ്റമർ എല്ലാം ഒറ്റയടിക്ക് ആഗ്രഹിക്കും. നിങ്ങളുടെ ജോലി അതിനെ ഘട്ടങ്ങളാക്കുകയാണ്. "No" എന്ന് നേരിട്ട് പറയുന്നതിന് പകരം "yes, and here is the order" അല്ലെങ്കിൽ "not in phase one" എന്ന് പറയുക. എപ്പോഴും ഒരു കാരണവും ഒരു ബദലും നൽകുക.
+
+EN: That's a great goal. / To get there safely, / I'd suggest we do it in two phases.
+EN: In phase one, / we focus on English emails only. / Arabic and voice can come in phase two, / once we've proven the accuracy.
+EN: I want to be honest about the timeline. / Doing all five use cases by the end of the month / would mean cutting corners on testing.
+EN: If the date is fixed, / the scope has to shrink. / If the scope is fixed, / we need more time. / Which matters more to you?
+EN: I'd rather promise less and deliver it well / than promise everything and miss.
+EN: That's outside what we agreed for this phase. / Let me write it down, / and we can decide together if it replaces something else.
+
+TIP: "Which matters more to you?" എന്ന ചോദ്യം വളരെ ശക്തമാണ്. തീരുമാനം കസ്റ്റമറുടെ കയ്യിൽ തിരിച്ച് കൊടുക്കുന്നു. നിങ്ങൾ "no" പറയുന്നയാളല്ല, choice കാണിച്ചുകൊടുക്കുന്നയാളാകുന്നു.
+
+### Demo narration | Demo കാണിക്കുമ്പോൾ പറയേണ്ടത്
+
+Demo-യിൽ പല engineers-ഉം click ചെയ്യുന്നത് മാത്രം വിവരിക്കും. "ഇപ്പോൾ ഞാൻ ഇവിടെ click ചെയ്യുന്നു" എന്ന്. അത് ബോറാണ്. പകരം കസ്റ്റമറുടെ കഥ പറയുക. ആദ്യം പ്രശ്നം, പിന്നെ പരിഹാരം, പിന്നെ ഫലം, പിന്നെ അടുത്ത ഘട്ടം.
+
+EN: Before I show you anything, / here's the problem we're solving. / Today, an agent spends about six minutes / finding the right policy for each ticket.
+EN: Let's take a real ticket from last week. / A customer is asking about a refund on a damaged item.
+EN: The assistant searches your policy documents, / and here's the answer, / with a link to the exact paragraph it used.
+EN: Notice that it says it isn't sure here. / That's on purpose. / When confidence is low, / it hands over to a human.
+EN: On our test set of two hundred real tickets, / it got the right policy / ninety-one percent of the time.
+EN: What I'd like from you today / is to try it with your own hardest questions.
+
+WARN: Demo-ക്ക് മുൻപ് എപ്പോഴും ഒരു backup തയ്യാറാക്കുക. Recorded video അല്ലെങ്കിൽ screenshots. Live demo പരാജയപ്പെട്ടാൽ ശാന്തമായി പറയുക. "Live demos keep us humble. Let me show you the recording while I check this."
+
+### Explaining trade-offs to non-technical people | Technical അല്ലാത്തവരോട് trade-off വിശദീകരിക്കൽ
+
+Executives-ന് "vector database", "context window" എന്നൊന്നും കേൾക്കേണ്ട. അവർക്ക് മൂന്ന് കാര്യമാണ് വേണ്ടത്. ചിലവ്, സമയം, risk. ഓരോ technical തീരുമാനവും ഈ മൂന്നിലൊന്നിലേക്ക് മാറ്റി പറയുക. ഒരു ഉപമ (analogy) ഉപയോഗിച്ചാൽ കൂടുതൽ നല്ലത്.
+
+EN: We have two options. / Option A is faster to launch but costs more per month. / Option B takes three extra weeks / but cuts the running cost by about half.
+EN: The bigger model is like hiring a senior expert for every question. / It's more accurate, / but most questions only need a junior.
+EN: So I'd send the simple questions to the small model / and only the hard ones to the big model.
+EN: Running it in your own data centre / keeps the data inside your walls, / but it means your team owns the servers.
+EN: My recommendation is option B, / because your volume will grow, / and the savings pay for the delay within two months.
+
+### Writing a deployment update | Deployment update എഴുതുന്നത്
+
+FDE ആഴ്ചതോറും കസ്റ്റമർക്ക് written update അയയ്ക്കണം. ഒരു നല്ല update ചെറുതാണ്. Status ആദ്യം, പിന്നെ ചെയ്തത്, പിന്നെ risks, പിന്നെ കസ്റ്റമറിൽ നിന്ന് വേണ്ടത്. Green, amber, red എന്ന status വളരെ സാധാരണമാണ്. Amber എന്നാൽ ശ്രദ്ധിക്കേണ്ടത്, പക്ഷേ നിയന്ത്രണത്തിൽ.
+
+EN: Subject: Support assistant, weekly update, week three. Status: amber.
+EN: Summary: / The assistant is live for the pilot team of twelve agents. / Accuracy is on track, / but the Arabic data is two weeks late.
+EN: Done this week: / Connected the ticketing system. / Added a human review step for refunds. / Accuracy on the test set went from eighty-four to ninety-one percent.
+EN: Risks: / If the Arabic documents don't arrive by Friday, / the Arabic launch moves to the end of next month.
+EN: What we need from you: / Access to the Arabic policy folder, / and thirty minutes with a team lead to review ten answers.
+EN: Next week: / Expand the pilot to the night shift / and share the first usage report.
+
+TIP: "What we need from you" എന്ന ഭാഗം ഒരിക്കലും ഒഴിവാക്കരുത്. പല projects-ഉം വൈകുന്നത് കസ്റ്റമറുടെ ഭാഗത്തെ access, data, തീരുമാനങ്ങൾ എന്നിവ വൈകുന്നതുകൊണ്ടാണ്. അത് എഴുതി വെച്ചാൽ പിന്നീട് തർക്കം ഉണ്ടാകില്ല.
+
+### Handling an angry customer | ദേഷ്യപ്പെട്ട കസ്റ്റമറെ കൈകാര്യം ചെയ്യൽ
+
+ഇത് role-play round-ലും യഥാർത്ഥ ജോലിയിലും വരും. നാല് ഘട്ടങ്ങൾ ഓർക്കുക. ആദ്യം കേൾക്കുക, തടസ്സപ്പെടുത്താതെ. പിന്നെ അവരുടെ വികാരം അംഗീകരിക്കുക. പിന്നെ അറിയാവുന്ന സത്യം പറയുക. അവസാനം ഒരു വ്യക്തമായ അടുത്ത ഘട്ടവും സമയവും നൽകുക. ഒരിക്കലും defensive ആകരുത്. ഒരിക്കലും സ്വന്തം team-നെ കുറ്റപ്പെടുത്തരുത്.
+
+EN: I understand. / Your team couldn't work for two hours this morning, / and that's not acceptable.
+EN: Thank you for telling me directly. / Here's what I know right now, / and what I don't know yet.
+EN: The assistant stopped answering at nine fifteen / because a certificate expired on the connection to your ticketing system.
+EN: It's been working again since eleven ten. / I'm now checking that no answers were lost.
+EN: I'll send you a written summary by four o'clock this afternoon, / including what we're changing so this doesn't happen again.
+EN: I don't have that answer yet, / and I don't want to guess. / I'll come back to you by tomorrow morning.
+
+കസ്റ്റമർ പുതിയ ഒരു feature ഉടനെ ആവശ്യപ്പെട്ടാൽ, പ്രത്യേകിച്ച് ഒരു incident നടക്കുമ്പോൾ, ആദ്യം incident പരിഹരിക്കുക. Feature പിന്നീട് ചർച്ച ചെയ്യാമെന്ന് പറയുക.
+
+EN: I hear you, / and I've written that request down. / Right now, / my priority is getting your team working again. / Can we look at the new feature together on Thursday?
+
+DRILL: 12.2 | Customer role-play with an AI partner
+ChatGPT അല്ലെങ്കിൽ Claude voice mode തുറക്കുക. താഴെയുള്ള prompt പറയുക.
+EN: Please play a frustrated operations director at a large bank. / Our AI assistant gave a wrong answer to one of your customers yesterday. / Be difficult, interrupt me, / and ask for things that are out of scope. / After ten minutes, / give me feedback on my listening, clarity and honesty.
+സംസാരം റെക്കോർഡ് ചെയ്യുക. ശേഷം കേട്ട് മൂന്ന് കാര്യം നോക്കുക. ഞാൻ തടസ്സപ്പെടുത്തിയോ? ഞാൻ അറിയാത്തത് സമ്മതിച്ചോ? ഞാൻ ഒരു വ്യക്തമായ അടുത്ത ഘട്ടം പറഞ്ഞോ?
+END
+
+DRILL: 12.3 | Explain one trade-off three ways
+ഒരു technical തീരുമാനം എടുക്കുക. ഉദാഹരണം: on-prem versus cloud deployment. ഇത് മൂന്ന് പേരോട് ഓരോ മിനിറ്റിൽ വിശദീകരിക്കുക.
+- ഒരു CTO-യോട്: technical details സഹിതം.
+- ഒരു operations manager-നോട്: സമയവും ജോലിയും എങ്ങനെ മാറും എന്ന്.
+- ഒരു CFO-യോട്: ചിലവും risk-ഉം മാത്രം.
+മൂന്നും റെക്കോർഡ് ചെയ്ത് വാക്കുകൾ എങ്ങനെ മാറി എന്ന് ശ്രദ്ധിക്കുക.
+END
+
+### Small phrases that sound senior
+
+| Situation | Say this |
+| You need time to think | Let me think about that for a second. |
+| You don't know | I don't know yet. I'll find out and come back to you by tomorrow. |
+| The customer is wrong | I see why it looks that way. Let me show you what the data says. |
+| You want to agree a next step | So the next step is on our side. I'll send the plan by Friday. |
+| You need a decision | I need a decision on this by Wednesday to keep the launch date. |
+| Ending a call | Let me quickly recap what we agreed, so we're all on the same page. |
+
+## 12.9 A 30-day FDE prep plan | 30 ദിവസത്തെ തയ്യാറെടുപ്പ്
+
+നിങ്ങൾക്ക് ഇതിനകം RAG, agents, deployment അനുഭവമുണ്ടെങ്കിൽ, 30 ദിവസം കൊണ്ട് FDE interviews-ന് തയ്യാറാകാം. ദിവസവും ഏകദേശം 90 മിനിറ്റ്. ഈ പ്ലാൻ ഒറ്റയ്ക്ക് ചെയ്യാം, അല്ലെങ്കിൽ Chapter 15-ലെ 90 ദിവസ പ്ലാനിന്റെ FDE track-ആയി ചേർക്കാം.
+
+| Days | Focus | Output |
+| 1 to 7 | Understand the role. Rewrite your stories. Learn discovery questions | Three FDE stories recorded. A one-line FDE pitch |
+| 8 to 14 | Build a customer-style demo project on a realistic messy dataset | Working RAG or agent app, with a small eval set |
+| 15 to 21 | Decomposition practice and customer role-play | Five case problems done aloud. Three role-plays recorded |
+| 22 to 26 | Demo polish and written communication | Three-minute demo video, README, one deployment update |
+| 27 to 30 | Mock interviews and applications | Two full mock loops. Ten targeted applications |
+
+### Week 1: understand and reframe
+
+ആദ്യ ആഴ്ച role മനസ്സിലാക്കാനാണ്. അഞ്ച് FDE job postings വായിച്ച് പൊതുവായ requirements ഒരു പട്ടികയാക്കുക. Drill 12.1 ചെയ്യുക. 12.8-ലെ discovery questions ദിവസവും ഉറക്കെ പറയുക. ആഴ്ചയുടെ അവസാനം ഈ pitch 30 സെക്കൻഡിൽ പറയാൻ കഴിയണം.
+
+EN: I'm an AI engineer who builds RAG, agents and speech AI, / and I've deployed them inside clients' own environments. / I enjoy the part where the real customer problem meets the code, / and that's why I'm moving towards forward deployed work.
+
+### Week 2: build a customer-style project
+
+ഒരു "കസ്റ്റമർ" സങ്കൽപ്പിക്കുക. ഉദാഹരണം: ഒരു clinic-ന്റെ appointment, FAQ documents. അല്ലെങ്കിൽ ഒരു logistics കമ്പനിയുടെ PDF invoices. Public data ഉപയോഗിക്കുക, പക്ഷേ മനഃപൂർവം messy ആക്കുക. ചില scanned files, ചില missing fields. അതിൽ ഒരു RAG assistant അല്ലെങ്കിൽ agent ഉണ്ടാക്കുക. 50 ചോദ്യങ്ങളുള്ള ഒരു eval set ഉണ്ടാക്കി accuracy അളക്കുക. ഒരു one-page scope document എഴുതുക, ഒരു യഥാർത്ഥ കസ്റ്റമർക്ക് എഴുതുന്നത് പോലെ.
+
+TIP: Interview-ൽ ഈ project-നെക്കുറിച്ച് പറയുമ്പോൾ "I built a chatbot" എന്ന് പറയരുത്. "I scoped, built and evaluated an assistant for a clinic's front desk" എന്ന് പറയുക. Framing ആണ് FDE-യെ SWE-യിൽ നിന്ന് വേർതിരിക്കുന്നത്.
+
+### Week 3: decomposition and role-play
+
+ഓരോ ദിവസവും ഒരു case problem എടുത്ത് 20 മിനിറ്റ് ഉറക്കെ പരിഹരിക്കുക. ഉദാഹരണങ്ങൾ: ഒരു airline-ന്റെ customer emails, ഒരു hospital-ന്റെ discharge summaries, ഒരു bank-ന്റെ KYC documents, ഒരു retail chain-ന്റെ product catalogue, ഒരു സർക്കാർ ഓഫീസിന്റെ Arabic forms. 12.7-ലെ ക്രമം പാലിക്കുക. ഈ ആഴ്ച മൂന്ന് തവണ Drill 12.2 ചെയ്യുക.
+
+### Week 4: polish, mock and apply
+
+Project-ന്റെ 3 മിനിറ്റ് demo video റെക്കോർഡ് ചെയ്യുക, 12.8-ലെ demo narration ക്രമത്തിൽ. ഒരു deployment update എഴുതുക. ഒരു സുഹൃത്തിനോടോ AI partner-നോടോ രണ്ട് full mock interviews ചെയ്യുക. CV-യിലും LinkedIn-ലും "customer-facing", "deployed", "scoped" എന്നീ വാക്കുകൾ യഥാർത്ഥ ഉദാഹരണങ്ങൾ സഹിതം ചേർക്കുക. പിന്നെ ലക്ഷ്യമിട്ട് apply ചെയ്യുക.
+
+## 12.10 Where to apply | എവിടെ apply ചെയ്യാം?
+
+FDE റോളുകൾ പല തരം കമ്പനികളിലുണ്ട്. ഓരോന്നിനും വ്യത്യസ്ത ഗുണവും ദോഷവുമുണ്ട്.
+
+| Company type | Examples of the kind | What to expect |
+| Frontier AI labs | Model makers such as OpenAI and Anthropic | Highest pay, hardest interviews, mostly US, UK and some Asia hubs |
+| Data and AI platforms | Companies such as Palantir, Databricks, Scale AI, Cohere | Large enterprise and government customers. Strong engineering |
+| AI agent startups | Customer-service and voice-agent companies such as Sierra, Decagon, ElevenLabs | Fast pace, lots of building, equity |
+| Automation and workflow tools | Companies such as n8n and similar agent-builder platforms | Integrations, many customers, often remote friendly |
+| Cloud providers and big software firms | AI field and deployment teams at large cloud and SaaS companies | Stable pay, GCC and India offices, certifications help |
+| GCC enterprise AI | AI companies serving UAE and Saudi government, banks and telecoms | Onsite, Arabic is a plus, tax-free pay |
+| India GCCs and product companies | Global capability centres and AI product firms in Bengaluru, Hyderabad, Kochi | Growing fast. Check that the title means real engineering |
+| Voice AI and speech companies | Real-time voice-agent and speech platforms | A natural fit for speech AI experience |
+
+TIP: ഓരോ application-നും ഒരു ചെറിയ note ചേർക്കുക. ആ കമ്പനിയുടെ കസ്റ്റമേഴ്സിന് നിങ്ങളുടെ ഏത് deployment അനുഭവം ഉപയോഗപ്പെടും എന്ന്. FDE hiring managers ഇത് ശ്രദ്ധിക്കും.
+
+## 12.11 Quick check | സ്വയം പരിശോധിക്കാം
+
+QUIZ: What is the biggest difference between a forward deployed engineer and a solutions engineer? || The FDE only works remotely || *The FDE builds production code and owns the outcome until it works for the customer || The FDE never talks to customers || Solutions engineer പ്രധാനമായും വിൽപ്പനയെ സഹായിക്കുന്നു. FDE കസ്റ്റമറുടെ system production-ൽ പ്രവർത്തിക്കുന്നത് വരെ code എഴുതി ownership എടുക്കുന്നു.
+
+QUIZ: In a decomposition interview, what should you do first? || Draw the full architecture immediately || Start writing code || *Ask clarifying questions about the current process, scale and data || മിക്ക candidates-ഉം പരാജയപ്പെടുന്നത് ഉടനെ solution പറയുന്നതുകൊണ്ടാണ്. ആദ്യം ചോദ്യങ്ങൾ, പിന്നെ decompose, പിന്നെ ചെറിയ ആദ്യ ഘട്ടം.
+
+QUIZ: A customer asks for five use cases by the end of the month, which is not realistic. What is the best reply? || Yes, we can do that || No, that is impossible || *If the date is fixed, the scope has to shrink. Which matters more to you? || കാരണവും choice-ഉം നൽകുന്നതാണ് മാന്യമായ push back. തീരുമാനം കസ്റ്റമറുടെ കയ്യിൽ തിരിച്ച് കൊടുക്കുന്നു.
+
+QUIZ: Which part of a weekly deployment update should you never skip? || A list of every commit || *What we need from the customer || A joke to keep the tone light || കസ്റ്റമറുടെ ഭാഗത്തെ access, data, തീരുമാനങ്ങൾ എന്നിവ എഴുതി വെച്ചാൽ project വൈകുമ്പോൾ തർക്കം ഒഴിവാക്കാം.
+
+## 12.12 Sources | ആധാരങ്ങൾ
+
+ഈ അധ്യായത്തിലെ കണക്കുകൾ 2025–2026-ലെ താഴെയുള്ള പൊതു sources-ൽ നിന്നുള്ളതാണ്. ശമ്പള കണക്കുകൾ ഏകദേശമാണ്. Apply ചെയ്യുന്നതിന് മുൻപ് live postings നോക്കുക.
+
+- Paraform: What Is OpenAI's Forward Deployed Engineer? Role Breakdown, Skills and How to Hire One (June 2026).
+- Paraform: What a Forward-Deployed Engineer Actually Does at Palantir, Runway, and Greptile (April 2026).
+- Fortune: Forward deployed engineers, a fast-growing six-figure Silicon Valley job (September 2026).
+- Fast Company: Postings for this AI job are up 800 percent (2025), citing the Financial Times.
+- PYMNTS: Forward-Deployed Engineers Emerge as One of AI's Fastest-Growing Jobs (2026), citing Indeed data.
+- LeadDev: The rise of the forward deployed engineer.
+- Andreessen Horowitz (a16z): Trading Margin for Moat, on why the FDE is the hottest job in startups (2025).
+- GetPerspective: The 2026 Forward Deployed Engineering Compensation Report.
+- Fullstack: Forward-deployed engineer salary, what FDEs earn in 2026.
+- Exponent and Educative: Forward deployed engineer interview guides (2026).
+- Analytics India Magazine: Bengaluru accounts for 34 percent of India's FDE talent.
+- Glassdoor India, Built In and ZeroTaxJobs: FDE salary listings for India and the UAE (2026).

@@ -1,0 +1,208 @@
+# 10 | Money English: negotiation, proposals, clients | പണം ചോദിക്കാനുള്ള ഇംഗ്ലീഷ്
+SUMMARY: ഒരേ ജോലിക്ക് രണ്ട് പേർക്ക് വളരെ വ്യത്യസ്തമായ ശമ്പളം കിട്ടുന്നതിന്റെ ഒരു വലിയ കാരണം അവർ ചോദിക്കുന്ന രീതിയാണ്. Salary negotiation, freelance proposal, client discovery call, pricing എന്നിവയ്ക്കുള്ള വാചകങ്ങളും അവയുടെ പിന്നിലെ തന്ത്രങ്ങളും ഈ അധ്യായത്തിൽ.
+
+## 10.0 Mindset | മനോഭാവം
+
+നമ്മളിൽ പലർക്കും പണത്തെക്കുറിച്ച് സംസാരിക്കാൻ ഒരു മടിയുണ്ട്. "കൂടുതൽ ചോദിച്ചാൽ offer പോകുമോ?", "അത്യാഗ്രഹിയാണെന്ന് കരുതുമോ?" എന്നൊക്കെ. പക്ഷേ global കമ്പനികളിൽ negotiation ഒരു സാധാരണ ഭാഗമാണ്. HR പ്രതീക്ഷിക്കുന്നത് തന്നെയാണ്. മര്യാദയോടെ negotiate ചെയ്തതിന്റെ പേരിൽ offer പിൻവലിക്കുന്നത് വളരെ അപൂർവമാണ്.
+
+ഓർക്കുക: നിങ്ങൾ ചോദിക്കുന്നത് ഒരു ഉപകാരമല്ല. നിങ്ങൾ കൊണ്ടുവരുന്ന value-ന്റെ വിലയാണ്.
+
+ഈ അധ്യായത്തിലെ വാചകങ്ങൾ ഉറക്കെ പരിശീലിക്കുക. ആത്മവിശ്വാസത്തോടെ, സാവധാനം, **താഴ്ന്ന intonation-ൽ** അവസാനിപ്പിക്കുക. നമ്പർ പറയുമ്പോൾ ശബ്ദം ഉയർന്നാൽ, അത് ഒരു ചോദ്യം പോലെ തോന്നും, "ഇത്ര കിട്ടുമോ?" എന്ന്. താഴ്ന്നാൽ, അത് ഒരു തീരുമാനം പോലെ തോന്നും.
+
+NOTE: ഈ അധ്യായത്തിലെ എല്ലാ തുകകളും ഉദാഹരണങ്ങൾ മാത്രമാണ്. നിങ്ങളുടെ നഗരം, റോൾ, അനുഭവം എന്നിവയ്ക്കനുസരിച്ച് യഥാർത്ഥ market range കണ്ടുപിടിക്കുക. Job boards, salary surveys, ആ കമ്പനിയിൽ ജോലി ചെയ്യുന്ന സുഹൃത്തുക്കൾ എന്നിവ ഉപയോഗിക്കുക.
+
+## 10.1 Salary negotiation phrases | ശമ്പള ചർച്ചയിലെ വാചകങ്ങൾ
+
+### Tactic 1: Let them name a number first | ആദ്യം അവർ നമ്പർ പറയട്ടെ
+
+ആദ്യം നമ്പർ പറയുന്നയാൾ ചർച്ചയുടെ "anchor" നിശ്ചയിക്കുന്നു. നിങ്ങൾ വളരെ താഴ്ന്ന നമ്പർ പറഞ്ഞാൽ, അവരുടെ budget കൂടുതലായിരുന്നാലും അവർ നിങ്ങളുടെ നമ്പർ സന്തോഷത്തോടെ സ്വീകരിക്കും. അതുകൊണ്ട് ആദ്യം അവരുടെ range ചോദിക്കുക.
+
+EN: I'd like to understand the full scope of the role first. / Could you share the budgeted range for this position?
+
+### Tactic 2: If they insist, give a researched range | നിർബന്ധിച്ചാൽ, ഒരു range പറയുക
+
+ചിലപ്പോൾ അവർ വീണ്ടും ചോദിക്കും. അപ്പോൾ ഒഴിഞ്ഞുമാറരുത്. ഒരു range പറയുക, അത് market-നെ അടിസ്ഥാനമാക്കിയാണെന്ന് പറയുക. "Based on" എന്ന വാക്ക് നിങ്ങളുടെ നമ്പറിനെ ഒരു വ്യക്തിപരമായ ആഗ്രഹമല്ല, ഒരു വസ്തുതയാക്കുന്നു.
+
+EN: Based on similar AI roles in this market, / I'm targeting USD 5,000 to 5,500 a month, / depending on the full package.
+
+TIP: Range-ന്റെ **താഴത്തെ അറ്റം** നിങ്ങൾ യഥാർത്ഥത്തിൽ സന്തോഷത്തോടെ സ്വീകരിക്കുന്ന നമ്പർ ആയിരിക്കണം. കാരണം, അവർ മിക്കവാറും താഴത്തെ അറ്റത്തിനടുത്താണ് offer ചെയ്യുക.
+
+### Tactic 3: Avoid sharing your current salary | ഇപ്പോഴത്തെ ശമ്പളം പറയേണ്ടതില്ല
+
+ഇപ്പോഴത്തെ ശമ്പളം കുറവാണെങ്കിൽ, അവർ അതിൽ നിന്ന് ഒരു ചെറിയ ശതമാനം മാത്രം കൂട്ടും. പുതിയ റോളിന്റെ വില ആ റോളിന്റെ market അനുസരിച്ചാണ്, നിങ്ങളുടെ പഴയ ശമ്പളം അനുസരിച്ചല്ല. മര്യാദയോടെ ചർച്ച തിരിച്ചുവിടുക.
+
+EN: I'd prefer to focus on the value I'd bring to this role, / and the market range for it.
+
+NOTE: ചില രാജ്യങ്ങളിലും കമ്പനികളിലും salary slip നിർബന്ധമായി ചോദിക്കും. അങ്ങനെയെങ്കിൽ സത്യം പറയുക, പക്ഷേ ഉടനെ ചർച്ച പുതിയ റോളിന്റെ range-ലേക്ക് തിരിക്കുക.
+
+### Tactic 4: Thank, then ask | ആദ്യം നന്ദി, പിന്നെ ചോദ്യം
+
+Offer കുറവാണെങ്കിൽ, ആദ്യം ഉത്സാഹം കാണിക്കുക. ഇത് "ഞാൻ ഈ ജോലി ആഗ്രഹിക്കുന്നു, പ്രശ്നം നമ്പർ മാത്രമാണ്" എന്ന സന്ദേശം നൽകുന്നു. പിന്നെ ഒരു തുറന്ന ചോദ്യം: "Is there flexibility?" ഇത് ഒരു ആവശ്യമല്ല, ഒരു ക്ഷണമാണ്.
+
+EN: Thank you, I'm really excited about this role. / The base is below what I was expecting. / Is there flexibility to bring it closer to 5,500?
+
+### Tactic 5: Negotiate the whole package | മുഴുവൻ package നോക്കുക
+
+Base salary-ക്ക് ഒരു budget പരിധി ഉണ്ടാകാം. പക്ഷേ മറ്റ് ഭാഗങ്ങൾ മാറ്റാൻ HR-ന് പലപ്പോഴും എളുപ്പമാണ്. ഒന്നിൽ "ഇല്ല" എന്ന് കേട്ടാൽ, മറ്റൊന്ന് ചോദിക്കുക.
+
+EN: I understand. / Could we look at other parts of the package? / For example, a joining bonus, a salary review after six months, or housing and travel allowances.
+
+| Package item | When to ask |
+| Joining bonus | Base-ൽ പരിധി ഉള്ളപ്പോൾ. ഒരു തവണ മാത്രമുള്ള ചെലവായതിനാൽ എളുപ്പം. |
+| Six-month review | "Prove ചെയ്തിട്ട് കൂട്ടാം" എന്ന് അവർ പറയുമ്പോൾ. എഴുതി വാങ്ങുക. |
+| Allowances | Gulf, relocation റോളുകളിൽ. Housing, flight, education. |
+| Remote days | Commute ദൂരമുള്ളപ്പോൾ. |
+| Learning budget | Certification, conference എന്നിവയ്ക്ക്. |
+| Start date | നോട്ടീസ് പീരിയഡ് കൂടുതലുള്ളപ്പോൾ. |
+
+### Tactic 6: Buy time | സമയം ചോദിക്കുക
+
+Phone call-ൽ തന്നെ ഉടനെ "yes" പറയേണ്ടതില്ല. സമയം ചോദിക്കുന്നത് സാധാരണമാണ്, ബഹുമാനം കുറയ്ക്കില്ല. ഒരു നിശ്ചിത സമയം പറയുക, അത് പാലിക്കുക.
+
+EN: I appreciate the offer. / Could I take two days to review it with my family? / I'll get back to you by Thursday.
+
+### Tactic 7: Use silence | നിശ്ശബ്ദത ഉപയോഗിക്കുക
+
+നിങ്ങളുടെ നമ്പർ പറഞ്ഞ ശേഷം, **നിർത്തുക.** നിശ്ശബ്ദത അസ്വസ്ഥമാണെന്ന് തോന്നും. പക്ഷേ ഉടനെ "but I'm flexible, even less is okay" എന്ന് കൂട്ടിച്ചേർക്കരുത്. മറ്റേയാൾ ആദ്യം സംസാരിക്കട്ടെ.
+
+WARN: ഏറ്റവും സാധാരണമായ തെറ്റ്: നമ്പർ പറഞ്ഞ ഉടനെ സ്വയം കുറയ്ക്കുക. "I'm looking at 5,000, but anything is fine." ഇത് ഒരിക്കലും പറയരുത്.
+
+### Tactic 8: Accept in writing | എഴുതി വാങ്ങുക
+
+വാക്കാലുള്ള offer ഒരു offer അല്ല. എല്ലാ വിശദാംശങ്ങളും എഴുതി വരുന്നത് വരെ നിലവിലെ ജോലി രാജിവെക്കരുത്.
+
+EN: Thank you. I'm happy to accept. / Could you send the offer in writing, / including the review date we discussed?
+
+### Summary table | ചുരുക്കം
+
+| Situation | Say |
+| They ask your expectation first | Could you share the budgeted range for this role? |
+| They insist | Based on similar roles in this market, I'm targeting X to Y. |
+| Offer is low | I'm excited about the role. Is there flexibility on the base? |
+| They say no on base | Could we look at a joining bonus or a six-month review? |
+| You need time | Could I take two days to review it? |
+| Current salary question | I'd prefer to focus on the market range for this role. |
+| Accepting | I'm happy to accept. Could you send it in writing? |
+
+## 10.2 Pricing language | വില പറയാനുള്ള ഭാഷ
+
+Freelance, contract ജോലികളിൽ വില പറയുന്നത് ഒരു കഴിവാണ്. വില പറയുമ്പോൾ മടിക്കരുത്, ക്ഷമ ചോദിക്കരുത്. "Sorry, but my rate is" എന്ന് പറഞ്ഞാൽ, നിങ്ങൾക്ക് തന്നെ നിങ്ങളുടെ വിലയിൽ വിശ്വാസമില്ലെന്ന് തോന്നും.
+
+### Three ways to price | വില നിശ്ചയിക്കാനുള്ള മൂന്ന് വഴികൾ
+
+| Model | When to use | Example phrase |
+| Hourly | Scope വ്യക്തമല്ലാത്തപ്പോൾ, maintenance, support. | My rate is USD 40 an hour, billed weekly. |
+| Fixed price | Scope വ്യക്തമായി എഴുതാൻ കഴിയുമ്പോൾ. | The fixed price for this scope is USD 2,000. |
+| Monthly retainer | തുടർച്ചയായ ജോലി, ഒരു നിശ്ചിത മണിക്കൂറുകൾ. | For 40 hours a month, the retainer is USD 1,500. |
+
+### Phrases that sound confident | ആത്മവിശ്വാസമുള്ള വാചകങ്ങൾ
+
+EN: For this scope, the price is USD 2,000, paid in two parts: 50 percent to start, and 50 percent on delivery.
+EN: That price includes two rounds of changes. Anything beyond that is billed at my hourly rate.
+EN: If the budget is tight, we could start with phase one only, for USD 800.
+
+അവസാനത്തെ വാചകം ശ്രദ്ധിക്കുക. Client "too expensive" എന്ന് പറഞ്ഞാൽ, വില കുറയ്ക്കരുത്. **Scope കുറയ്ക്കുക.** വില കുറച്ചാൽ, അടുത്ത തവണയും അവർ discount പ്രതീക്ഷിക്കും. Scope കുറച്ചാൽ, നിങ്ങളുടെ മണിക്കൂറിന്റെ വില അതേപടി നിൽക്കും.
+
+### When they push back | Client എതിർക്കുമ്പോൾ
+
+EN: I understand. What budget did you have in mind? / Let me see what I can deliver within it.
+EN: I can do it for less, but I'd remove the dashboard and the weekly report. Would that still work for you?
+
+WARN: "I'm a fresher, so any amount is okay" എന്നോ "Whatever you feel is right" എന്നോ ഒരിക്കലും പറയരുത്. ഒരു നിശ്ചിത നമ്പർ പറയുക. നിങ്ങൾക്ക് പോലും നിങ്ങളുടെ വില അറിയില്ലെങ്കിൽ, client-ഉം ഏറ്റവും കുറഞ്ഞ വില തന്നെ തിരഞ്ഞെടുക്കും.
+
+TIP: Scope creep ഒഴിവാക്കാൻ ഒരു ലളിതമായ വാചകം: "Happy to add that. It's outside the current scope, so I'll send a small quote for it."
+
+## 10.3 Freelance proposal template | ഫ്രീലാൻസ് പ്രൊപ്പോസൽ
+
+Freelance platforms-ൽ ഒരു job-ന് അമ്പതോ നൂറോ proposals വരും. Client മിക്കവയുടെയും ആദ്യ രണ്ട് വരി മാത്രം വായിക്കും. ആ രണ്ട് വരിയിൽ "ഇയാൾക്ക് എന്റെ പ്രശ്നം മനസ്സിലായി" എന്ന് തോന്നണം.
+
+### The formula | ഫോർമുല
+
+| Step | What to write | Why it works |
+| 1. Their problem | അവരുടെ പ്രശ്നം അവരുടെ വാക്കുകളിൽ. | നിങ്ങൾ job post ശ്രദ്ധിച്ച് വായിച്ചു എന്ന് കാണിക്കുന്നു. |
+| 2. Proof | നിങ്ങൾ ചെയ്തിട്ടുള്ള സമാന ജോലി, ഒരു demo link. | "Can do" എന്നതിനേക്കാൾ "have done" ശക്തമാണ്. |
+| 3. Plan | ആഴ്ചകളായി 3 step plan. | നിങ്ങൾ ഇതിനകം അവരുടെ project-നെക്കുറിച്ച് ചിന്തിച്ചു. |
+| 4. Price | വ്യക്തമായ ഒരു നമ്പർ. | ഊഹിക്കേണ്ട കാര്യമില്ല. |
+| 5. Small call | ഒരു ചെറിയ, എളുപ്പമുള്ള next step. | "Yes" പറയാൻ എളുപ്പം. |
+
+### Before | മോശം രൂപം
+
+EN: Dear Sir or Madam, I am a hardworking and dedicated developer with 4 years of experience in Python, Java, React, AI, ML and cloud. I have read your requirement and I can do this work with full satisfaction. Kindly give me a chance.
+
+ഇതിൽ അവരുടെ പ്രശ്നത്തെക്കുറിച്ച് ഒരു വാക്കും ഇല്ല. ഏത് job-നും അയക്കാവുന്ന ഒരു copy-paste ആണ്. "Kindly give me a chance" എന്നത് യാചന പോലെ തോന്നും, ഒരു വിദഗ്ധനെ പോലെയല്ല.
+
+### After | നല്ല രൂപം
+
+EN: Hi Maria,
+EN: You need your support inbox sorted automatically, with a human approving every refund.
+EN: I built exactly this last month: an LLM classifies each ticket, drafts a reply, and sends refunds and unclear cases to an approval step. Here's a two-minute demo.
+EN: For your setup, I'd do it in three steps.
+EN: Week 1: connect your help desk and classify your last 500 tickets, to measure accuracy.
+EN: Week 2: add drafted replies and the approval step.
+EN: Week 3: go live, with alerts and a weekly accuracy report.
+EN: Fixed price: USD 1,800. Or USD 45 an hour, if you prefer.
+EN: Happy to do a 15-minute call this week.
+EN: Arun.
+
+TIP: Proposal-ൽ ഒരു ചെറിയ, സ്മാർട്ട് ചോദ്യം ചേർക്കുന്നത് നല്ലതാണ്: "Do refunds above a certain amount need a manager's approval?" ഇത് നിങ്ങൾ ഗൗരവമായി ചിന്തിക്കുന്നു എന്ന് കാണിക്കും, ഒപ്പം ഒരു മറുപടിക്ക് കാരണം നൽകും.
+
+WARN: "Dear Sir or Madam", "I am a hardworking", "Kindly give me a chance", "100 percent satisfaction guaranteed" എന്നിവ ഉപയോഗിക്കരുത്. ഇവ കണ്ടാൽ client ഉടനെ അടുത്ത proposal-ലേക്ക് പോകും.
+
+## 10.4 Discovery call questions | ആദ്യ client call
+
+ഒരു client-മായുള്ള ആദ്യ 15 മിനിറ്റ് call-ന്റെ ലക്ഷ്യം നിങ്ങളെ വിൽക്കുക എന്നതല്ല. **അവരുടെ പ്രശ്നം മനസ്സിലാക്കുക** എന്നതാണ്. നന്നായി ചോദ്യങ്ങൾ ചോദിക്കുന്നയാൾ സ്വയം ഒരു വിദഗ്ധനായി കാണപ്പെടുന്നു. കൂടുതൽ കേൾക്കുക, കുറച്ച് സംസാരിക്കുക. ഏകദേശം 70 ശതമാനം അവർ, 30 ശതമാനം നിങ്ങൾ.
+
+### The questions and why each matters | ചോദ്യങ്ങളും അവയുടെ ഉദ്ദേശ്യവും
+
+ആദ്യ ചോദ്യം ഇപ്പോഴത്തെ അവസ്ഥയും urgency-യും കണ്ടെത്തുന്നു. "Why now" എന്നതിന്റെ ഉത്തരം അവർ എത്ര ഗൗരവമായി ചിന്തിക്കുന്നു എന്ന് പറയും.
+
+EN: What's happening today, / and what made you look for help now?
+
+രണ്ടാമത്തെ ചോദ്യം പ്രശ്നത്തിന്റെ വില കണ്ടെത്തുന്നു. ആഴ്ചയിൽ 30 മണിക്കൂർ പോകുന്നുണ്ടെങ്കിൽ, നിങ്ങളുടെ വില അതുമായി താരതമ്യം ചെയ്യാം.
+
+EN: How do you handle this at the moment, / and how much time does it take each week?
+
+മൂന്നാമത്തെ ചോദ്യം വിജയത്തിന്റെ അളവ് നിശ്ചയിക്കുന്നു. പിന്നീട് "ഇതല്ല ഞങ്ങൾ ആഗ്രഹിച്ചത്" എന്ന പ്രശ്നം ഒഴിവാക്കാം.
+
+EN: What would a great result look like in three months?
+
+നാലാമത്തെ ചോദ്യം തീരുമാനമെടുക്കുന്നയാളെ കണ്ടെത്തുന്നു. നിങ്ങൾ സംസാരിക്കുന്നയാൾക്ക് "yes" പറയാൻ അധികാരം ഇല്ലായിരിക്കാം.
+
+EN: Who else is involved in the decision?
+
+അഞ്ചാമത്തെ ചോദ്യം budget ആണ്. ഇത് ചോദിക്കാൻ മടിക്കരുത്. ഒരു ലക്ഷം രൂപയുടെ പ്രശ്നവും പത്ത് ലക്ഷത്തിന്റെ പ്രശ്നവും വ്യത്യസ്തമായ proposals ആവശ്യപ്പെടുന്നു.
+
+EN: Do you have a budget range in mind for this?
+
+അവസാനം, ഒരു വ്യക്തമായ next step നിർദ്ദേശിക്കുക. Call അവസാനിക്കുമ്പോൾ എന്ത് സംഭവിക്കും എന്ന് രണ്ടുപേർക്കും അറിയണം.
+
+EN: Here's what I suggest as a first step. / I'll send a short proposal by Friday, / and we can review it together on Monday.
+
+### Mirror their words | അവരുടെ വാക്കുകൾ തിരിച്ചു പറയുക
+
+Call-ന്റെ നടുവിലോ അവസാനമോ, അവരുടെ പ്രശ്നം നിങ്ങളുടെ വാക്കുകളിൽ ചുരുക്കി പറയുക. ഇത് രണ്ട് കാര്യങ്ങൾ ചെയ്യുന്നു. നിങ്ങൾക്ക് തെറ്റിയിട്ടുണ്ടെങ്കിൽ അവർ തിരുത്തും. ശരിയാണെങ്കിൽ, "ഇയാൾക്ക് മനസ്സിലായി" എന്ന് അവർക്ക് തോന്നും.
+
+EN: So if I understood correctly, / your team spends about 30 hours a week on this, / and the goal is to cut response time to under two hours. / Is that right?
+
+### Follow-up email after the call | Call കഴിഞ്ഞുള്ള email
+
+EN: Hi Maria, thanks for your time today.
+EN: Here's what I heard: your team spends about 30 hours a week sorting tickets, and you'd like replies within two hours.
+EN: As agreed, I'll send a proposal by Friday.
+EN: Arun.
+
+TIP: Call-ന്റെ അന്ന് തന്നെ follow-up അയക്കുക. ഇത് മാത്രം കൊണ്ട് നിങ്ങൾ മിക്ക freelancers-ൽ നിന്നും വേറിട്ട് നിൽക്കും.
+
+DRILL: 10 | Negotiation and discovery role-play
+ഒരു സുഹൃത്തിനോടോ AI voice mode-നോടോ role-play ചെയ്യുക. ആദ്യം HR ആയി അവർ ഒരു കുറഞ്ഞ offer തരട്ടെ. നിങ്ങൾ Tactic 4, 5, 6 ഉപയോഗിക്കുക. പിന്നെ റോളുകൾ മാറ്റി, ഒരു client discovery call ചെയ്യുക.
+- നമ്പർ പറഞ്ഞ ശേഷം നിശ്ശബ്ദമായിരുന്നോ?
+- വാചകങ്ങൾ താഴ്ന്ന intonation-ൽ അവസാനിച്ചോ?
+- Discovery call-ൽ നിങ്ങൾ 30 ശതമാനത്തിൽ കുറവ് സംസാരിച്ചോ?
+- അവസാനം ഒരു next step പറഞ്ഞോ?
+EN: Act as an HR manager. Make me a job offer that is slightly below my range, and push back once when I negotiate.
+END
+
+QUIZ: Interview-ൽ expected salary ആദ്യം ചോദിച്ചാൽ ഏറ്റവും നല്ല ആദ്യ മറുപടി ഏത്? || ഇപ്പോഴത്തെ ശമ്പളം പറയുക || *ആ റോളിന്റെ budgeted range എന്താണെന്ന് ചോദിക്കുക || "Anything is fine" എന്ന് പറയുക || ആദ്യം നമ്പർ പറയുന്നയാൾ anchor നിശ്ചയിക്കുന്നു. അവരുടെ range ആദ്യം അറിയുന്നതാണ് സുരക്ഷിതം.
+QUIZ: Freelance client "too expensive" എന്ന് പറഞ്ഞാൽ എന്ത് ചെയ്യണം? || ഉടനെ വില പകുതിയാക്കുക || ക്ഷമ ചോദിച്ച് പിന്മാറുക || *Scope കുറച്ച്, ചെറിയ ഒരു phase ഒരു കുറഞ്ഞ വിലയ്ക്ക് നിർദ്ദേശിക്കുക || Scope കുറച്ചാൽ നിങ്ങളുടെ മണിക്കൂറിന്റെ വില അതേപടി നിൽക്കും, client-ന് ഒരു option-ഉം കിട്ടും.
+QUIZ: ഒരു നല്ല freelance proposal എങ്ങനെ തുടങ്ങണം? || Dear Sir or Madam, I am a hardworking developer || *Client-ന്റെ പ്രശ്നം അവരുടെ വാക്കുകളിൽ || നിങ്ങളുടെ എല്ലാ skills-ന്റെയും ഒരു list || ആദ്യ രണ്ട് വരിയിൽ "ഇയാൾക്ക് എന്റെ പ്രശ്നം മനസ്സിലായി" എന്ന് client-ന് തോന്നണം.
+QUIZ: Discovery call-ൽ "Who else is involved in the decision?" എന്ന് ചോദിക്കുന്നത് എന്തിനാണ്? || സംഭാഷണം നീട്ടാൻ || *യഥാർത്ഥ തീരുമാനമെടുക്കുന്നയാളെ കണ്ടെത്താൻ || Client-നെ പരീക്ഷിക്കാൻ || നിങ്ങൾ സംസാരിക്കുന്നയാൾക്ക് "yes" പറയാൻ അധികാരം ഇല്ലെങ്കിൽ, proposal ആരിലേക്ക് എത്തണം എന്ന് അറിയണം.

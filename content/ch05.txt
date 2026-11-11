@@ -1,0 +1,368 @@
+# 5 | Indian English to global English | ഇന്ത്യൻ ഇംഗ്ലീഷിൽ നിന്ന് ആഗോള ഇംഗ്ലീഷിലേക്ക്
+SUMMARY: ഇന്ത്യയിൽ സ്വാഭാവികമായി തോന്നുന്ന പല പ്രയോഗങ്ങളും US, UK, Gulf ക്ലയന്റുകൾക്ക് വിചിത്രമോ തെറ്റോ ആയി തോന്നും. ഈ അധ്യായത്തിൽ അത്തരം പ്രയോഗങ്ങൾ, articles, tenses, വിനയം എന്നിവ ലളിതമായി ശരിയാക്കാം.
+
+## 5.1 Why this matters | എന്തിന് ഇത് ശ്രദ്ധിക്കണം
+
+ഇന്ത്യൻ ഇംഗ്ലീഷ് ഒരു തെറ്റായ ഭാഷയല്ല. കോടിക്കണക്കിന് ആളുകൾ ഉപയോഗിക്കുന്ന, സ്വന്തം ശൈലിയുള്ള ഒരു ഇംഗ്ലീഷാണ് അത്. പ്രശ്നം എന്താണെന്ന് വെച്ചാൽ, നിങ്ങളുടെ ക്ലയന്റോ interviewer-ഓ ആ ശൈലി പരിചയമുള്ളവരായിരിക്കില്ല.
+
+"Please do the needful" എന്ന് ഒരു ഇന്ത്യൻ മാനേജർ വായിച്ചാൽ ഉടനെ മനസ്സിലാകും. ഒരു അമേരിക്കൻ ക്ലയന്റ് വായിച്ചാൽ "എന്താണ് needful?" എന്ന് ആശയക്കുഴപ്പത്തിലാകും. ഇന്റർവ്യൂവിൽ ഇത്തരം പ്രയോഗങ്ങൾ "ഇയാൾ global team-ൽ ജോലി ചെയ്തിട്ടില്ല" എന്ന ഒരു ഫീലിംഗ് ഉണ്ടാക്കും, നിങ്ങളുടെ technical skills എത്ര നല്ലതാണെങ്കിലും.
+
+ഈ അധ്യായത്തിലെ ഓരോ പ്രയോഗത്തിനും മൂന്ന് കാര്യങ്ങൾ നോക്കാം. എന്തുകൊണ്ട് അത് വിചിത്രമായി തോന്നുന്നു. എന്താണ് ശരിയായ രൂപം. ശരിയായ രൂപം ഉപയോഗിച്ചുള്ള ഉദാഹരണങ്ങൾ.
+
+TIP: എല്ലാം ഒറ്റയടിക്ക് മാറ്റാൻ ശ്രമിക്കേണ്ട. ഓരോ ആഴ്ചയും മൂന്ന് പ്രയോഗങ്ങൾ തിരഞ്ഞെടുത്ത്, നിങ്ങളുടെ emails-ലും Slack messages-ലും ശ്രദ്ധിച്ച് മാറ്റുക.
+
+## 5.2 Introducing yourself and your experience | സ്വയം പരിചയപ്പെടുത്തൽ
+
+### "I am having 4 years of experience"
+
+എന്തുകൊണ്ട് വിചിത്രം: have എന്ന വാക്ക് "ഉണ്ട്, കൈവശമുണ്ട്" എന്ന അർത്ഥത്തിൽ വരുമ്പോൾ അത് ഒരു state verb ആണ്. State verbs സാധാരണ -ing രൂപത്തിൽ വരില്ല. "I am knowing", "I am owning" എന്നൊന്നും പറയാത്തതുപോലെ തന്നെ. മലയാളത്തിലെ "എനിക്ക് നാല് വർഷത്തെ experience ഉണ്ട്" എന്ന് നേരിട്ട് translate ചെയ്യുമ്പോഴാണ് ഈ തെറ്റ് വരുന്നത്.
+
+ശരിയായ രൂപം: simple present, "I have".
+
+EN: I have four years of experience in backend development.
+EN: I have about six years of experience, / mostly in Python and cloud infrastructure.
+EN: I have a strong background in speech AI.
+
+NOTE: "having" ശരിയാകുന്ന സന്ദർഭങ്ങളുമുണ്ട്. have എന്നത് ഒരു പ്രവൃത്തിയാകുമ്പോൾ, ഉദാഹരണത്തിന് "I'm having lunch", "We're having a meeting", "I'm having trouble with the build". ഇവിടെ have എന്നാൽ "കഴിക്കുക, നടത്തുക, അനുഭവിക്കുക" എന്നാണ്.
+
+### "Myself Arun"
+
+എന്തുകൊണ്ട് വിചിത്രം: myself എന്നത് ഒരു reflexive pronoun ആണ്. Subject ആയി അത് ഉപയോഗിക്കില്ല. "I hurt myself", "I taught myself Python" പോലെ, ഒരേ ആളിലേക്ക് തിരിച്ചു വരുമ്പോൾ മാത്രം.
+
+ശരിയായ രൂപം: "I'm Arun" അല്ലെങ്കിൽ "My name is Arun".
+
+EN: Hi, I'm Arun. / I'm a backend engineer based in Kochi.
+EN: My name is Arun, / and I lead the platform team.
+EN: I taught myself Kubernetes / during a weekend project.
+
+### "I passed out in 2022"
+
+എന്തുകൊണ്ട് വിചിത്രം: global ഇംഗ്ലീഷിൽ "pass out" എന്നാൽ ബോധം കെട്ട് വീഴുക എന്നാണ്. "I passed out in 2022" എന്ന് കേൾക്കുമ്പോൾ ക്ലയന്റ് ചിന്തിക്കുക, "2022-ൽ ഇയാൾക്ക് എന്ത് പറ്റി?" എന്നായിരിക്കും.
+
+ശരിയായ രൂപം: "graduated".
+
+EN: I graduated in 2022 / with a degree in computer science.
+EN: I graduated from a college in Kerala / and joined my company the same year.
+
+### "I am software engineer"
+
+എന്തുകൊണ്ട് വിചിത്രം: മലയാളത്തിൽ articles ഇല്ല. അതുകൊണ്ട് a, an, the എന്നിവ നമ്മൾ വിട്ടുകളയും. ഇംഗ്ലീഷിൽ എണ്ണാവുന്ന ഒരു noun ഒറ്റയ്ക്ക് വരുമ്പോൾ മുന്നിൽ ഒരു article വേണം. ഇത് വിശദമായി 5.6-ൽ കാണാം.
+
+EN: I'm a software engineer.
+EN: I'm an AI engineer / at a product company.
+EN: She's the tech lead / on this project.
+
+## 5.3 Questions, requests and replies | ചോദ്യങ്ങളും അഭ്യർത്ഥനകളും
+
+### "I have a doubt"
+
+എന്തുകൊണ്ട് വിചിത്രം: ഇന്ത്യയിൽ doubt എന്നാൽ "സംശയം, ചോദ്യം" എന്നാണ്. ആഗോള ഇംഗ്ലീഷിൽ doubt എന്നാൽ "വിശ്വാസക്കുറവ്" എന്നാണ്. "I have a doubt about your design" എന്ന് പറഞ്ഞാൽ "നിങ്ങളുടെ design ശരിയാണെന്ന് എനിക്ക് വിശ്വാസമില്ല" എന്ന് തോന്നും.
+
+ശരിയായ രൂപം: "I have a question".
+
+EN: I have a question about the deployment steps.
+EN: Quick question. / Is the staging server down?
+EN: Could I ask something / about the API limits?
+
+### "Please do the needful"
+
+എന്തുകൊണ്ട് വിചിത്രം: needful എന്ന വാക്ക് ഇന്ന് global ഇംഗ്ലീഷിൽ ഉപയോഗിക്കുന്നില്ല. അതിലും വലിയ പ്രശ്നം, എന്താണ് ചെയ്യേണ്ടതെന്ന് അത് പറയുന്നില്ല എന്നതാണ്. Global ടീമുകൾ കൃത്യത ഇഷ്ടപ്പെടുന്നു. എന്ത്, എപ്പോൾ എന്ന് വ്യക്തമായി പറയുക.
+
+ശരിയായ രൂപം: കൃത്യമായ ആവശ്യവും സമയവും.
+
+EN: Could you please update the config by Friday?
+EN: Could you restart the worker / and share the logs with me?
+EN: Please approve the pull request / when you get a chance.
+
+### "Kindly revert back"
+
+എന്തുകൊണ്ട് വിചിത്രം: revert എന്നാൽ "പഴയ അവസ്ഥയിലേക്ക് തിരിച്ചു കൊണ്ടുപോകുക" എന്നാണ്. Engineers-ന് ഇത് നന്നായി അറിയാം, git revert. ഒരു ക്ലയന്റിന് "Please revert" എന്ന് എഴുതിയാൽ "എന്റെ മാറ്റങ്ങൾ undo ചെയ്യണോ?" എന്ന് തോന്നാം. കൂടാതെ revert-ൽ തന്നെ "back" എന്ന അർത്ഥം ഉള്ളതുകൊണ്ട് "revert back" എന്നത് ആവർത്തനമാണ്.
+
+ശരിയായ രൂപം: "get back to me", "reply".
+
+EN: Please get back to me / when you have a moment.
+EN: Could you reply by Thursday?
+EN: Let me know what you think.
+
+### "Tell me" at the start of a call
+
+എന്തുകൊണ്ട് വിചിത്രം: ഫോൺ എടുക്കുമ്പോൾ "Tell me" എന്ന് പറയുന്നത് ഇന്ത്യയിൽ സാധാരണമാണ്. പുറത്ത് ഇത് ഒരു കല്പന പോലെ, അല്ലെങ്കിൽ അക്ഷമ പോലെ തോന്നാം.
+
+ശരിയായ രൂപം: ഒരു greeting, പിന്നെ ഒരു തുറന്ന ചോദ്യം.
+
+EN: Hi Sarah, how can I help?
+EN: Hi, good to hear from you. / What's up?
+EN: Hey, thanks for calling. / What can I do for you?
+
+### "isn't it?" everywhere
+
+എന്തുകൊണ്ട് വിചിത്രം: ഇന്ത്യൻ ഇംഗ്ലീഷിൽ "isn't it" എല്ലാ വാക്യത്തിനും ഒടുവിൽ ചേർക്കും. ഇംഗ്ലീഷിൽ question tag വാക്യത്തിന്റെ verb-നോട് ചേരണം. "The deployment is done, isn't it?" എന്നത് grammar പ്രകാരം ശരിയാണെങ്കിലും, "You fixed it, isn't it?" എന്നത് തെറ്റാണ്.
+
+ശരിയായ രൂപം: ലളിതമായ "right?", അല്ലെങ്കിൽ നേരിട്ടുള്ള ചോദ്യം, അല്ലെങ്കിൽ ശരിയായ tag.
+
+EN: The deployment is done, right?
+EN: Is the deployment done?
+EN: You fixed it, didn't you?
+EN: They're joining the call, aren't they?
+
+## 5.4 Words that only exist in India | ഇന്ത്യയിൽ മാത്രമുള്ള വാക്കുകൾ
+
+### "Can we prepone the meeting?"
+
+എന്തുകൊണ്ട് വിചിത്രം: prepone എന്നത് postpone എന്നതിന്റെ എതിർവാക്കായി ഇന്ത്യയിൽ ഉണ്ടായ ഒരു വാക്കാണ്. യുക്തിപരമാണ്, പക്ഷേ പുറത്ത് ആർക്കും അറിയില്ല.
+
+ശരിയായ രൂപം: "move earlier", "bring forward".
+
+EN: Can we move the meeting earlier?
+EN: Could we bring the call forward / to 10 o'clock?
+EN: Would it be possible to start an hour earlier?
+
+### "Updation" and "intimation"
+
+എന്തുകൊണ്ട് വിചിത്രം: updation എന്നൊരു വാക്ക് ഇംഗ്ലീഷിൽ ഇല്ല. update തന്നെ noun ആയും ഉപയോഗിക്കാം. intimation എന്നത് പഴയ, വളരെ formal ആയ വാക്കാണ്. മറ്റ് ഭാഷകളിൽ intimate എന്നതിന് സ്വകാര്യമായ, അടുപ്പമുള്ള എന്ന അർത്ഥം കൂടിയുള്ളതുകൊണ്ട് തെറ്റിദ്ധാരണയും ഉണ്ടാകാം.
+
+ശരിയായ രൂപം: "update", "notice", "let you know".
+
+EN: Here's a quick update on the migration.
+EN: I'll let you know / once the build is green.
+EN: We'll give you two weeks' notice / before the API change.
+
+### "He is out of station"
+
+എന്തുകൊണ്ട് വിചിത്രം: ഇത് ബ്രിട്ടീഷ് ഭരണകാലത്തെ military, railway ഭാഷയിൽ നിന്ന് വന്നതാണ്. ഇന്ന് പുറത്ത് ആരും ഉപയോഗിക്കുന്നില്ല.
+
+EN: He's travelling this week.
+EN: She's out of town / until Monday.
+EN: He's away this week, / so I'm covering for him.
+
+### "Same to same" and "What to do?"
+
+എന്തുകൊണ്ട് വിചിത്രം: "same to same" എന്നത് ഇംഗ്ലീഷിൽ ഇല്ലാത്ത ഒരു പ്രയോഗമാണ്. "What to do?" എന്നത് മലയാളത്തിലെ "എന്ത് ചെയ്യാനാ" എന്നതിന്റെ നേരിട്ടുള്ള translation ആണ്. അത് നിസ്സഹായതയുടെ ഭാവം നൽകുന്നു. Global ടീമുകളിൽ നമ്മൾ ഓപ്ഷനുകൾ ചർച്ച ചെയ്യുന്നവരായി തോന്നണം.
+
+EN: The two outputs are exactly the same.
+EN: It's identical / to the previous version.
+EN: What are our options?
+EN: Let's look at what we can do / before the release.
+
+## 5.5 Small words that change the meaning | ചെറിയ വാക്കുകൾ, വലിയ വ്യത്യാസം
+
+### "Let's discuss about the issue"
+
+എന്തുകൊണ്ട് വിചിത്രം: discuss എന്ന verb-ൽ തന്നെ "about" എന്ന അർത്ഥമുണ്ട്. അതിനുശേഷം നേരിട്ട് object വരും. പക്ഷേ "discussion" എന്ന noun ആണെങ്കിൽ "about" ഉപയോഗിക്കാം.
+
+EN: Let's discuss the issue.
+EN: We discussed the new design / in yesterday's call.
+EN: We had a long discussion about the design.
+
+### "I will do it today itself"
+
+എന്തുകൊണ്ട് വിചിത്രം: മലയാളത്തിലെ "ഇന്ന് തന്നെ" എന്നതിന്റെ "തന്നെ" ആണ് itself ആയി മാറുന്നത്. അതുപോലെ "only" എന്നതും ഊന്നൽ നൽകാൻ ഉപയോഗിക്കുന്നു, "I told him only". ഇംഗ്ലീഷിൽ itself, only എന്നിവ ഈ രീതിയിൽ ഉപയോഗിക്കില്ല. ഊന്നൽ വേണമെങ്കിൽ കൃത്യമായ സമയം പറയുക.
+
+EN: I'll do it today.
+EN: I'll have it done by end of day.
+EN: I'll send it before 5 o'clock today.
+
+### "Today morning" and "yesterday night"
+
+എന്തുകൊണ്ട് വിചിത്രം: മലയാളത്തിൽ "ഇന്ന് രാവിലെ", "ഇന്നലെ രാത്രി" എന്ന് പറയുന്നതുകൊണ്ട് നേരിട്ട് translate ചെയ്യുന്നു. ഇംഗ്ലീഷിൽ സ്ഥിരമായ രൂപങ്ങളുണ്ട്.
+
+| Do not say | Say | Malayalam note |
+| today morning | this morning | ഇന്ന് രാവിലെ |
+| today evening | this evening | ഇന്ന് വൈകുന്നേരം |
+| yesterday night | last night | ഇന്നലെ രാത്രി |
+| tomorrow morning | tomorrow morning | ഇത് ശരിയാണ്, മാറ്റേണ്ടതില്ല. |
+
+EN: I pushed the fix this morning.
+EN: The alert fired last night / around 2 a.m.
+
+### "Please find the attached file" and "Please find the same"
+
+എന്തുകൊണ്ട് വിചിത്രം: ഇത് പഴയ office letter ശൈലിയാണ്. "find" എന്ന് പറയുമ്പോൾ ആ file ഒളിപ്പിച്ച് വെച്ചതുപോലെ തോന്നും. "the same" എന്നത് ഒരു pronoun ആയി ഉപയോഗിക്കുന്നത് പഴയ legal ഭാഷയാണ്.
+
+EN: I've attached the report.
+EN: The report is attached.
+EN: Here's the report / from this week's load test.
+
+## 5.6 Articles: a, an, the | ആർട്ടിക്കിളുകൾ
+
+മലയാളത്തിൽ articles ഇല്ല. "ഞാൻ ഒരു pipeline ഉണ്ടാക്കി" എന്നതിൽ "ഒരു" ഉണ്ട്, പക്ഷേ "the" എന്നതിന് തുല്യമായ ഒന്നും ഇല്ല. അതുകൊണ്ടാണ് മലയാളികൾ ഏറ്റവും കൂടുതൽ തെറ്റ് ചെയ്യുന്നത് ഇവിടെ. ഭാഗ്യവശാൽ, മൂന്ന് ലളിതമായ നിയമങ്ങൾ കൊണ്ട് മിക്ക തെറ്റുകളും ഒഴിവാക്കാം.
+
+### Rule 1: a or an, for something new and countable
+
+ആദ്യമായി പറയുന്ന, എണ്ണാവുന്ന, ഒരെണ്ണം മാത്രമുള്ള ഒന്നിന് a അല്ലെങ്കിൽ an. "ഒരു" എന്ന് മലയാളത്തിൽ പറയാവുന്നിടത്ത് മിക്കവാറും a വേണം.
+
+EN: We built a RAG pipeline.
+EN: I wrote a script / to clean the logs.
+EN: She found a bug / in the retry logic.
+
+### a or an: listen, don't look
+
+a അല്ലെങ്കിൽ an എന്നത് spelling അനുസരിച്ചല്ല, ശബ്ദം അനുസരിച്ചാണ്. അടുത്ത വാക്ക് ഒരു vowel ശബ്ദത്തിൽ തുടങ്ങിയാൽ an. Consonant ശബ്ദത്തിൽ തുടങ്ങിയാൽ a.
+
+| Phrase | Why | Malayalam note |
+| an API | "എ" ശബ്ദത്തിൽ തുടങ്ങുന്നു | A എന്ന അക്ഷരം "എയ്" എന്ന് പറയുന്നു. |
+| an LLM | "എൽ" ശബ്ദത്തിൽ തുടങ്ങുന്നു | L ഒരു consonant ആണ്, പക്ഷേ "എൽ" എന്ന ശബ്ദം vowel-ൽ തുടങ്ങുന്നു. |
+| an hour | h ഉച്ചരിക്കില്ല | "അവർ" എന്ന ശബ്ദത്തിൽ തുടങ്ങുന്നു. |
+| a user | "യൂ" ശബ്ദത്തിൽ തുടങ്ങുന്നു | u എന്ന അക്ഷരം ഉണ്ടെങ്കിലും ശബ്ദം "യ". |
+| a unique ID | "യൂ" ശബ്ദത്തിൽ തുടങ്ങുന്നു | user പോലെ തന്നെ. |
+| an SQL query | "എസ്" ശബ്ദത്തിൽ തുടങ്ങുന്നു | "sequel" എന്ന് പറയുകയാണെങ്കിൽ "a SQL query". |
+
+### Rule 2: the, for something both of you know
+
+കേൾക്കുന്നയാൾക്ക് ഏത് എന്ന് ഇതിനകം അറിയാമെങ്കിൽ the. മുമ്പ് പറഞ്ഞതോ, ഒന്ന് മാത്രമുള്ളതോ, സന്ദർഭത്തിൽ നിന്ന് വ്യക്തമായതോ ആകാം.
+
+EN: We built a RAG pipeline. / The pipeline handles 10,000 queries a day.
+EN: Can you check the logs / from last night?
+EN: The client wants the report by Friday.
+
+### Rule 3: nothing, for general plurals and uncountables
+
+പൊതുവായി സംസാരിക്കുമ്പോൾ, plural ആയോ uncountable ആയോ ഉള്ള വാക്കുകൾക്ക് article വേണ്ട. ഭാഷകൾ, tools, data, latency പോലുള്ളവ ഇതിൽ വരും.
+
+EN: We use Python.
+EN: Latency matters / for voice applications.
+EN: Data is stored in Postgres.
+EN: Engineers love good documentation.
+
+WARN: Tool names-ന് മുന്നിൽ article ചേർക്കരുത്. "We use the Python" എന്നത് തെറ്റാണ്. "We use Python" എന്നത് ശരി. പക്ഷേ "the Python SDK" ശരിയാണ്, കാരണം അവിടെ SDK ആണ് noun.
+
+DRILL: 5.1 | Articles
+താഴെയുള്ള വാക്യങ്ങൾ ഉറക്കെ വായിക്കുക. ഓരോ a, an, the, എന്തുകൊണ്ട് അവിടെ വന്നു എന്ന് മനസ്സിൽ പറയുക.
+EN: I'm an AI engineer. / I work on a speech-AI product.
+EN: The product transcribes calls / for a client in the US.
+EN: We use Redis for caching / and Postgres for storage.
+EN: An hour ago, / a user reported an error / in the dashboard.
+EN: The error came from an API / that returns empty JSON.
+END
+
+## 5.7 Tenses you need at work | ജോലിയിൽ വേണ്ട tenses
+
+ഇംഗ്ലീഷിൽ പന്ത്രണ്ട് tenses ഉണ്ട്, പക്ഷേ ജോലിയിൽ നിങ്ങൾക്ക് പ്രധാനമായി വേണ്ടത് ആറ് സാഹചര്യങ്ങൾ മാത്രം.
+
+| Situation | Tense | Example |
+| Stand-up: yesterday | Simple past | Yesterday I fixed the retry bug and reviewed two PRs. |
+| Stand-up: today | going to, will | Today I'm going to finish the load test. |
+| Result with no time given | Present perfect | I've deployed the fix to staging. |
+| Ongoing since a point | Present perfect continuous | I've been working on speech AI for three years. |
+| Stories in interviews | Past simple and past continuous | While we were scaling the service, the GPU workers started crashing. |
+| Polite requests | Could, would | Could you share the logs? Would Thursday work? |
+
+### "I have completed it yesterday"
+
+എന്തുകൊണ്ട് തെറ്റ്: present perfect, അതായത് "have done", സമയം പറയാത്ത ഒരു ഫലത്തെക്കുറിച്ചാണ്. yesterday, last week, in 2022 പോലെ കൃത്യമായ ഒരു കഴിഞ്ഞ സമയം പറഞ്ഞാൽ simple past ഉപയോഗിക്കണം.
+
+ലളിതമായ നിയമം: സമയം പറഞ്ഞോ? എങ്കിൽ simple past. സമയം പറഞ്ഞില്ല, ഫലമാണ് പ്രധാനം? എങ്കിൽ present perfect.
+
+EN: I completed it yesterday.
+EN: I've completed the migration.
+EN: We released version two last week.
+EN: We've released version two. / You can try it now.
+
+### "I am working here since 2022"
+
+എന്തുകൊണ്ട് തെറ്റ്: കഴിഞ്ഞ കാലത്ത് തുടങ്ങി ഇപ്പോഴും തുടരുന്ന ഒന്നിന് present perfect continuous വേണം, "have been working". മലയാളത്തിൽ "2022 മുതൽ ഞാൻ ഇവിടെ ജോലി ചെയ്യുന്നു" എന്നത് present tense ആയതുകൊണ്ടാണ് ഈ തെറ്റ്.
+
+കൂടാതെ since, for എന്നിവ തമ്മിലുള്ള വ്യത്യാസം. since എന്നതിന് ശേഷം തുടങ്ങിയ സമയം. for എന്നതിന് ശേഷം കാലയളവ്.
+
+EN: I've been working here since 2022.
+EN: I've been working here for four years.
+EN: We've been using Kafka / since the first release.
+
+### Stand-up practice
+
+Daily stand-up-ൽ മൂന്ന് tenses ഒരുമിച്ച് വരും. ഇന്നലെ ചെയ്തത് simple past. ഇന്ന് ചെയ്യുന്നത് going to. തടസ്സങ്ങൾ present.
+
+EN: Yesterday I fixed the timeout issue / and reviewed two pull requests.
+EN: Today I'm going to finish the load test.
+EN: I'm blocked on the GPU quota, / so I've asked the infra team for help.
+
+### Interview stories
+
+"Tell me about a time" എന്ന ചോദ്യത്തിന് മറുപടി പറയുമ്പോൾ past simple ആണ് പ്രധാനം. പശ്ചാത്തലത്തിൽ നടന്നുകൊണ്ടിരുന്ന കാര്യത്തിന് past continuous.
+
+EN: While we were scaling the service, / the GPU workers started crashing.
+EN: I was reviewing the logs / when I noticed a memory leak.
+EN: I added a health check, / and the crashes stopped.
+
+DRILL: 5.2 | Tense correction
+ഓരോ വാക്യവും ശരിയായ രൂപത്തിൽ ഉറക്കെ പറയുക. ആദ്യം മലയാളത്തിലുള്ള തെറ്റ് വായിക്കുക, പിന്നെ English ശരിയായ രൂപം കേൾക്കുക.
+- തെറ്റ്: "I have deployed it last night."
+EN: I deployed it last night.
+- തെറ്റ്: "I am knowing Python since college."
+EN: I've known Python since college.
+- തെറ്റ്: "We are using AWS for three years."
+EN: We've been using AWS for three years.
+- തെറ്റ്: "Yesterday I am fixing the bug."
+EN: Yesterday I fixed the bug.
+END
+
+## 5.8 Direct is not rude | നേരിട്ട് പറയുന്നത് അപമര്യാദയല്ല
+
+നമ്മൾ ബഹുമാനം കാണിക്കാൻ "Sir", "kindly", "humbly request" എന്നിവ ധാരാളം ഉപയോഗിക്കുന്നു. ഇത് നമ്മുടെ സംസ്കാരത്തിൽ നല്ല കാര്യമാണ്. പക്ഷേ global ടീമുകളിൽ ഇത് അധികമായി തോന്നും. ചിലപ്പോൾ അത് ആത്മവിശ്വാസക്കുറവായും, ചിലപ്പോൾ അത്രയും ദൂരം സൂക്ഷിക്കുന്നതായും തോന്നാം.
+
+Global ടീമുകളിൽ ബഹുമാനം കാണിക്കുന്നത് മറ്റൊരു രീതിയിലാണ്: മറ്റുള്ളവരുടെ സമയം ബഹുമാനിക്കുക. ചെറുതായി, വ്യക്തമായി എഴുതുക.
+
+ഫോർമുല ഇതാണ്: first name, പിന്നെ please, പിന്നെ കൃത്യമായ ആവശ്യം, പിന്നെ thanks. ഇത്രയും മതി, മതിയായ ബഹുമാനം ആയി.
+
+ഇതിന് പകരം: "Respected Sir, I humbly request you to kindly approve my leave."
+
+EN: Hi John, / could you approve my leave / for 12 to 14 December? / Thanks!
+
+### "I will try my level best"
+
+എന്തുകൊണ്ട് വിചിത്രം: "level best" എന്നത് പഴയ പ്രയോഗമാണ്. "try" എന്ന വാക്ക് "ചിലപ്പോൾ നടക്കില്ല" എന്ന സംശയം നൽകുന്നു. ക്ലയന്റിന് വേണ്ടത് ഉറപ്പും സമയവുമാണ്.
+
+EN: I'll do my best.
+EN: I'll have an answer for you by Thursday.
+EN: I can get this done by Friday. / If anything changes, / I'll tell you on Wednesday.
+
+### "Sorry for the inconvenience caused"
+
+എന്തുകൊണ്ട് വിചിത്രം: ഇത് ഒരു copy-paste formula പോലെ തോന്നുന്നു. എന്ത് സംഭവിച്ചു, എന്ത് മാറ്റി എന്ന് പറയാതെ ഉള്ള ക്ഷമാപണം ആത്മാർത്ഥമല്ലാതെ തോന്നും. നല്ല ക്ഷമാപണത്തിൽ മൂന്ന് ഭാഗങ്ങൾ: ക്ഷമ, കാരണം, പരിഹാരം.
+
+EN: Sorry about the delay. / Here's what happened / and what I've changed.
+EN: Sorry, that was my mistake. / The config pointed to the old database. / I've fixed it and added a check.
+
+NOTE: Gulf-ലെയും ഇന്ത്യയിലെയും സീനിയർ മാനേജർമാരോട് "Sir" ചിലപ്പോൾ പ്രതീക്ഷിക്കും. സാഹചര്യം നോക്കുക. മറ്റുള്ളവർ എങ്ങനെ സംബോധന ചെയ്യുന്നു എന്ന് ശ്രദ്ധിച്ച് അത് പിന്തുടരുക. US, EU ക്ലയന്റുകളോട് first name ആണ് സാധാരണ.
+
+## 5.9 The full list | പൂർണ്ണ പട്ടിക
+
+ഈ അധ്യായത്തിലെ എല്ലാ പ്രയോഗങ്ങളും ഒരുമിച്ച്. ഇത് ഇടയ്ക്കിടെ വന്ന് നോക്കുക.
+
+| Do not say | Say | Why |
+| I am having 4 years of experience. | I have four years of experience. | "have" (ഉണ്ട്) -ing രൂപത്തിൽ വരില്ല. |
+| Myself Arun. | I'm Arun. My name is Arun. | myself subject ആയി ഉപയോഗിക്കില്ല. |
+| I have a doubt. | I have a question. | doubt എന്നാൽ അവിശ്വാസം. ചോദ്യത്തിന് question. |
+| Please do the needful. | Could you please update the config by Friday? | എന്താണ് വേണ്ടതെന്ന് കൃത്യമായി പറയുക. |
+| Kindly revert back. | Please get back to me. Please reply when you can. | revert എന്നാൽ പഴയ അവസ്ഥയിലേക്ക് മാറ്റുക. back വീണ്ടും വേണ്ട. |
+| Can we prepone the meeting? | Can we move the meeting earlier? | prepone ഇന്ത്യയിൽ മാത്രം. |
+| Let's discuss about the issue. | Let's discuss the issue. | discuss-ന് ശേഷം about ഇല്ല. |
+| I will do it today itself. | I'll do it today. I'll have it done by end of day. | itself, only എന്നിവ ഊന്നലിന് ഉപയോഗിക്കില്ല. |
+| Today morning. Yesterday night. | This morning. Last night. | സ്ഥിരമായ രൂപങ്ങളാണ്. |
+| I am working here since 2022. | I've been working here since 2022. | since തുടങ്ങിയ സമയം, for കാലയളവ്. Present perfect continuous. |
+| I have completed it yesterday. | I completed it yesterday. | സമയം പറഞ്ഞാൽ simple past. |
+| I am software engineer. | I'm a software engineer. | Article വിട്ടുപോകരുത്. |
+| He is out of station. | He's travelling. He's out of town. | പഴയ പ്രയോഗം. |
+| I passed out in 2022. | I graduated in 2022. | pass out എന്നാൽ ബോധം കെടുക! |
+| Please find the attached file. | I've attached the report. | പഴയ office letter ശൈലി. |
+| Updation, intimation. | Update, notice, let you know. | updation എന്ന വാക്ക് ഇല്ല. |
+| The deployment is done, isn't it? | The deployment is done, right? | isn't it എല്ലായിടത്തും ചേരില്ല. |
+| Tell me. | Hi Sarah, how can I help? | കല്പന പോലെ തോന്നാം. |
+| Same to same. What to do? | Exactly the same. What are our options? | നേരിട്ടുള്ള translation. |
+| I will try my level best. | I'll have an answer by Thursday. | ഉറപ്പും സമയവും കൊടുക്കുക. |
+| Sorry for the inconvenience caused. | Sorry about the delay. Here's what happened. | Formula ഒഴിവാക്കി കാരണവും പരിഹാരവും. |
+
+DRILL: 5.3 | Rewrite the email
+താഴെയുള്ള email ഒരു സാധാരണ ഇന്ത്യൻ office ശൈലിയിലാണ്. അത് ശരിയാക്കിയ രൂപം കേൾക്കുക, പിന്നെ ഉറക്കെ വായിക്കുക.
+
+പഴയ രൂപം: "Respected Sir, myself Arun. I am having a doubt regarding the deployment. Kindly do the needful and revert back today itself. Please find the attached logs."
+
+EN: Hi John, / this is Arun. / I have a question about the deployment. / Could you check the attached logs / and get back to me by end of day? / Thanks!
+END
+
+## 5.10 Quick check | ചെറിയ ക്വിസ്
+
+QUIZ: "I passed out in 2022" എന്നതിന് പകരം എന്ത് പറയണം? || I passed in 2022. || *I graduated in 2022. || I completed out in 2022. || global ഇംഗ്ലീഷിൽ pass out എന്നാൽ ബോധം കെടുക എന്നാണ്. പഠനം കഴിഞ്ഞതിന് graduated.
+QUIZ: ശരിയായ വാക്യം ഏത്? || I have fixed it yesterday. || *I fixed it yesterday. || I am fixed it yesterday. || yesterday എന്ന് കൃത്യമായ സമയം പറഞ്ഞതുകൊണ്ട് simple past ആണ് വേണ്ടത്.
+QUIZ: ആദ്യമായി പറയുമ്പോൾ ശരിയായ article ഏത്: "We added ___ LLM to the product." || a || *an || ഒന്നും വേണ്ട || ആദ്യമായി പറയുന്ന ഒരെണ്ണമാണ്, LLM എന്നത് "എൽ" എന്ന vowel ശബ്ദത്തിൽ തുടങ്ങുന്നു. അതുകൊണ്ട് an.
+QUIZ: "I am working here since 2022" ശരിയാക്കിയാൽ? || I am working here for 2022. || I worked here since 2022. || *I've been working here since 2022. || തുടങ്ങി ഇപ്പോഴും തുടരുന്ന കാര്യത്തിന് present perfect continuous: have been working.

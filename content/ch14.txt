@@ -1,0 +1,329 @@
+# 14 | AI careers in healthcare | ആരോഗ്യ മേഖലയിൽ ഒരു AI engineer-ന്റെ വഴികൾ
+SUMMARY: Speech AI, RAG, agents, OCR എന്നിവ അറിയുന്ന ഒരു engineer-ന് healthcare-ൽ ഇന്ന് വലിയ അവസരങ്ങളുണ്ട്. ഈ അധ്യായത്തിൽ പ്രധാന റോളുകൾ, ശമ്പളം, ആരോഗ്യ രംഗത്തെ പ്രധാന വാക്കുകൾ, ഓരോ രാജ്യത്തെയും നിയമങ്ങൾ, കമ്പനികൾ, 90 ദിവസത്തെ entry plan, doctors-നോടും clinic owners-നോടും സംസാരിക്കാനുള്ള English എന്നിവ പഠിക്കാം.
+
+## 14.1 Why healthcare needs engineers now | എന്തുകൊണ്ട് ഇപ്പോൾ healthcare?
+
+ഒരു doctor-ന്റെ ദിവസത്തിന്റെ വലിയൊരു ഭാഗം രോഗിയെ നോക്കാനല്ല, എഴുതാനാണ് പോകുന്നത്. Notes, prescriptions, insurance forms, referral letters. Hospitals-ൽ data ഒരുപാടുണ്ട്, പക്ഷേ അത് പല systems-ൽ ചിതറിക്കിടക്കുന്നു. Clinics-ൽ phone എടുക്കാൻ ആളില്ല, appointments നഷ്ടപ്പെടുന്നു. ഈ മൂന്ന് പ്രശ്നങ്ങളും LLM, speech AI, automation എന്നിവ കൊണ്ട് നേരിട്ട് പരിഹരിക്കാവുന്നവയാണ്.
+
+### Ambient scribing ആണ് ഇപ്പോഴത്തെ "hot" വിഭാഗം
+
+Doctor-ഉം രോഗിയും സംസാരിക്കുന്നത് AI കേട്ട്, അതിൽ നിന്ന് clinical note തനിയെ എഴുതുന്ന സംവിധാനമാണ് ambient scribe. 2025 ഒക്ടോബറിൽ Menlo Ventures ഈ market ഏകദേശം 600 million dollars ആണെന്ന് കണക്കാക്കി. Microsoft-ന്റെ Nuance, Abridge, Ambience, Suki എന്നിവയാണ് വലിയ കളിക്കാർ.
+
+- GCC-യിൽ Arabic scribing വേഗത്തിൽ വളരുന്നു. Riyadh-ലെ Sahl AI ഒരു Arabic–English ambient scribe ആണ്. 2026-ൽ അതിനെക്കുറിച്ച് ഒരു JMIR pilot study പ്രസിദ്ധീകരിച്ചു.
+- PureHealth-ന്റെ "Nada" എന്ന scribe SEHA hospitals-ൽ pilot ചെയ്യുന്നു.
+- Heidi എന്ന scribe കമ്പനി 2026 ജൂലൈയിൽ Dubai-ൽ GCC headquarters തുറന്നു.
+- Augnito Saudi Arabia-യിലെ ഒരു 750 bed hospital-ൽ AI scribe നടപ്പാക്കുന്നു.
+- India-യിൽ Eka Care-ന്റെ EkaScribe 33,000-ലധികം clinics ഉപയോഗിക്കുന്ന ഒരു EMR-നുള്ളിൽ പ്രവർത്തിക്കുന്നു.
+
+### Data രാജ്യത്തിന് പുറത്ത് പോകരുത്
+
+UAE-യിൽ ആരോഗ്യ data സാധാരണയായി രാജ്യത്തിന് പുറത്ത് store ചെയ്യാനോ process ചെയ്യാനോ പാടില്ല. അതുകൊണ്ട് ASR, LLM models എന്നിവ on-prem ആയോ UAE cloud-ലോ ഓടിക്കാൻ അറിയുന്ന engineers-ന് വലിയ വിലയുണ്ട്. നിങ്ങൾ ഇതിനകം self-hosted models deploy ചെയ്തിട്ടുണ്ടെങ്കിൽ, അത് healthcare-ൽ ഒരു വലിയ plus ആണ്.
+
+EN: Healthcare has a documentation problem, / a data problem, / and a front-desk problem.
+EN: All three are problems / that speech AI, LLMs and automation / can actually solve.
+
+## 14.2 The main roles | പ്രധാന റോളുകൾ
+
+ഒരു CS അല്ലെങ്കിൽ AI engineer-ന് healthcare-ൽ എടുക്കാവുന്ന പ്രധാന റോളുകൾ താഴെ. ശമ്പളം 2026-ലെ public postings-ൽ നിന്നും salary sites-ൽ നിന്നുമുള്ള ഏകദേശ കണക്കാണ്. ഏകദേശം 4 മുതൽ 6 വരെ വർഷം പരിചയമുള്ള ഒരാളെയാണ് ഉദ്ദേശിക്കുന്നത്.
+
+| Role | What you do | Approximate pay band | Entry difficulty |
+| Medical speech AI or ambient scribe engineer | Speech recognition on doctor and patient audio, speaker separation, LLM note generation, writing notes back to the EHR | India 25 to 45 lakh rupees a year. GCC about AED 20,000 to 35,000 a month | Medium. Easy if you already ship speech AI |
+| Clinical voice agent engineer | Real-time voice agents for booking, reminders, triage intake and follow-up calls, with safe handover to staff | Similar to speech AI roles | Medium. Needs telephony and escalation design |
+| Clinical LLM and RAG engineer | Guideline question answering, coding help, prior authorisation, summaries, all with citations and evaluation | India 20 to 45 lakh rupees a year | Medium. Needs clinical evaluation skills |
+| Health data and interoperability engineer | Pipelines from hospital systems, FHIR APIs, onboarding to health information exchanges | India 15 to 35 lakh rupees a year | Medium. Mostly standards learning |
+| Document AI for health and insurance | OCR and LLM extraction from lab reports, prescriptions and insurance claims | India 18 to 40 lakh rupees a year | Low to medium. OCR skills transfer directly |
+| Forward deployed engineer, health AI | Deploying AI inside hospitals: integrations, on-site tuning, training staff | India 20 to 45 lakh rupees. GCC often higher | Medium. Needs strong customer English |
+| Medical imaging AI engineer | Vision models on X-ray, CT and pathology images, regulatory submissions | India 25 to 60 lakh rupees at senior levels | High. A pivot into computer vision, not a transfer |
+| Pharma and biotech ML engineer | Real-world evidence analytics, GenAI for medical writing, agent workflows at pharma capability centres | India median around 27 lakh rupees for managers | Medium. Stable pay, rarely top of market |
+
+NOTE: Dubai-യിലെ ML engineer-ന്റെ median ശമ്പളം വർഷം ഏകദേശം AED 280,000 ആണെന്ന് ഒരു benchmark പറയുന്നു. Dubai-യിലെ ഒരു healthcare AI engineer posting വർഷം AED 300,000 മുതൽ 450,000 വരെ കാണിച്ചു. US-ൽ Abridge പോലുള്ള കമ്പനികളിൽ senior engineer-ന്റെ base median ഏകദേശം 218,000 dollars ആണ്. പക്ഷേ ആ US റോളുകൾക്ക് മിക്കവാറും US residency വേണം.
+
+WARN: ഈ കണക്കുകൾ ഏകദേശമാണ്. പലതും salary aggregators-ൽ നിന്നോ ഒറ്റ job posting-ൽ നിന്നോ ഉള്ളതാണ്. Offer ചർച്ച ചെയ്യുന്നതിന് മുൻപ് live postings-ഉം levels.fyi പോലുള്ള sites-ഉം നോക്കുക.
+
+### Remote US roles: സത്യം പറയാം
+
+Abridge, Hippocratic AI, Ambience തുടങ്ങിയ US health-AI കമ്പനികളുടെ remote റോളുകൾ മിക്കതും US-ൽ താമസിക്കുന്നവർക്ക് മാത്രമാണ്. Patient data-യിലേക്കുള്ള access-ഉം customer site-ലേക്കുള്ള യാത്രയും ജോലിയുടെ ഭാഗമാണ്. India-യിൽ നിന്ന് ഒരു US health-AI startup-ന് വേണ്ടി remote ജോലി കിട്ടിയാൽ മാസം ഏകദേശം USD 3,000 മുതൽ 6,000 വരെ പ്രതീക്ഷിക്കാം. പക്ഷേ അത്തരം postings കുറവാണ്. അതുകൊണ്ട് ഒരു മലയാളി engineer-ന് healthcare-ലെ ഉയർന്ന ശമ്പളത്തിലേക്കുള്ള വഴി പലപ്പോഴും GCC വഴിയാണ്.
+
+## 14.3 Healthcare words in simple Malayalam | ആരോഗ്യ രംഗത്തെ വാക്കുകൾ ലളിതമായി
+
+Healthcare interview-ൽ ഈ വാക്കുകൾ ആത്മവിശ്വാസത്തോടെ ഉപയോഗിക്കാൻ കഴിയണം. ഓരോന്നും ഒറ്റ വാചകത്തിൽ മനസ്സിലാക്കാം.
+
+| Term | Full form | ലളിതമായി പറഞ്ഞാൽ |
+| EHR | Electronic Health Record | രോഗിയുടെ മുഴുവൻ ചികിത്സാ ചരിത്രം സൂക്ഷിക്കുന്ന hospital software. EMR എന്നും പറയും. |
+| HL7 | Health Level Seven | Hospital systems തമ്മിൽ സന്ദേശം അയയ്ക്കാനുള്ള പഴയ, ഇപ്പോഴും വ്യാപകമായ standard. Version 2 ആണ് സാധാരണ കാണുക. |
+| FHIR | Fast Healthcare Interoperability Resources | HL7 ഉണ്ടാക്കിയ ആധുനിക standard. Patient, Encounter, Observation പോലുള്ള resources JSON ആയി REST API വഴി കൈമാറുന്നു. "fire" എന്നാണ് ഉച്ചരിക്കുക. |
+| ICD-10 | International Classification of Diseases, 10th revision | ഓരോ രോഗത്തിനും ഒരു code. Billing-നും insurance-നും statistics-നും ഉപയോഗിക്കുന്നു. |
+| SNOMED CT | Systematized Nomenclature of Medicine, Clinical Terms | Doctors എഴുതുന്ന clinical കാര്യങ്ങൾക്കെല്ലാമുള്ള വളരെ വിശദമായ code dictionary. ICD-യേക്കാൾ സൂക്ഷ്മമാണ്. |
+| HIPAA | Health Insurance Portability and Accountability Act | US-ലെ ആരോഗ്യ data സ്വകാര്യതാ നിയമം. ഔദ്യോഗിക HIPAA certification എന്നൊന്ന് സർക്കാർ നൽകുന്നില്ല. |
+| PHI | Protected Health Information | ഒരാളെ തിരിച്ചറിയാൻ കഴിയുന്ന ആരോഗ്യ വിവരം. പേര്, ഫോൺ നമ്പർ, രോഗം, report എന്നിവ ചേർന്നത്. |
+| De-identification | Removing identifiers | Data-യിൽ നിന്ന് പേര്, നമ്പർ, വിലാസം പോലുള്ളവ മാറ്റി, ആളെ തിരിച്ചറിയാൻ കഴിയാത്ത വിധമാക്കുന്നത്. |
+| SaMD | Software as a Medical Device | രോഗം കണ്ടെത്താനോ ചികിത്സ തീരുമാനിക്കാനോ ഉപയോഗിക്കുന്ന software. ഇതിന് regulator-ന്റെ അനുമതി വേണം. |
+| Clinical validation | Testing in real clinical use | Model lab-ൽ മാത്രമല്ല, യഥാർത്ഥ രോഗികളിലും doctors-ന്റെ കൂടെയും ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടോ എന്ന് തെളിയിക്കുന്ന പഠനം. |
+| Ambient scribing | AI listening and note writing | Consultation സമയത്ത് AI സംസാരം കേട്ട് doctor-ന് വേണ്ടി note എഴുതുന്നത്. Doctor അവസാനം അത് review ചെയ്ത് sign ചെയ്യും. |
+
+ഇവയ്ക്ക് പുറമേ മൂന്ന് വാക്കുകൾ കൂടി അറിഞ്ഞിരിക്കുക. **SOAP note** എന്നാൽ Subjective, Objective, Assessment, Plan എന്ന ക്രമത്തിൽ എഴുതുന്ന clinical note. **LOINC** lab tests-നുള്ള codes ആണ്. **BAA** അഥവാ Business Associate Agreement, US-ൽ PHI കൈകാര്യം ചെയ്യുന്ന vendor ഒപ്പിടേണ്ട കരാറാണ്.
+
+TIP: Ambient scribes സാധാരണയായി medical device ആയി regulate ചെയ്യപ്പെടുന്നില്ല, കാരണം doctor ആണ് അവസാന തീരുമാനം എടുക്കുന്നത്. പക്ഷേ രോഗം കണ്ടെത്തുന്ന അല്ലെങ്കിൽ triage ചെയ്യുന്ന AI മിക്കപ്പോഴും SaMD ആണ്. ഈ വ്യത്യാസം interview-ൽ പറയാൻ കഴിഞ്ഞാൽ നിങ്ങൾ domain മനസ്സിലാക്കിയ ആളാണെന്ന് വ്യക്തമാകും.
+
+EN: FHIR is a standard way / to share health records through APIs, / using resources like Patient, Encounter and Observation.
+EN: An ambient scribe is not a diagnostic tool. / It drafts the note, / and the doctor reviews and signs it.
+
+## 14.4 Regulations by region | ഓരോ പ്രദേശത്തെയും നിയമങ്ങൾ
+
+നിങ്ങൾ lawyer ആകേണ്ടതില്ല. പക്ഷേ ഓരോ market-ലെയും പ്രധാന നിയമങ്ങളുടെ പേരും ഏകദേശ ഉദ്ദേശ്യവും അറിഞ്ഞിരിക്കണം. താഴെയുള്ളത് 2026 നവംബർ വരെയുള്ള ഏകദേശ ചിത്രമാണ്. നിയമങ്ങൾ മാറിക്കൊണ്ടിരിക്കുന്നു. ജോലിക്ക് മുൻപ് regulator-ന്റെ primary documents വായിക്കുക.
+
+| Region | Key rules | What it means for an engineer |
+| United States | HIPAA privacy and security rules. FDA rules for software as a medical device, including final guidance on change control plans for AI devices from December 2024, and a quality system rule aligned with ISO 13485 from 2 February 2026 | Protect PHI, sign a BAA, use minimum necessary data. Diagnostic AI needs FDA clearance |
+| European Union | GDPR treats health data as a special category. EU MDR covers medical device software. The EU AI Act treats AI in regulated medical devices as high risk, with obligations phasing in over the next few years | Strict consent and lawful basis, data minimisation, CE marking for device software |
+| UAE | Federal Law No. 2 of 2019 on ICT in health fields keeps health data inside the UAE unless an exemption applies. Abu Dhabi DoH Responsible AI Standard and AI Clinician Framework. Dubai DHA AI Policy. ADHICS security standard. Health exchanges Malaffi, NABIDH and Riayati | Host models and data in the UAE. Support FHIR and HL7 for exchange onboarding |
+| Saudi Arabia | SFDA guidance MDS-G010 for AI and ML medical devices, MDS-G023 for software as a medical device, and MDS-G027 for digital health products from August 2025. Personal Data Protection Law | Know whether your product counts as a medical device. Keep data handling documented |
+| India | Digital Personal Data Protection Rules 2025, notified on 13 November 2025, with core duties phasing in around May 2027. Ayushman Bharat Digital Mission, which uses FHIR R4. CDSCO regulates medical device software under the Medical Devices Rules | Consent, purpose limits and breach duties. ABDM integration skills are in demand |
+
+NOTE: Abu Dhabi-യിലെ DoH നിയമങ്ങൾ federal നിയമത്തേക്കാൾ കർശനമാണ്. GCC interview-ൽ "data localisation" എന്ന വാക്കും Federal Law No. 2 of 2019 എന്ന പേരും പറയാൻ കഴിഞ്ഞാൽ അത് നിങ്ങളെ മറ്റ് candidates-ൽ നിന്ന് വ്യത്യസ്തനാക്കും.
+
+EN: In the UAE, / health data generally has to stay inside the country, / so I would host both the speech model and the LLM / in a UAE data centre.
+EN: A note-drafting tool is usually not a medical device. / A tool that suggests a diagnosis / usually is.
+
+## 14.5 Who is hiring | ആരൊക്കെ ജോലിക്ക് എടുക്കുന്നു?
+
+താഴെയുള്ള പേരുകൾ 2026-ലെ public postings-ൽ കണ്ടവയാണ്. Postings വേഗത്തിൽ മാറും. Apply ചെയ്യുന്നതിന് മുൻപ് കമ്പനിയുടെ സ്വന്തം careers page നോക്കി ജോലി ഇപ്പോഴും open ആണോ എന്ന് ഉറപ്പാക്കുക.
+
+### GCC
+
+- **Arabic ambient scribes:** Sahl AI (Riyadh), Heidi (Dubai GCC headquarters), PureHealth and SEHA digital teams (Abu Dhabi).
+- **Arabic-first health AI startups:** Nuxera AI (Saudi Arabia), 21Doctors.
+- **Large health groups:** M42 in Abu Dhabi, working on genomics, digital health and foundation models on health records.
+- **Speech and NLP companies in Riyadh** that hire Arabic language AI engineers.
+- **Clinic AI vendors** in the UAE that sell Arabic and English virtual receptionists. These are competitors if you build a product, and possible employers or partners if you don't.
+
+### India
+
+- **Voice and scribe products:** Eka Care (EkaScribe, ABDM and FHIR), Augnito, Suki's Bengaluru team, Sarvam AI's healthcare team.
+- **Clinical AI and data platforms:** Qure.ai, Innovaccer, Asha Health, DeepHealth.
+- **Pharma capability centres:** Novartis, AstraZeneca and GSK in Hyderabad, Bengaluru and Chennai.
+- **Kerala:** Kochi-യിലും മറ്റിടങ്ങളിലും ചെറിയ health-tech startups ഉണ്ട്. Kerala Startup Mission-ന്റെ directory-ൽ "health" എന്ന് search ചെയ്താൽ കണ്ടെത്താം.
+
+### Remote and global
+
+- Hippocratic AI (voice agents), Abridge, Ambience. ഇവ മിക്കതും US residents-ന് മാത്രമാണ്. India അല്ലെങ്കിൽ GCC openings വരുന്നുണ്ടോ എന്ന് ശ്രദ്ധിക്കുക.
+- Mercor പോലുള്ള platforms-ൽ "healthcare workflow" അല്ലെങ്കിൽ EMR expert contracts മണിക്കൂറിന് ഏകദേശം 60 മുതൽ 100 dollars വരെ കാണാം. പക്ഷേ മിക്ക medical expert റോളുകൾക്കും MD degree വേണം.
+
+TIP: Job search ചെയ്യുമ്പോൾ "AI Engineer Healthcare", "Clinical NLP", "Speech ML Engineer", "Forward Deployed Engineer health", "FHIR developer" എന്നീ പേരുകളെല്ലാം ഉപയോഗിക്കുക.
+
+## 14.6 How your AI skills transfer | നിങ്ങളുടെ കഴിവുകൾ healthcare ഭാഷയിൽ
+
+നമ്മുടെ sample speaker Arun-നെ വീണ്ടും എടുക്കാം. Arun Kochi-യിൽ നിന്നുള്ള ഒരു AI engineer ആണ്. Self-hosted speech recognition, voice agents, RAG, OCR, workflow automation എന്നിവയിൽ പരിചയമുണ്ട്. Healthcare-ൽ ഇതുവരെ ജോലി ചെയ്തിട്ടില്ല. പക്ഷേ ഈ കഴിവുകൾ ഓരോന്നും healthcare-ൽ നേരിട്ട് ഉപയോഗിക്കാം.
+
+| Your skill | Healthcare use | Gap to close |
+| Self-hosted speech recognition | Ambient scribe on in-country GPUs | Medical vocabulary, speaker separation, error rate on drug names |
+| Voice agents | Appointment, refill and follow-up calls, triage intake with handover to staff | Telephony, consent prompts, escalation rules |
+| RAG | Clinical guideline answers with citations, insurance policy lookup | Clinical evaluation, terminologies like SNOMED and ICD-10 |
+| On-prem deployment | The main selling point in the UAE and Saudi Arabia | Hospital security standards like ADHICS |
+| OCR | Lab reports, prescriptions, insurance claims | Medical coding basics |
+| Workflow automation | Reminders, no-show recovery, WhatsApp intake, insurance pre-checks | Consent and messaging rules |
+| Arabic, even at an intermediate level | Checking Arabic transcripts and dialect errors, talking with Gulf clinic owners | Medical Arabic vocabulary |
+
+Arabic അല്പം അറിയാമെങ്കിൽ അത് ചെറിയ കാര്യമല്ല. മിക്ക Indian ML engineers-നും Arabic transcript ശരിയാണോ എന്ന് പോലും നോക്കാൻ കഴിയില്ല. Speech AI, Arabic, on-prem deployment എന്നിവ മൂന്നും ഒരുമിച്ചുള്ള candidates വളരെ കുറവാണ്.
+
+EN: I've built speech recognition / that runs on our own GPUs, / with no audio leaving the network.
+EN: In healthcare, / that's exactly what an in-country ambient scribe needs.
+EN: I haven't worked in a hospital yet, / so I've been learning FHIR / and building a demo on synthetic patient data.
+
+## 14.7 The top 3 paths, ranked | ഏറ്റവും നല്ല മൂന്ന് വഴികൾ
+
+Speech AI, RAG, on-prem പരിചയമുള്ള ഒരു engineer-ന് ഈ ക്രമമാണ് ഏറ്റവും യുക്തിസഹം.
+
+| Rank | Path | Why | Realistic pay | Time to first result |
+| 1 | Arabic and English medical speech AI engineer at a GCC health-tech company | Rarest skill mix. Data localisation law rewards self-hosted models. Few candidates | About AED 20,000 to 35,000 a month, tax free | 2 to 4 months |
+| 2 | Health-AI product role in India: scribe, voice-to-prescription or clinical LLM work | Same skills, no visa. Adds healthcare and FHIR to your CV | About 25 to 45 lakh rupees a year | 1 to 2 months |
+| 3 | Clinic voice receptionist and document automation, as freelance or a small SaaS | You already have the stack. Real-time Malayalam or Arabic voice with local hosting is still rare | Plan for USD 200 to 800 a month per clinic in the GCC | 4 to 8 weeks to a paid pilot |
+
+### എന്തുകൊണ്ട് ഈ ക്രമം?
+
+**Path 1** ഏറ്റവും ഉയർന്ന ശമ്പളം നൽകുന്നു. നിങ്ങളുടെ ഏറ്റവും അപൂർവ്വമായ കഴിവുകൾ ഒരുമിച്ച് ഉപയോഗിക്കുന്നു. പക്ഷേ visa, relocation, നീണ്ട hiring process എന്നിവ കാരണം സമയം എടുക്കും.
+
+**Path 2** ഏറ്റവും വേഗമുള്ളതാണ്. ഒരു Indian health-AI കമ്പനിയിലെ ഒന്നോ രണ്ടോ വർഷം CV-ൽ "healthcare" എന്ന വാക്ക് ചേർക്കും. അത് പിന്നീട് path 1-ലേക്കോ remote റോളുകളിലേക്കോ ഉള്ള പാലമാകും.
+
+**Path 3** വരുമാനം ചെറുതായി തുടങ്ങും. പക്ഷേ product, sales, customer support എന്നിവ നേരിട്ട് പഠിക്കാം. Kerala clinics-ൽ Malayalam voice receptionist-ന് ഇപ്പോൾ മത്സരം വളരെ കുറവാണ്.
+
+TIP: മൂന്ന് വഴികൾക്കും ഒരേ portfolio project ഉപയോഗിക്കാം. Synthetic data-യിൽ ഉണ്ടാക്കിയ, FHIR output നൽകുന്ന ഒരു bilingual ambient scribe. അതിന്റെ speech pipeline തന്നെ path 3-ലെ receptionist-നും ഉപയോഗിക്കാം.
+
+## 14.8 A 90-day entry plan | 90 ദിവസത്തെ entry plan
+
+ദിവസവും ഏകദേശം 90 മിനിറ്റ്, സ്വന്തം സമയത്ത്, സ്വന്തം laptop-ലും accounts-ലും. ഒരിക്കലും യഥാർത്ഥ രോഗികളുടെ data ഉപയോഗിക്കരുത്.
+
+### Days 1 to 30: foundations and the core demo
+
+- FHIR R4 അടിസ്ഥാനം പഠിക്കുക. ഒരു local HAPI FHIR server ഓടിക്കുക. Synthea ഉപയോഗിച്ച് synthetic patients load ചെയ്യുക. Patient, Encounter, Composition, DocumentReference എന്നീ resources മനസ്സിലാക്കുക.
+- ഒരു ചെറിയ ambient scribe ഉണ്ടാക്കുക. Self-hosted Whisper, പിന്നെ speaker separation, പിന്നെ LLM ഉപയോഗിച്ച് SOAP note, അവസാനം ഒരു FHIR Composition ആയി server-ലേക്ക് post ചെയ്യുക.
+- നിങ്ങൾ തന്നെ role-play ചെയ്ത് റെക്കോർഡ് ചെയ്ത consultations-ൽ test ചെയ്യുക. Word error rate-ഉം മരുന്നിന്റെ പേരിലും dose-ലുമുള്ള തെറ്റുകളുടെ നിരക്കും report ചെയ്യുക.
+- നിങ്ങൾ ലക്ഷ്യമിടുന്ന രാജ്യത്തെ പ്രധാന നിയമങ്ങൾ വായിച്ച് ഒരു പേജിൽ "compliance by design" note എഴുതുക.
+
+### Days 31 to 60: credentials and the voice agent
+
+- HL7 FHIR R4 Proficiency exam എടുക്കുക. Membership അനുസരിച്ച് ഏകദേശം 75 മുതൽ 300 dollars വരെയാണ് ചിലവ്. ആദ്യം സൗജന്യമോ ചിലവ് കുറഞ്ഞതോ ആയ FHIR courses ചെയ്യാം.
+- Demo-യിൽ ഒരു clinic receptionist mode ചേർക്കുക. Booking tools, WhatsApp confirmation, മനുഷ്യനിലേക്കുള്ള handover, call recording-ന് consent ചോദിക്കുന്ന prompt.
+- ഒന്നോ രണ്ടോ പേജുള്ള രണ്ട് case studies എഴുതുക. Architecture, evaluation, data localisation.
+- Path 2-ലെ Indian കമ്പനികളിലേക്ക് apply ചെയ്തു തുടങ്ങുക.
+
+### Days 61 to 90: the GCC push and a pilot
+
+- GCC health-tech കമ്പനികളിലേക്ക് apply ചെയ്യുക. "Medical speech AI, on-prem, FHIR" എന്ന മൂന്ന് കാര്യങ്ങൾ മുന്നിൽ വെക്കുക.
+- GCC health-tech-ൽ specialise ചെയ്യുന്ന recruiters-നെ ബന്ധപ്പെടുക.
+- Freelance ചെയ്യാൻ നിങ്ങളുടെ employment contract അനുവദിക്കുന്നുണ്ടെങ്കിൽ മാത്രം, ഒരു Kerala clinic-ൽ രണ്ടാഴ്ചത്തെ സൗജന്യ pilot ചെയ്യുക. പിന്നെ അത് paid ആക്കുക.
+- GCC hospital IT റോളുകൾ ലക്ഷ്യമിടുന്നെങ്കിൽ HIMSS-ന്റെ CAHIMS certification പരിഗണിക്കാം.
+
+**Day 90 success check:** numbers സഹിതം ഒരു working demo, ഒരു FHIR certificate, കുറഞ്ഞത് 15 targeted applications, കുറഞ്ഞത് 3 interviews, ഒരു clinic pilot അല്ലെങ്കിൽ contract അനുവദിക്കുന്നില്ല എന്ന വ്യക്തമായ ഉത്തരം.
+
+WARN: Demo-യിൽ ഒരിക്കലും യഥാർത്ഥ രോഗികളുടെ audio, reports, പേരുകൾ ഉപയോഗിക്കരുത്. Synthea പോലുള്ള synthetic data-യും നിങ്ങൾ തന്നെ role-play ചെയ്ത recordings-ഉം മാത്രം. Interview-ൽ ഇത് പറയുന്നത് തന്നെ ഒരു plus ആണ്.
+
+## 14.9 Startup and freelance ideas | സ്വന്തമായി തുടങ്ങാവുന്നവ
+
+ഏതെങ്കിലും clinic-ൽ നിന്ന് പണം വാങ്ങുന്നതിന് മുൻപ് നിങ്ങളുടെ employment contract-ലെ moonlighting, IP clauses പരിശോധിക്കുക. സ്വന്തം devices-ഉം accounts-ഉം മാത്രം ഉപയോഗിക്കുക.
+
+1. **Clinic voice receptionist.** Arabic, English, Malayalam എന്നിവയിൽ phone എടുക്കുന്നു, appointment book ചെയ്യുന്നു, WhatsApp confirmation അയയ്ക്കുന്നു, വരാത്ത രോഗികളെ വിളിക്കുന്നു. US-ൽ ഇത്തരം tools മാസം 30 മുതൽ 400 dollars വരെയാണ്. UAE-യിലെ ഒരു vendor ഒരു location-ന് setup-ന് മാത്രം ഏകദേശം AED 12,000 മുതൽ quote ചെയ്യുന്നു. Kerala-യിൽ Malayalam voice-ന് മത്സരം ഏതാണ്ട് ഇല്ല. Dental, dermatology clinics-ൽ നിന്ന് തുടങ്ങുക.
+2. **Niche ambient scribe.** India-യിലെയും GCC-യിലെയും ചെറിയ clinics-ന് prescription അല്ലെങ്കിൽ FHIR note നൽകുന്ന scribe. Eka, Heidi പോലുള്ള വലിയ കളിക്കാരുമായി നേരിട്ട് മത്സരിക്കരുത്. Malayalam, ഒരു specialty, അല്ലെങ്കിൽ on-prem എന്ന niche തിരഞ്ഞെടുക്കുക.
+3. **Health document automation.** Lab report-ൽ നിന്ന് structured data, insurance claim pre-checks. OCR, LLM, workflow automation. Kerala-യിലെയും GCC-യിലെയും diagnostic labs-നും TPAs-നും, അതായത് third-party insurance administrators-നും, വിൽക്കാം.
+4. **Contract work.** EMR workflow expert പോലുള്ള remote contracts. ഇടയ്ക്ക് MD ഇല്ലാത്ത engineers-നെയും എടുക്കാറുണ്ട്.
+
+NOTE: UAE clients-ന് വേണ്ടി ജോലി ചെയ്യുമ്പോൾ UAE-ൽ തന്നെ host ചെയ്യുക. ഒരു data processing agreement ഒപ്പിടുക. Kerala clients-ന് DPDP നിയമപ്രകാരമുള്ള consent രീതികൾ പാലിക്കുക.
+
+## 14.10 Healthcare English | Doctors-നോടും clinics-നോടുമുള്ള ഇംഗ്ലീഷ്
+
+Healthcare-ൽ നിങ്ങൾ സംസാരിക്കുന്നത് engineers-നോട് മാത്രമല്ല. Doctors, nurses, hospital managers, clinic owners, compliance officers. ഇവർക്ക് model architecture-ൽ താൽപ്പര്യമില്ല. സുരക്ഷ, സമയം, ഉത്തരവാദിത്തം എന്നിവയാണ് അവർക്ക് പ്രധാനം. "/" ഉള്ളിടത്ത് ചെറിയ pause എടുത്ത് ഉറക്കെ പറഞ്ഞ് പരിശീലിക്കുക.
+
+### Talking to clinicians | Doctors-നോട് സംസാരിക്കുമ്പോൾ
+
+Doctors-ന് സമയം വളരെ കുറവാണ്. ചെറിയ, വ്യക്തമായ ചോദ്യങ്ങൾ ചോദിക്കുക. അവരുടെ workflow മനസ്സിലാക്കാനാണ് ശ്രമിക്കുന്നത് എന്ന് കാണിക്കുക. അവരെ പഠിപ്പിക്കാൻ ശ്രമിക്കരുത്.
+
+EN: Thank you for your time, doctor. / I know your clinic hours are busy, / so I'll keep this to fifteen minutes.
+EN: Can you walk me through a typical consultation, / from the moment the patient sits down / to the moment the note is signed?
+EN: How long do you spend on notes / after each patient?
+EN: Which part of the note matters most to you, / and which part do you usually skip?
+EN: When would you not want a recording at all? / For example, / sensitive conversations or certain patients.
+EN: If the draft note gets something wrong, / how would you like to correct it?
+
+കേട്ടത് തിരിച്ച് ചുരുക്കി പറയുക. ഇത് doctor-ന് "ഇയാൾ എന്റെ ജോലി മനസ്സിലാക്കി" എന്ന വിശ്വാസം നൽകും.
+
+EN: So the main pain is the twenty minutes of typing / after the last patient, / and medication names must be exactly right. / Did I understand that correctly?
+
+### Explaining model limits and safety | Model-ന്റെ പരിമിതികളും സുരക്ഷയും
+
+Healthcare-ൽ ഏറ്റവും അപകടം അമിതമായ വാഗ്ദാനമാണ്. Model തെറ്റ് ചെയ്യും എന്ന് സത്യസന്ധമായി പറയുക. പിന്നെ ആ തെറ്റുകൾ എങ്ങനെ പിടിക്കുന്നു എന്ന് വിശദീകരിക്കുക. "Human in the loop" എന്ന ആശയം എപ്പോഴും മുന്നിൽ വെക്കുക.
+
+EN: The system drafts the note. / It does not make clinical decisions. / You review and sign every note.
+EN: It will make mistakes, / especially with drug names, doses and strong accents. / That's why every draft needs your review.
+EN: On our test set, / the word error rate was about eight percent overall, / and we track medication errors separately / because those matter most.
+EN: When the audio is unclear, / the system marks the sentence as uncertain / instead of guessing.
+EN: It is not designed to suggest a diagnosis. / If we ever add that, / it becomes a medical device / and needs regulatory approval.
+EN: If something goes wrong, / you can switch it off for that patient / and write the note the usual way.
+
+WARN: "Our AI is 99 percent accurate" എന്ന് ഒരിക്കലും പറയരുത്. ഏത് test set-ൽ, ഏത് തരം തെറ്റുകൾ, ആര് review ചെയ്തു എന്ന് പറയാത്ത accuracy number doctors വിശ്വസിക്കില്ല. Clinical validation ഇല്ലാതെ "safe" എന്ന വാക്കും ഉപയോഗിക്കരുത്.
+
+### Privacy answers in interviews | Interview-ലെ privacy ചോദ്യങ്ങൾ
+
+Health-AI interviews-ൽ ഒരു privacy ചോദ്യം ഉറപ്പാണ്. ഉദാഹരണം: "How would you handle patient data in this system?" ഉത്തരം നാല് ഭാഗമായി പറയുക. എവിടെ data ഇരിക്കുന്നു, ആർക്ക് access ഉണ്ട്, എത്ര കാലം സൂക്ഷിക്കുന്നു, development-ന് എന്ത് data ഉപയോഗിക്കുന്നു.
+
+EN: First, / I'd keep the data where the law requires. / In the UAE, / that means hosting the models and storage inside the country.
+EN: Second, / access is role-based and logged. / Engineers don't see real patient data by default.
+EN: Third, / we keep the audio only as long as we need it. / Once the note is signed, / the recording can be deleted, / depending on the clinic's policy.
+EN: Fourth, / for development and testing, / I use synthetic or properly de-identified data, / never raw PHI on a laptop.
+EN: In the US, / any vendor that touches PHI / would sign a business associate agreement, / and we'd follow the minimum necessary rule.
+EN: I'm not a lawyer, / so for anything unclear, / I'd check with the compliance team / before building it.
+
+TIP: അവസാന വാചകം പ്രധാനമാണ്. എല്ലാം അറിയാമെന്ന് നടിക്കുന്നതിനേക്കാൾ, എപ്പോൾ compliance team-നോട് ചോദിക്കണം എന്ന് അറിയുന്ന engineer-നെയാണ് healthcare കമ്പനികൾക്ക് വേണ്ടത്.
+
+### A pitch to a clinic owner | Clinic owner-നോടുള്ള pitch
+
+Clinic owner-ന് technology-യിൽ താൽപ്പര്യം കുറവാണ്. അവർക്ക് മൂന്ന് കാര്യം അറിയണം. പണം, സമയം, risk. Pitch രണ്ട് മിനിറ്റിൽ കൂടരുത്. ആദ്യം അവരുടെ പ്രശ്നം, പിന്നെ പരിഹാരം, പിന്നെ ചെറിയ, risk ഇല്ലാത്ത ഒരു അടുത്ത ഘട്ടം.
+
+EN: How many calls does your front desk miss / on a busy morning?
+EN: Every missed call / is a patient who might book somewhere else.
+EN: We've built a voice receptionist / that answers in English, Arabic and Malayalam, / books the appointment, / and sends a WhatsApp confirmation.
+EN: When a caller sounds unwell / or asks a medical question, / it doesn't give advice. / It passes the call to your staff straight away.
+EN: The data stays in the country, / and callers hear a short message / saying the call is recorded.
+EN: I'd suggest a free two-week pilot / on your evening calls only. / If it doesn't save your team time, / you don't pay anything.
+EN: Can we start with one doctor's schedule / next Monday?
+
+DRILL: 14.1 | Explain your scribe to three listeners
+നിങ്ങളുടെ ambient scribe demo-യെ മൂന്ന് പേരോട് ഓരോ മിനിറ്റിൽ വിശദീകരിക്കുക.
+- ഒരു doctor-നോട്: workflow-ഉം note review-ഉം മാത്രം.
+- ഒരു hospital compliance officer-നോട്: data എവിടെ, ആർക്ക് access, എത്ര കാലം.
+- ഒരു clinic owner-നോട്: ലാഭിക്കുന്ന സമയവും ചിലവും.
+മൂന്നും റെക്കോർഡ് ചെയ്യുക. ഓരോന്നിലും ഒരു technical വാക്ക് എങ്കിലും ഒഴിവാക്കാൻ കഴിഞ്ഞോ എന്ന് നോക്കുക.
+END
+
+DRILL: 14.2 | Privacy interview role-play
+ChatGPT അല്ലെങ്കിൽ Claude voice mode തുറന്ന് ഈ prompt പറയുക.
+EN: Please act as a hiring manager at a health-AI company in Dubai. / Ask me five hard questions about patient privacy, / data localisation and model safety. / Push back on vague answers. / At the end, / tell me which answer was weakest and why.
+ഉത്തരങ്ങൾ റെക്കോർഡ് ചെയ്യുക. ഓരോ ഉത്തരത്തിലും "where, who, how long, what data" എന്ന നാല് ഭാഗം ഉണ്ടോ എന്ന് പരിശോധിക്കുക.
+END
+
+### Small phrases for healthcare work
+
+| Situation | Say this |
+| A doctor asks if the AI can diagnose | No. It drafts documentation. Clinical decisions stay with you. |
+| You don't know a medical term | Sorry, could you explain that term? I want to get it right in the system. |
+| Someone asks for real patient data to test | Let's use synthetic data first. Real data needs approval and a proper agreement. |
+| A clinic wants it live tomorrow | We can start with one doctor this week, and add others once it's working well. |
+| An error is reported | Thank you for flagging it. Can you share the note ID? I'll look at it today. |
+
+## 14.11 Pronunciation for health-tech words | ഉച്ചാരണം
+
+മലയാളികൾ medical വാക്കുകളിൽ stress തെറ്റായ syllable-ൽ ഇടുന്നത് സാധാരണമാണ്. Doctors ഈ വാക്കുകൾ ദിവസവും കേൾക്കുന്നവരായതുകൊണ്ട് തെറ്റ് പെട്ടെന്ന് ശ്രദ്ധിക്കും. Highlight ചെയ്ത syllable-ൽ ശബ്ദം ഉയർത്തി, അല്പം നീട്ടി പറയുക.
+
+| Word | Stress | Note |
+| clinical | {CLIN-i-cal} | Not cli-NI-cal |
+| clinician | {cli-NI-cian} | Stress moves to the second syllable |
+| diagnosis | {di-ag-NO-sis} | Not DI-ag-no-sis |
+| prescription | {pre-SCRIP-tion} | |
+| medication | {med-i-CA-tion} | |
+| physician | {phy-SI-cian} | Not PHY-si-cian |
+| radiology | {ra-di-OL-o-gy} | All the ology words stress OL |
+| cardiology | {car-di-OL-o-gy} | |
+| dermatology | {der-ma-TOL-o-gy} | |
+| oncology | {on-COL-o-gy} | |
+| pediatrician | {pe-di-a-TRI-cian} | |
+| hypertension | {hy-per-TEN-sion} | |
+| diabetes | {di-a-BE-tes} | |
+| transcription | {tran-SCRIP-tion} | |
+| ambient | {AM-bi-ent} | Not am-BI-ent |
+| interoperability | {in-ter-op-er-a-BIL-i-ty} | Long word. Say it slowly at first |
+| compliance | {com-PLI-ance} | |
+| genomics | {ge-NO-mics} | |
+
+TIP: ചുരുക്കെഴുത്തുകൾ ഇങ്ങനെ പറയുക. FHIR എന്നത് "fire" എന്ന് ഒറ്റ വാക്കായി പറയും. HIPAA "hip-uh" എന്ന് പറയും. SNOMED "snow-med" എന്ന് പറയും. EHR, PHI, ICD, SaMD എന്നിവ അക്ഷരം അക്ഷരമായി പറയും. SaMD ചിലർ "sam-dee" എന്നും പറയാറുണ്ട്.
+
+EN: The clinician reviews the diagnosis, / the medication and the prescription.
+EN: We focus on radiology, cardiology and dermatology clinics.
+EN: Interoperability and compliance / matter more than model size.
+
+## 14.12 Quick check | സ്വയം പരിശോധിക്കാം
+
+QUIZ: Why is on-prem or in-country deployment such a strong skill for UAE health-AI jobs? || It is always cheaper than cloud || *UAE law generally keeps health data inside the country unless an exemption applies || Doctors in the UAE do not trust cloud software || Federal Law No. 2 of 2019 പ്രകാരം ആരോഗ്യ data സാധാരണയായി UAE-ക്ക് പുറത്ത് പോകാൻ പാടില്ല. അതുകൊണ്ട് models രാജ്യത്തിനുള്ളിൽ ഓടിക്കാൻ അറിയുന്നവർക്ക് വില കൂടുതലാണ്.
+
+QUIZ: Which of these is most likely to be regulated as a medical device? || An ambient scribe that drafts notes for the doctor to sign || A voice agent that books appointments || *An AI tool that suggests a diagnosis from a chest X-ray || രോഗം കണ്ടെത്തുന്ന AI സാധാരണയായി SaMD ആണ്. Note draft ചെയ്യുന്ന scribe-ഉം booking agent-ഉം സാധാരണ medical device ആയി കണക്കാക്കില്ല.
+
+QUIZ: A doctor asks how accurate your scribe is. What is the best answer? || It is ninety-nine percent accurate || It never makes mistakes with drug names || *On our test set the error rate was about eight percent, we track medication errors separately, and you review every note || എത്ര തെറ്റ്, ഏത് test set, ആര് review ചെയ്യുന്നു എന്ന് പറയുന്ന സത്യസന്ധമായ ഉത്തരമാണ് doctors വിശ്വസിക്കുക.
+
+QUIZ: What data should you use to build a healthcare portfolio demo? || Recordings from a friend's clinic || *Synthetic data and role-played recordings you made yourself || Any public patient files you can find online || യഥാർത്ഥ രോഗികളുടെ data അനുമതിയില്ലാതെ ഉപയോഗിക്കുന്നത് നിയമലംഘനമാണ്. Synthea പോലുള്ള synthetic data സുരക്ഷിതവും interview-ൽ ഒരു plus-ഉം ആണ്.
+
+## 14.13 Sources | ആധാരങ്ങൾ
+
+ഈ അധ്യായത്തിലെ കണക്കുകൾ 2025–2026-ലെ താഴെയുള്ള പൊതു sources-ൽ നിന്നുള്ളതാണ്. ശമ്പളവും market കണക്കുകളും ഏകദേശമാണ്. ചിലത് vendor blogs-ൽ നിന്നാണ്. തീരുമാനം എടുക്കുന്നതിന് മുൻപ് regulator documents-ഉം company careers pages-ഉം നോക്കുക.
+
+- Sacra: Abridge research, citing Menlo Ventures on the ambient scribe market (2025).
+- EHR Source: Ambient AI scribes comparison (2026).
+- JMIR Medical Informatics: Arabic–English ambient scribe pilot study, Sahl AI (2026).
+- PureHealth: Nada ambient documentation pilot announcement.
+- Zawya: Heidi launches in the UAE with Dubai as GCC headquarters (July 2026).
+- Speech Technology magazine: Augnito Saudi hospital deal.
+- Middle East AI News: Nuxera AI funding. Entrepreneur Middle East: 21Doctors funding.
+- UAE Ministry of Justice: Federal Law No. 2 of 2019 on ICT in health fields. Al Tamimi and Co: Exemptions to health data transfer restrictions.
+- Department of Health Abu Dhabi: AI Clinician Framework (WAM, 2026). Dubai Health Authority: Artificial Intelligence Policy.
+- Saudi Food and Drug Authority: MDS-G010 and MDS-G027 guidance documents.
+- YourStory: DPDP Rules 2025 rollout. Eka Care: ABDM overview.
+- Akin Gump: FDA final PCCP guidance for AI-enabled devices. Congressional Research Service: FDA regulation of AI-enabled devices (June 2026).
+- HL7 International: FHIR courses and certification. HIMSS: CAHIMS certification.
+- Levels.fyi, Futurense, Dheya and public job postings: salary data for India, the UAE and the US (2026).
+- Insight Health, Zavis and Constant Labs: clinic voice agent pricing in the US and the UAE.

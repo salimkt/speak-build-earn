@@ -1,0 +1,250 @@
+# 11 | Tech skills that pay more | കൂടുതൽ ശമ്പളം കൊണ്ടുവരുന്ന കഴിവുകൾ
+SUMMARY: ഉയർന്ന ശമ്പളമുള്ള AI, backend റോളുകളിൽ എത്താൻ ഏതൊക്കെ tech skills ആണ് ഏറ്റവും സഹായിക്കുക, ഓരോന്നും എങ്ങനെ പഠിക്കാം, ഒരു ചെറിയ project, interview-ൽ അതിനെക്കുറിച്ച് എങ്ങനെ സംസാരിക്കാം എന്നിവ ഈ അധ്യായത്തിൽ. ഒപ്പം system design ഉത്തരങ്ങൾക്കുള്ള ഇംഗ്ലീഷും.
+
+## 11.0 Where the gap usually is | സാധാരണയായി കുറവുള്ളത് എവിടെ
+
+കേരളത്തിൽ നിന്നുള്ള പല engineers-നും നല്ല production അനുഭവം ഉണ്ട്. പക്ഷേ ഉയർന്ന ശമ്പളമുള്ള റോളുകളിൽ, അതായത് Gulf കമ്പനികൾ, remote USD ജോലികൾ, AI product കമ്പനികൾ എന്നിവയിൽ, മൂന്ന് കാര്യങ്ങളാണ് സാധാരണയായി കുറവ്.
+
+1. Interview-ലെ ആദ്യ filter കടക്കാനുള്ള DSA-യും system design-ഉം.
+2. Cloud-ൽ ഒരു തെളിവ്, മിക്കപ്പോഴും AWS certification.
+3. LLM evals പോലുള്ള ഒരു ആഴമുള്ള niche, അത് പുറത്ത് കാണിക്കുന്ന ഒരു public project-ഉം.
+
+ഈ കഴിവുകൾ ഓരോന്നും എന്തുകൊണ്ട് പണം കൊണ്ടുവരുന്നു എന്ന് മനസ്സിലാക്കുക. പിന്നെ താഴെയുള്ള ക്രമത്തിൽ പഠിക്കുക. എല്ലാം ഒരേസമയം തുടങ്ങരുത്. ഒന്ന് പൂർത്തിയാക്കി, ഒരു project ആയി കാണിച്ച്, പിന്നെ അടുത്തത്.
+
+## 11.1 The skills table | കഴിവുകളുടെ പട്ടിക
+
+| # | Skill | Why it pays more | Time | How to learn |
+| 1 | DSA for interviews | നല്ല കമ്പനികളുടെ ആദ്യ filter. ഇത് കടക്കാതെ ബാക്കി കഴിവുകൾ ആരും കാണില്ല. | 6 weeks, 45 minutes a day | NeetCode 150, Python-ൽ, ഉറക്കെ ചിന്തിച്ചുകൊണ്ട്. |
+| 2 | LLM system design | Senior AI റോളുകളിലെ പ്രധാന round. യഥാർത്ഥ അനുഭവം ഇവിടെ ഏറ്റവും വിലപ്പെട്ടത്. | 4 weeks | AI Engineering എന്ന O'Reilly പുസ്തകം, System Design Primer. |
+| 3 | LLM evals | ആവശ്യം കൂടുതൽ, അറിയുന്നവർ കുറവ്. Demo ഉണ്ടാക്കുന്നവർ ധാരാളം, ship ചെയ്യാമെന്ന് തെളിയിക്കുന്നവർ കുറവ്. | 2 weeks | Golden datasets, LLM-as-judge, CI-ൽ regression gates. |
+| 4 | AWS certification | Gulf, remote ജോലികളിൽ "AWS" ഒരു filter ആയി വരുന്നു. | 4 to 6 weeks | Solutions Architect Associate, AWS Skill Builder, practice exams. |
+| 5 | Real-time voice agents | Voice AI startups-ഉം clinics-ഉം ഉയർന്ന നിരക്ക് നൽകുന്നു. | 3 weeks | LiveKit Agents അല്ലെങ്കിൽ Pipecat. Streaming STT, LLM, TTS. |
+| 6 | TypeScript and Node backend | Full-stack AI റോളുകൾ, freelance projects. | Ongoing | MCP tool servers, ചെറിയ APIs. |
+| 7 | Demo and explain | Freelance, client-facing റോളുകളിൽ വിശദീകരിക്കാനുള്ള കഴിവിനാണ് പണം. | Ongoing | ഓരോ project-നും 2 മിനിറ്റ് demo video, README, ഒരു post. |
+| 8 | Forward Deployed Engineer skills | Engineering-ഉം client communication-ഉം ഒരുമിച്ച്. ഏറ്റവും വേഗം വളരുന്ന റോളുകളിൽ ഒന്ന്. | Ongoing | Chapter 12 കാണുക. |
+
+ഇനി ഓരോ skill-ഉം വിശദമായി നോക്കാം. ഓരോന്നിനും നാല് ഭാഗങ്ങൾ: എന്തുകൊണ്ട് പണം കൂടും, എങ്ങനെ പഠിക്കാം, ഒരു ചെറിയ project, interview-ൽ എങ്ങനെ പറയാം.
+
+## 11.2 DSA for interviews | ഡാറ്റാ സ്ട്രക്ചറുകളും അൽഗോരിതങ്ങളും
+
+### Why it pays | എന്തുകൊണ്ട്
+
+ജോലിയിൽ നിങ്ങൾ ദിവസവും binary search എഴുതുന്നില്ലായിരിക്കാം. പക്ഷേ മിക്ക നല്ല കമ്പനികളും ആദ്യം ഒരു online coding test അയക്കുന്നു. ആയിരക്കണക്കിന് applications ഉള്ളപ്പോൾ, അത് അവരുടെ ഏറ്റവും എളുപ്പമുള്ള filter ആണ്. ഇത് കടന്നില്ലെങ്കിൽ, നിങ്ങളുടെ മികച്ച production അനുഭവം ഒരു interviewer-ഉം കേൾക്കില്ല.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- NeetCode 150 list, topic അനുസരിച്ച്: arrays, hashing, two pointers, sliding window, stack, binary search, trees, graphs, heaps, DP basics.
+- ദിവസവും 45 മിനിറ്റ്. 20 മിനിറ്റ് സ്വയം ശ്രമിക്കുക. കിട്ടിയില്ലെങ്കിൽ solution കാണുക, പിന്നെ അടുത്ത ദിവസം വീണ്ടും സ്വയം എഴുതുക.
+- **ഉറക്കെ ഇംഗ്ലീഷിൽ ചിന്തിക്കുക.** Interview-ൽ നിശ്ശബ്ദമായി code എഴുതുന്നത് ഒരു നെഗറ്റീവ് ആണ്. ഇത് ഒരു English practice കൂടിയാണ്.
+
+### Small project | ചെറിയ project
+
+ഒരു "pattern notebook" ഉണ്ടാക്കുക. ഓരോ pattern-നും ഒരു പേജ്: എപ്പോൾ ഉപയോഗിക്കണം, ഒരു template code, മൂന്ന് ഉദാഹരണ problems. GitHub-ൽ public ആക്കാം.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: Let me restate the problem to make sure I understand it.
+EN: My first idea is a brute force solution, which is O of n squared.
+EN: We can do better with a hash map. That makes it O of n time and O of n space.
+EN: Let me code it, and then test it with an empty list and with duplicates.
+
+TIP: Optimal solution ഉടനെ കിട്ടിയില്ലെങ്കിലും, brute force ആദ്യം പറയുക. Interviewer-ന് നിങ്ങളുടെ ചിന്താരീതിയാണ് കാണേണ്ടത്.
+
+## 11.3 LLM system design | എൽഎൽഎം സിസ്റ്റം ഡിസൈൻ
+
+### Why it pays | എന്തുകൊണ്ട്
+
+Senior റോളുകളിൽ, ഏറ്റവും കൂടുതൽ ഭാരമുള്ള round ഇതാണ്. ഇവിടെ "ഇയാൾക്ക് ഒരു system മുഴുവനായി ഏൽപ്പിക്കാമോ?" എന്നാണ് അവർ നോക്കുന്നത്. Production-ൽ RAG, agents, model serving എന്നിവ ചെയ്തിട്ടുള്ളവർക്ക് ഇവിടെ വലിയ മുൻതൂക്കം ഉണ്ട്, കാരണം അവർക്ക് യഥാർത്ഥ trade-offs അറിയാം.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- അടിസ്ഥാനങ്ങൾക്ക് System Design Primer: caching, queues, load balancing, databases.
+- AI ഭാഗത്തിന് AI Engineering എന്ന O'Reilly പുസ്തകം: RAG, evals, model selection, cost.
+- ആഴ്ചയിൽ ഒരു design ഉറക്കെ പറഞ്ഞ് record ചെയ്യുക. 11.10-ലെ drill കാണുക.
+
+### Small project | ചെറിയ project
+
+ഒരു ചെറിയ LLM gateway: ഒരു API, പിന്നിൽ രണ്ട് models. ലളിതമായ ചോദ്യങ്ങൾ ചെറിയ model-ലേക്ക്, ബുദ്ധിമുട്ടുള്ളവ വലുതിലേക്ക്. ഒരേ ചോദ്യത്തിന് cache. ഓരോ request-ന്റെയും cost, latency log ചെയ്യുക. ഇത് ഒരു design round-ൽ നിങ്ങൾക്ക് ഉദാഹരണമായി പറയാം.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: In a previous project, I routed simple queries to a small model and hard ones to a larger model.
+EN: That cut our cost per request by about 60 percent, with no drop in answer quality on our test set.
+
+## 11.4 LLM evals | എൽഎൽഎം ഇവാലുവേഷൻ
+
+### Why it pays | എന്തുകൊണ്ട്
+
+ഒരു LLM demo ഉണ്ടാക്കാൻ ഒരു ദിവസം മതി. പക്ഷേ "ഈ മാറ്റം കൊണ്ട് system മോശമായില്ല" എന്ന് തെളിയിക്കാൻ evals വേണം. കമ്പനികൾക്ക് ഏറ്റവും ഭയം ഒരു prompt മാറ്റം കൊണ്ട് production-ൽ പെട്ടെന്ന് ഉത്തരങ്ങൾ മോശമാകുന്നതാണ്. ഇത് തടയാൻ കഴിയുന്നവർ കുറവാണ്. അതുകൊണ്ട് അവർക്ക് വില കൂടുതലാണ്.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- Golden dataset: യഥാർത്ഥ ചോദ്യങ്ങളും ശരിയായ ഉത്തരങ്ങളും, 50 മുതൽ 200 വരെ.
+- LLM-as-judge: ഒരു model ഉപയോഗിച്ച് ഉത്തരങ്ങൾക്ക് score നൽകുക, ഒരു വ്യക്തമായ rubric-ഓടെ.
+- RAG metrics: recall at k, faithfulness, അതായത് ഉത്തരം sources-ൽ ഉള്ളതാണോ എന്ന്.
+- CI-ൽ regression gate: score ഒരു പരിധിയിൽ താഴെ പോയാൽ release തടയുക.
+- LLM evals-നെക്കുറിച്ചുള്ള അറിയപ്പെടുന്ന blog posts-ഉം courses-ഉം, model providers-ന്റെ eval docs-ഉം വായിക്കുക.
+
+### Small project | ചെറിയ project
+
+നിങ്ങളുടെ ഏതെങ്കിലും ഒരു RAG അല്ലെങ്കിൽ chatbot repo-യിൽ ഒരു eval harness ചേർക്കുക. 50 ചോദ്യങ്ങൾ, ഒരു judge prompt, ഒരു command കൊണ്ട് മുഴുവൻ score. README-ൽ ഒരു "before and after" table: prompt മാറ്റിയപ്പോൾ score എങ്ങനെ മാറി.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: We don't ship a prompt change without running our eval set.
+EN: It has 200 real questions. If faithfulness drops by more than two points, the release is blocked.
+
+## 11.5 AWS certification | എഡബ്ല്യുഎസ് സർട്ടിഫിക്കേഷൻ
+
+### Why it pays | എന്തുകൊണ്ട്
+
+പല job posts-ലും "AWS experience required" എന്ന് കാണും. Recruiters പലപ്പോഴും keyword നോക്കിയാണ് CV filter ചെയ്യുന്നത്. നിങ്ങൾക്ക് മറ്റൊരു cloud-ലോ on-prem-ലോ ആണ് അനുഭവമെങ്കിൽ, ഒരു certification ആ വിടവ് വേഗം നികത്തും. പഠിക്കുന്ന concepts, അതായത് networking, IAM, storage, എല്ലാ cloud-ലും ഉപയോഗപ്പെടും.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- Solutions Architect Associate, അല്ലെങ്കിൽ Machine Learning Engineer Associate.
+- AWS Skill Builder-ലെ free courses, official exam guide.
+- Practice exams: ഓരോ തെറ്റായ ഉത്തരവും എന്തുകൊണ്ട് തെറ്റി എന്ന് എഴുതി വെക്കുക.
+
+### Small project | ചെറിയ project
+
+നിങ്ങളുടെ ഒരു AI project AWS-ൽ deploy ചെയ്യുക: container ആയി, ഒരു load balancer-ന് പിന്നിൽ, logs CloudWatch-ൽ. Infrastructure code ആയി എഴുതുക. Free tier കഴിഞ്ഞാൽ cost വരാതിരിക്കാൻ budget alert വെക്കുക.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: I'm AWS certified, and I deployed my voice agent demo on ECS behind a load balancer, with the whole setup written as code.
+
+## 11.6 Real-time voice agents | തത്സമയ വോയ്സ് ഏജന്റുകൾ
+
+### Why it pays | എന്തുകൊണ്ട്
+
+Text chatbots ഇപ്പോൾ എല്ലാവരും ഉണ്ടാക്കുന്നു. പക്ഷേ ഫോണിൽ സ്വാഭാവികമായി സംസാരിക്കുന്ന ഒരു agent ഉണ്ടാക്കാൻ പ്രയാസമാണ്. Latency, ഇടയ്ക്ക് കയറി സംസാരിക്കുമ്പോൾ നിർത്തുക, accents, noise. Clinics, call centers, real estate പോലുള്ളവ ഇതിന് നല്ല പണം നൽകാൻ തയ്യാറാണ്.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- LiveKit Agents അല്ലെങ്കിൽ Pipecat docs, examples.
+- Pipeline മനസ്സിലാക്കുക: streaming speech-to-text, പിന്നെ LLM, പിന്നെ text-to-speech.
+- Barge-in: user സംസാരിക്കാൻ തുടങ്ങിയാൽ agent ഉടനെ നിർത്തണം.
+- ലക്ഷ്യം: user നിർത്തിയത് മുതൽ agent തുടങ്ങുന്നത് വരെ 800 milliseconds-ൽ താഴെ.
+
+### Small project | ചെറിയ project
+
+ഒരു clinic appointment booking agent: ഇംഗ്ലീഷിലും മറ്റൊരു ഭാഷയിലും, ഉദാഹരണത്തിന് Arabic അല്ലെങ്കിൽ Malayalam. ഒഴിവുള്ള സമയം പരിശോധിക്കുന്ന ഒരു tool. ഒരു public demo video.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: The hardest part was latency. I streamed every stage, so the agent starts speaking about 700 milliseconds after the user stops.
+
+## 11.7 TypeScript and Node backend | ടൈപ്പ്സ്ക്രിപ്റ്റ്, നോഡ്
+
+### Why it pays | എന്തുകൊണ്ട്
+
+AI product കമ്പനികളിൽ പലപ്പോഴും Python model ഭാഗവും TypeScript product ഭാഗവും ഉണ്ട്. രണ്ടും അറിയുന്നയാൾക്ക് ഒരു feature തുടക്കം മുതൽ അവസാനം വരെ ഏറ്റെടുക്കാം. Freelance-ൽ, client-ന്റെ നിലവിലുള്ള web app പലപ്പോഴും Node ആയിരിക്കും.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- TypeScript-ന്റെ types, async, error handling.
+- ഒരു ചെറിയ API framework, ഒരു database library.
+- MCP tool servers: AI agents-ന് ഉപയോഗിക്കാവുന്ന tools എഴുതുക.
+
+### Small project | ചെറിയ project
+
+നിങ്ങളുടെ ഒരു internal tool-നെ, ഉദാഹരണത്തിന് ഒരു ticket search-നെ, ഒരു MCP server ആക്കി മാറ്റുക. ഒരു AI assistant-ന് അത് ഉപയോഗിക്കാൻ കഴിയണം.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: I'm strongest in Python, but I'm comfortable in TypeScript. I recently built an MCP server in Node so our agents could search tickets.
+
+## 11.8 Demo and explain | ഡെമോയും വിശദീകരണവും
+
+### Why it pays | എന്തുകൊണ്ട്
+
+ഒരു client-നോ hiring manager-നോ നിങ്ങളുടെ code വായിക്കാൻ സമയമില്ല. പക്ഷേ രണ്ട് മിനിറ്റ് video കാണും. നന്നായി കാണിക്കാനും ലളിതമായി വിശദീകരിക്കാനും കഴിയുന്നയാൾക്ക് കൂടുതൽ projects-ഉം കൂടുതൽ വിശ്വാസവും കിട്ടും. ഈ പുസ്തകത്തിലെ എല്ലാ English practice-ഉം ഇവിടെ നേരിട്ട് പണമായി മാറുന്നു.
+
+### How to learn | എങ്ങനെ പഠിക്കാം
+
+- ഓരോ project-നും: രണ്ട് മിനിറ്റ് screen recording, ഒരു നല്ല README, ഒരു LinkedIn post.
+- Video ഘടന: പ്രശ്നം, demo, ഫലം, എങ്ങനെ ഉണ്ടാക്കി. ആ ക്രമത്തിൽ.
+- ആദ്യ 10 സെക്കൻഡിൽ ഫലം കാണിക്കുക.
+
+### Small project | ചെറിയ project
+
+ഇതിനകം ഉണ്ടാക്കിയ ഒരു project എടുക്കുക. ഒരു പുതിയ README എഴുതുക, ഒരു demo video record ചെയ്യുക. പുതിയ code ഒന്നും വേണ്ട.
+
+### Say it in the interview | Interview-ൽ എങ്ങനെ പറയാം
+
+EN: Let me show you instead of telling you. Here's a two-minute demo of the support agent I built.
+
+## 11.9 Forward Deployed Engineer skills | ഫോർവേഡ് ഡിപ്ലോയ്ഡ് എഞ്ചിനീയർ
+
+Forward Deployed Engineer, ചുരുക്കി FDE, എന്നത് client-ന്റെ അടുത്തിരുന്ന് ഒരു product അവരുടെ യഥാർത്ഥ പ്രശ്നത്തിന് പ്രവർത്തിപ്പിക്കുന്ന engineer ആണ്. ഈ അധ്യായത്തിലെ മിക്കവാറും എല്ലാ skills-ഉം ഇവിടെ ഒരുമിച്ച് വരുന്നു: system design, evals, demo, പിന്നെ Chapter 9-ലെ എഴുത്തും Chapter 10-ലെ client സംഭാഷണങ്ങളും.
+
+AI കമ്പനികളിൽ ഇത് ഇപ്പോൾ ഏറ്റവും വേഗം വളരുന്ന, നല്ല ശമ്പളമുള്ള റോളുകളിൽ ഒന്നാണ്. ഈ റോളിനെക്കുറിച്ച് വിശദമായി **Chapter 12**-ൽ പഠിക്കാം.
+
+## 11.10 System design English | സിസ്റ്റം ഡിസൈൻ ഇംഗ്ലീഷ്
+
+System design round-ൽ ശരിയായ ഉത്തരം മാത്രമല്ല, **അത് പറയുന്ന ക്രമവും** വിലയിരുത്തപ്പെടുന്നു. താഴെയുള്ള ആറ് steps ഒരു map പോലെ ഉപയോഗിക്കുക. ഓരോ step-ഉം ഉറക്കെ പറയുക, അങ്ങനെ interviewer-ന് നിങ്ങൾ എവിടെയാണെന്ന് എപ്പോഴും അറിയാം.
+
+### Step 1: Clarify | ആവശ്യങ്ങൾ ചോദിക്കുക
+
+ഉടനെ boxes വരയ്ക്കാൻ തുടങ്ങരുത്. ആദ്യം scale, latency, data എന്നിവ ചോദിക്കുക. ഇത് മാത്രം കൊണ്ട് നിങ്ങൾ senior ആയി കാണപ്പെടും.
+
+EN: Before I design, can I check the requirements? / How many users, what latency, / and is the data sensitive?
+
+### Step 2: Big picture | മൊത്തം ചിത്രം
+
+EN: At a high level, there are four parts: / ingestion, retrieval, generation and evaluation.
+
+### Step 3: Walk the request | ഒരു request-ന്റെ യാത്ര
+
+EN: When a user asks a question, / it first goes to the API gateway, / then to the retriever, / and then to the model.
+
+### Step 4: Trade-offs | ഗുണദോഷങ്ങൾ
+
+ഓരോ തീരുമാനത്തിനും ഒരു വിലയുണ്ട് എന്ന് സമ്മതിക്കുക. "This is the best" എന്നല്ല, "I'd choose this because, and the cost is" എന്ന് പറയുക.
+
+EN: I'd choose a managed vector database here, / because the team is small. / The cost is less control over tuning.
+
+### Step 5: Scale and failure | വളർച്ചയും പരാജയവും
+
+EN: If traffic grows ten times, / the bottleneck will be the GPU workers, / so I'd add a queue and autoscaling.
+EN: If the main model is down, / we fall back to a smaller model / and tell the user the answer may be shorter.
+
+### Step 6: Measure | അളക്കുക
+
+EN: To know it works, / I'd track recall at ten, / answer faithfulness, / and 95th percentile latency.
+
+| Step | Key phrase |
+| Clarify | Before I design, can I check the requirements? |
+| Big picture | At a high level, there are four parts. |
+| Walk the request | When a user asks a question, it first goes to... |
+| Trade-offs | I'd choose X over Y because... The cost is... |
+| Scale and failure | If traffic grows ten times, the bottleneck will be... |
+| Measure | To know it works, I'd track... |
+
+## 11.11 Resources | പഠന സ്രോതസ്സുകൾ
+
+മിക്കവയും free ആണ്. Paid എന്നത് അടയാളപ്പെടുത്തിയിട്ടുണ്ട്.
+
+| Area | Resource | Use it for |
+| DSA | NeetCode roadmap and videos, LeetCode | Interview coding |
+| System design | System Design Primer on GitHub, AI Engineering book from O'Reilly, ByteByteGo (paid) | Design rounds |
+| Evals | Well-known LLM evals blog posts and courses, OpenAI and Anthropic eval docs | Evals, LLM-as-judge |
+| Cloud | AWS Skill Builder, official AWS exam guides, Tutorials Dojo practice exams (paid) | AWS certification |
+| Voice agents | LiveKit Agents docs, Pipecat docs and examples | Real-time voice AI demo |
+| Listening | Latent Space and Practical AI podcasts, AI Engineer conference talks | Tech vocabulary in natural speech |
+
+DRILL: 11 | One design a week, out loud
+ഓരോ ആഴ്ചയും ഒരു design, 15 മിനിറ്റ്, പേപ്പറിൽ വരച്ചുകൊണ്ട്, ഉറക്കെ പറഞ്ഞ് record ചെയ്യുക. 11.10-ലെ ആറ് steps ക്രമത്തിൽ ഉപയോഗിക്കുക.
+1. RAG over 10 million research papers, with citations.
+2. Voicemail transcription at one million messages a day.
+3. An LLM gateway with model routing and caching.
+4. A multilingual customer-support voice agent.
+5. An eval pipeline that blocks bad releases.
+Recording കേൾക്കുമ്പോൾ പരിശോധിക്കുക: ആദ്യം clarify ചെയ്തോ? ഒരു trade-off എങ്കിലും പറഞ്ഞോ? അവസാനം ഒരു metric പറഞ്ഞോ?
+EN: Before I design, can I check the requirements?
+END
+
+QUIZ: ഒരു system design round-ൽ ആദ്യം എന്ത് ചെയ്യണം? || ഉടനെ architecture diagram വരയ്ക്കുക || ഏറ്റവും പുതിയ tools-ന്റെ പേര് പറയുക || *Users, latency, data എന്നിവയെക്കുറിച്ച് requirements ചോദിക്കുക || Clarify ചെയ്യുന്നത് നിങ്ങൾ ശരിയായ പ്രശ്നം പരിഹരിക്കുന്നു എന്ന് ഉറപ്പാക്കുന്നു, senior ചിന്താരീതി കാണിക്കുന്നു.
+QUIZ: LLM evals എന്ന skill-ന് എന്തുകൊണ്ട് വില കൂടുതലാണ്? || അത് പഠിക്കാൻ വളരെ എളുപ്പമാണ് || *ഒരു മാറ്റം system-നെ മോശമാക്കിയില്ല എന്ന് തെളിയിക്കാൻ കഴിയുന്നവർ കുറവാണ് || എല്ലാ job post-ലും അത് നിർബന്ധമാണ് || Demo ഉണ്ടാക്കുന്നവർ ധാരാളം. Ship ചെയ്യാൻ സുരക്ഷിതമാണെന്ന് തെളിയിക്കുന്നവർ കുറവ്.
+QUIZ: Coding interview-ൽ optimal solution ഉടനെ കിട്ടിയില്ലെങ്കിൽ എന്ത് ചെയ്യണം? || നിശ്ശബ്ദമായി ചിന്തിക്കുക || *Brute force ആദ്യം ഉറക്കെ പറഞ്ഞ്, പിന്നെ മെച്ചപ്പെടുത്തുക || അടുത്ത ചോദ്യം ചോദിക്കുക || Interviewer-ന് നിങ്ങളുടെ ചിന്താരീതി കാണണം. ഉറക്കെ ചിന്തിക്കുന്നത് ഒരു positive ആണ്.
