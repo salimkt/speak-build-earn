@@ -12,6 +12,7 @@ import argparse
 import asyncio
 import hashlib
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -23,8 +24,27 @@ PUBLIC = ROOT / "public"
 AUDIO = PUBLIC / "audio"
 CACHE = ROOT / ".tts-cache"
 
-VOICES = {"ml": "ml-IN-SobhanaNeural", "en": "en-US-AndrewNeural"}
+VOICES = {"ml": "ml-IN-SobhanaNeural", "en": "en-US-AndrewMultilingualNeural"}
+# Malayalam a touch slower: the narration is a teacher explaining, not a newsreader
+RATES = {"ml-IN-SobhanaNeural": "-6%"}
 BYTES_PER_SEC = 6000.0
+
+# Optional premium Malayalam narration through Sarvam (bulbul). Enabled with --ml-engine sarvam and
+# SARVAM_API_KEY in .env. Sarvam returns no word timings, so they are estimated inside each sentence.
+SARVAM_MODEL = "bulbul:v4-flash"
+SARVAM_SPEAKER = "chaitra_kn_narration"
+SARVAM_PACE = 0.95
+
+
+def load_env():
+    env = {}
+    f = ROOT / ".env"
+    if f.exists():
+        for line in f.read_text().splitlines():
+            if "=" in line and not line.lstrip().startswith("#"):
+                k, v = line.split("=", 1)
+                env[k.strip()] = v.strip().strip('"').strip("'")
+    return env
 ML_RE = re.compile(r"[ഀ-ൿ]")
 
 # ---------------------------------------------------------------- inline tokens
@@ -343,7 +363,8 @@ def align(tokens, marks):
 async def synth(text, voice, sem):
     import edge_tts
 
-    key = hashlib.sha1(f"{voice}\n{text}".encode()).hexdigest()
+    rate = RATES.get(voice, "+0%")
+    key = hashlib.sha1(f"{voice}\n{rate}\n{text}".encode()).hexdigest()
     mp3 = CACHE / f"{key}.mp3"
     js = CACHE / f"{key}.json"
     if mp3.exists() and js.exists():
@@ -355,7 +376,7 @@ async def synth(text, voice, sem):
                 marks = []
 
                 async def fetch():
-                    c = edge_tts.Communicate(text, voice, boundary="WordBoundary")
+                    c = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
                     async for chunk in c.stream():
                         if chunk["type"] == "audio":
                             audio.extend(chunk["data"])
@@ -383,10 +404,106 @@ async def synth(text, voice, sem):
     return audio, marks
 
 
-async def narrate(meta, ch, sem):
-    results = await asyncio.gather(
-        *[synth(s["spoken"], VOICES[s["lang"]], sem) if s["spoken"] else asyncio.sleep(0, (b"", [])) for s in ch.segs]
+def estimate_marks(text, seconds):
+    """Spread word timings over a clip in proportion to word length (pauses after punctuation)."""
+    words = text.split()
+    if not words:
+        return []
+    lead, tail = 0.12, 0.3
+    span = max(0.1, seconds - lead - tail)
+    weights = [len(w) + (3 if w[-1] in ",.;:?!" else 1) for w in words]
+    total = sum(weights)
+    t = lead
+    marks = []
+    for w, wt in zip(words, weights):
+        d = span * wt / total
+        marks.append((round(t, 3), round(d * 0.85, 3), w))
+        t += d
+    return marks
+
+
+async def synth_sarvam(text, sem, key, ffmpeg):
+    import aiohttp
+    import base64
+
+    vid = f"sarvam:{SARVAM_MODEL}:{SARVAM_SPEAKER}:{SARVAM_PACE}"
+    h = hashlib.sha1(f"{vid}\n{text}".encode()).hexdigest()
+    mp3 = CACHE / f"{h}.mp3"
+    js = CACHE / f"{h}.json"
+    if mp3.exists() and js.exists():
+        return mp3.read_bytes(), json.loads(js.read_text())
+    body = {
+        "text": text,
+        "language_code": "ml-IN",
+        "model": SARVAM_MODEL,
+        "speaker": SARVAM_SPEAKER,
+        "pace": SARVAM_PACE,
+        "speech_sample_rate": 24000,
+        "output_audio_codec": "wav",
+    }
+    async with sem:
+        for attempt in range(14):
+            try:
+                async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=120)) as sess:
+                    async with sess.post(
+                        "https://api.sarvam.ai/text-to-speech",
+                        json=body,
+                        headers={"api-subscription-key": key},
+                    ) as r:
+                        if r.status == 429 or r.status >= 500:
+                            raise RuntimeError(f"HTTP {r.status}")
+                        data = await r.json()
+                        if r.status != 200:
+                            raise SystemExit(f"Sarvam error {r.status}: {str(data)[:300]}")
+                wav = base64.b64decode(data["audios"][0])
+                break
+            except SystemExit:
+                raise
+            except Exception:
+                if attempt == 13:
+                    raise
+                await asyncio.sleep(min(60, 4 + attempt * 6))  # back off on rate limits
+    proc = await asyncio.create_subprocess_exec(
+        ffmpeg, "-loglevel", "error", "-i", "pipe:0", "-ar", "24000", "-ac", "1", "-c:a", "libmp3lame",
+        "-b:a", "48k", "-write_xing", "0", "-id3v2_version", "0", "-f", "mp3", "pipe:1",
+        stdin=asyncio.subprocess.PIPE, stdout=asyncio.subprocess.PIPE,
     )
+    audio, _ = await proc.communicate(wav)
+    audio = audio[: len(audio) - len(audio) % 144]
+    marks = estimate_marks(text, len(audio) / BYTES_PER_SEC)
+    mp3.write_bytes(audio)
+    js.write_text(json.dumps(marks, ensure_ascii=False))
+    return audio, marks
+
+
+ML_ENGINE = {"name": "edge"}
+
+
+def synth_for(s, sem):
+    if not s["spoken"]:
+        return asyncio.sleep(0, (b"", []))
+    if s["lang"] == "ml" and ML_ENGINE["name"] == "sarvam":
+        return synth_sarvam(s["spoken"], ML_ENGINE["sem"], ML_ENGINE["key"], ML_ENGINE["ffmpeg"])
+    return synth(s["spoken"], VOICES[s["lang"]], sem)
+
+
+def sarvam_cached(text):
+    vid = f"sarvam:{SARVAM_MODEL}:{SARVAM_SPEAKER}:{SARVAM_PACE}"
+    h = hashlib.sha1(f"{vid}\n{text}".encode()).hexdigest()
+    return (CACHE / f"{h}.mp3").exists()
+
+
+async def narrate(meta, ch, sem):
+    engine = ML_ENGINE["name"]
+    if ML_ENGINE.get("cached_only"):
+        # use Sarvam only for chapters it has fully narrated, so one chapter never mixes two voices
+        full = all(sarvam_cached(s["spoken"]) for s in ch.segs if s["lang"] == "ml" and s["spoken"])
+        ML_ENGINE["name"] = "sarvam" if full else "edge"
+    try:
+        results = await asyncio.gather(*[synth_for(s, sem) for s in ch.segs])
+    finally:
+        ML_ENGINE["name"] = engine
+    meta["voice"] = "sarvam" if (ML_ENGINE.get("cached_only") and full) or (engine == "sarvam" and not ML_ENGINE.get("cached_only")) else "edge"
     buf = bytearray()
     for s, (audio, marks) in zip(ch.segs, results):
         start = len(buf) / BYTES_PER_SEC
@@ -418,7 +535,30 @@ async def main():
     ap.add_argument("--no-audio", action="store_true")
     ap.add_argument("--only", default="")
     ap.add_argument("--concurrency", type=int, default=6)
+    ap.add_argument("--prefill", default="", help="only fill the audio cache for this language (ml or en)")
+    ap.add_argument("--ml-engine", default="edge", choices=["edge", "sarvam"])
+    ap.add_argument("--sarvam-concurrency", type=int, default=4)
+    ap.add_argument("--sarvam-cached-only", action="store_true",
+                    help="no new Sarvam requests: Sarvam for fully cached chapters, edge for the rest")
     args = ap.parse_args()
+    if args.ml_engine == "sarvam":
+        import imageio_ffmpeg
+
+        key = load_env().get("SARVAM_API_KEY") or os.environ.get("SARVAM_API_KEY")
+        if not key:
+            raise SystemExit("SARVAM_API_KEY missing: add it to .env")
+        ML_ENGINE.update(name="sarvam", key=key, ffmpeg=imageio_ffmpeg.get_ffmpeg_exe(),
+                         sem=asyncio.Semaphore(args.sarvam_concurrency), cached_only=args.sarvam_cached_only)
+    if args.prefill:
+        CACHE.mkdir(exist_ok=True)
+        sem = asyncio.Semaphore(args.concurrency)
+        todo = []
+        for f in sorted(CONTENT.glob("ch[0-9][0-9].txt")):
+            _, ch = parse_chapter(f)
+            todo += [s for s in ch.segs if s["lang"] == args.prefill and s["spoken"]]
+        print(f"prefill {args.prefill}: {len(todo)} segments")
+        await asyncio.gather(*[synth_for(s, sem) for s in todo])
+        return
     CACHE.mkdir(exist_ok=True)
     only = set(filter(None, args.only.split(",")))
     files = sorted(CONTENT.glob("ch[0-9][0-9].txt"))

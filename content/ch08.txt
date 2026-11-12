@@ -1,31 +1,31 @@
 # 8 | Interview English | നിങ്ങളുടെ കഥകൾ പറയാൻ പഠിക്കുക
-SUMMARY: Interview എന്നത് ഒരു പരീക്ഷയല്ല, നിങ്ങളുടെ ജോലിയുടെ കഥകൾ വ്യക്തമായി പറയാനുള്ള അവസരമാണ്. ഈ അധ്യായത്തിൽ ഏറ്റവും സാധാരണ ചോദ്യങ്ങൾക്കുള്ള scripts, അവ എന്തുകൊണ്ട് പ്രവർത്തിക്കുന്നു, നിങ്ങളുടെ സ്വന്തം അനുഭവത്തിലേക്ക് എങ്ങനെ മാറ്റാം എന്നിവ പഠിക്കാം.
+SUMMARY: Interview ഒരു പരീക്ഷയല്ല. നിങ്ങളുടെ ജോലിയുടെ കഥകൾ വ്യക്തമായി പറയാനുള്ള ഒരു അവസരമാണ്! ഈ അധ്യായത്തിൽ ഏറ്റവും സാധാരണ ചോദ്യങ്ങൾക്കുള്ള scripts നമ്മൾ പഠിക്കും. അവ എന്തുകൊണ്ട് work ചെയ്യുന്നു, നിങ്ങളുടെ സ്വന്തം അനുഭവത്തിലേക്ക് എങ്ങനെ മാറ്റാം, എല്ലാം.
 
 ## 8.0 How to use these scripts | ഈ scripts എങ്ങനെ ഉപയോഗിക്കാം
 
-ഈ അധ്യായത്തിലെ scripts പറയുന്നത് Arun ആണ്. Kochi-യിൽ നിന്നുള്ള, നാല് വർഷം പരിചയമുള്ള ഒരു AI engineer. നിങ്ങളുടെ അനുഭവം വ്യത്യസ്തമായിരിക്കും. ഘടന അതേപടി എടുക്കുക, ഉള്ളടക്കം നിങ്ങളുടേതാക്കുക.
+ഈ അധ്യായത്തിലെ scripts പറയുന്നത് Arun ആണ്. Kochi-യിൽ നിന്നുള്ള, നാല് വർഷം പരിചയമുള്ള ഒരു AI engineer. നിങ്ങളുടെ അനുഭവം വേറെയായിരിക്കും, അല്ലേ? അതുകൊണ്ട് ഘടന അതേപടി എടുക്കുക. ഉള്ളടക്കം നിങ്ങളുടേതാക്കുക.
 
-രണ്ട് notation ശ്രദ്ധിക്കുക. "/" എന്നാൽ ഒരു ചെറിയ pause. ഒരു ആശയം കഴിഞ്ഞ് ശ്വാസം എടുക്കുന്ന സ്ഥലം. {pro-DUC-tion} പോലെ എഴുതിയിരിക്കുന്നത് word stress ആണ്. Capital ഭാഗത്ത് ഊന്നൽ കൊടുക്കുക.
+ഇനി രണ്ട് notation ശ്രദ്ധിക്കൂ. "/" എന്നാൽ ഒരു ചെറിയ pause. ഒരു ആശയം കഴിഞ്ഞ് ശ്വാസം എടുക്കുന്ന സ്ഥലം. പിന്നെ {pro-DUC-tion} പോലെ എഴുതിയിരിക്കുന്നത് word stress ആണ്. Capital ഭാഗത്ത് ഊന്നൽ കൊടുക്കുക.
 
-WARN: Scripts മനഃപാഠമാക്കരുത്. മനഃപാഠമാക്കിയ ഉത്തരം robot പോലെ കേൾക്കും. ഒരു follow-up ചോദ്യം വന്നാൽ നിങ്ങൾ കുടുങ്ങും. ഓരോ ഉത്തരത്തിന്റെയും മൂന്നോ നാലോ key points മാത്രം ഓർക്കുക. ഓരോ തവണയും സ്വന്തം വാക്കുകളിൽ പറയുക.
+WARN: Scripts കാണാതെ പഠിക്കരുത്. എന്തുകൊണ്ട്? കാണാതെ പഠിച്ച ഉത്തരം robot പോലെ കേൾക്കും. ഒരു follow-up ചോദ്യം വന്നാൽ നിങ്ങൾ കുടുങ്ങും. ഓരോ ഉത്തരത്തിന്റെയും മൂന്നോ നാലോ key points മാത്രം ഓർത്താൽ മതി. ഓരോ തവണയും സ്വന്തം വാക്കുകളിൽ പറയുക.
 
-TIP: ഓരോ ഉത്തരവും അറുപത് മുതൽ തൊണ്ണൂറ് സെക്കൻഡ് വരെ. അതിൽ കൂടിയാൽ interviewer-ന്റെ ശ്രദ്ധ പോകും. കുറഞ്ഞാൽ ആഴം ഇല്ലെന്ന് തോന്നും. Phone-ൽ record ചെയ്ത് സമയം നോക്കുക.
+TIP: ഓരോ ഉത്തരവും അറുപത് മുതൽ തൊണ്ണൂറ് സെക്കൻഡ് വരെ മതി. അതിൽ കൂടിയാൽ interviewer-ന്റെ ശ്രദ്ധ പോകും. കുറഞ്ഞാലോ, ആഴം ഇല്ലെന്ന് തോന്നും. Phone-ൽ record ചെയ്ത് സമയം നോക്കൂ.
 
 ## 8.1 Tell me about yourself | സ്വയം പരിചയപ്പെടുത്തൽ
 
 ### Why this question matters
 
-ഇത് മിക്കവാറും ആദ്യത്തെ ചോദ്യമാണ്. ആദ്യത്തെ അറുപത് സെക്കൻഡിൽ interviewer നിങ്ങളെക്കുറിച്ച് ഒരു ചിത്രം ഉണ്ടാക്കും. ബാക്കി interview ആ ചിത്രം ശരിയാണോ എന്ന് പരിശോധിക്കലാണ്.
+മിക്കവാറും ഇതാണ് ആദ്യത്തെ ചോദ്യം. ആദ്യത്തെ അറുപത് സെക്കൻഡിൽ തന്നെ interviewer നിങ്ങളെക്കുറിച്ച് ഒരു ചിത്രം ഉണ്ടാക്കും. ബാക്കി interview മുഴുവൻ, ആ ചിത്രം ശരിയാണോ എന്ന് നോക്കലാണ്.
 
 ### The common mistake
 
-WARN: "My name is Arun. I am from Kochi. My father is a teacher. I did my BTech in 2020 with 7.8 CGPA. My hobbies are reading and cricket." ഇത് school-ലെ പരിചയപ്പെടുത്തൽ ആണ്. Interviewer-ന് വേണ്ടത് നിങ്ങൾ എന്ത് build ചെയ്തു, എന്ത് impact ഉണ്ടാക്കി, എന്തിന് ഈ role എന്നതാണ്.
+WARN: "My name is Arun. I am from Kochi. My father is a teacher. I did my BTech in 2020 with 7.8 CGPA. My hobbies are reading and cricket." ഇത് school-ലെ പരിചയപ്പെടുത്തലാണ്. Interviewer-ന് എന്താണ് വേണ്ടത്? നിങ്ങൾ എന്ത് build ചെയ്തു, എന്ത് impact ഉണ്ടാക്കി, എന്തിന് ഈ role.
 
 ### Structure: Present, Proof, Future
 
-1. Present: ഇപ്പോൾ നിങ്ങൾ ആരാണ്. ഒരു വരി.
+1. Present: ഇപ്പോൾ നിങ്ങൾ ആരാണ്? ഒരു വരി മതി.
 2. Proof: രണ്ടോ മൂന്നോ നേട്ടങ്ങൾ, numbers-ഓടെ.
-3. Future: എന്തുകൊണ്ട് ഈ role.
+3. Future: എന്തുകൊണ്ട് ഈ role?
 
 ### The script
 
@@ -37,30 +37,30 @@ EN: I'm looking for a role / where I can own AI systems end to end / for a large
 
 ### Why it works
 
-ആദ്യ വരിയിൽ തന്നെ role, സ്ഥലം, പരിചയം. പിന്നെ മൂന്ന് നേട്ടങ്ങൾ, ഓരോന്നിനും ഒരു number: രണ്ട് engines, cluster-ൽ നിന്ന് single node, പത്ത് million embeddings. Numbers ഓർത്തിരിക്കാൻ എളുപ്പമാണ്. അവസാന വരി സംഭാഷണം ഈ role-ലേക്ക് തിരിച്ചു കൊണ്ടുവരുന്നു.
+ആദ്യ വരിയിൽ തന്നെ role, സ്ഥലം, പരിചയം. പിന്നെ മൂന്ന് നേട്ടങ്ങൾ, ഓരോന്നിനും ഒരു number: രണ്ട് engines, cluster-ൽ നിന്ന് single node, പത്ത് million embeddings. Numbers ഓർത്തിരിക്കാൻ എളുപ്പമാണ്. അവസാന വരിയോ? അത് സംഭാഷണം ഈ role-ലേക്ക് തിരിച്ചു കൊണ്ടുവരുന്നു.
 
-Company-യുടെയോ client-ന്റെയോ പേര് പറയണമെന്നില്ല. "A US telephony client" എന്നത് മതി. ഇത് confidentiality-യെ ബഹുമാനിക്കുന്ന ആളാണെന്നും കാണിക്കുന്നു.
+Company-യുടെയോ client-ന്റെയോ പേര് പറയണമെന്നില്ല. "A US telephony client" എന്ന് പറഞ്ഞാൽ മതി. നിങ്ങൾ confidentiality-യെ ബഹുമാനിക്കുന്ന ആളാണെന്നും ഇത് കാണിക്കും.
 
 ### How to adapt it
 
-- നിങ്ങളുടെ ഏറ്റവും നല്ല രണ്ടോ മൂന്നോ projects തിരഞ്ഞെടുക്കുക. ഓരോന്നിനും ഒരു number കണ്ടെത്തുക: users, latency, cost, time saved.
-- Job description വായിച്ച്, അതിനോട് ഏറ്റവും ചേരുന്ന project ആദ്യം പറയുക.
-- അവസാന വരി ഓരോ company-ക്കും മാറ്റുക.
+- നിങ്ങളുടെ ഏറ്റവും നല്ല രണ്ടോ മൂന്നോ projects എടുക്കുക. ഓരോന്നിനും ഒരു number കണ്ടെത്തുക: users, latency, cost, time saved.
+- Job description വായിക്കുക. എന്നിട്ട് അതിനോട് ഏറ്റവും ചേരുന്ന project ആദ്യം പറയുക.
+- അവസാന വരി ഓരോ company-ക്കും വേണ്ടി മാറ്റുക.
 
 ## 8.2 Tell me about a challenging problem | STAR കഥ
 
 ### Why it matters
 
-ഈ ചോദ്യം നിങ്ങൾ എങ്ങനെ ചിന്തിക്കുന്നു എന്ന് അറിയാനാണ്. പ്രശ്നം കണ്ടെത്താനും, പരിഹാരം കണ്ടെത്താനും, ഫലം അളക്കാനും കഴിയുമോ എന്നത്.
+ഈ ചോദ്യം എന്തിനാണ്? നിങ്ങൾ എങ്ങനെ ചിന്തിക്കുന്നു എന്ന് അറിയാൻ. പ്രശ്നം കണ്ടെത്താനും, പരിഹാരം കണ്ടെത്താനും, ഫലം അളക്കാനും നിങ്ങൾക്ക് കഴിയുമോ എന്ന്.
 
 ### The STAR structure
 
-- S, Situation: എന്തായിരുന്നു സാഹചര്യം. രണ്ട് വാചകം മതി.
-- T, Task: നിങ്ങളുടെ ഉത്തരവാദിത്തം എന്തായിരുന്നു.
-- A, Action: നിങ്ങൾ എന്ത് ചെയ്തു. ഇതാണ് ഏറ്റവും നീളമുള്ള ഭാഗം. ഇവിടെ "I" ഉപയോഗിക്കുക.
-- R, Result: എന്ത് മാറി. ഒരു number, ഒരു lesson.
+- S, Situation: എന്തായിരുന്നു സാഹചര്യം? രണ്ട് വാചകം മതി.
+- T, Task: നിങ്ങളുടെ ഉത്തരവാദിത്തം എന്തായിരുന്നു?
+- A, Action: നിങ്ങൾ എന്ത് ചെയ്തു? ഇതാണ് ഏറ്റവും നീളമുള്ള ഭാഗം. ഇവിടെ "I" ഉപയോഗിക്കുക.
+- R, Result: എന്ത് മാറി? ഒരു number, ഒരു lesson.
 
-WARN: നമ്മൾ മിക്കപ്പോഴും Situation-ൽ രണ്ട് മിനിറ്റ് ചെലവഴിക്കും. Architecture മുഴുവൻ വിശദീകരിക്കും. Action-ഉം Result-ഉം എത്തുമ്പോഴേക്കും സമയം തീരും. Situation ചെറുതാക്കുക. Action-ന് ഏറ്റവും കൂടുതൽ സമയം കൊടുക്കുക.
+WARN: നമ്മൾ മിക്കപ്പോഴും Situation-ൽ തന്നെ രണ്ട് മിനിറ്റ് കളയും. Architecture മുഴുവൻ വിശദീകരിക്കും. Action-ഉം Result-ഉം എത്തുമ്പോഴേക്കും സമയം തീരും. അതുകൊണ്ട് Situation ചെറുതാക്കുക. ഏറ്റവും കൂടുതൽ സമയം Action-ന് കൊടുക്കുക.
 
 ### The script
 
@@ -71,19 +71,19 @@ EN: Bad transcripts stopped reaching customers. / And the lesson I carry everywh
 
 ### Why it works
 
-പ്രശ്നം രസകരമാണ്: "success" എന്ന് പറഞ്ഞിട്ടും output തെറ്റ്. ഇത് കേൾക്കുന്ന ഏത് engineer-ഉം ശ്രദ്ധിക്കും. Action-ൽ മൂന്ന് വ്യക്തമായ steps ഉണ്ട്. അവസാനം ഓർത്തിരിക്കാവുന്ന ഒരു lesson: "validate the result, not the status code". Interview കഴിഞ്ഞാലും ഈ വരി അവർ ഓർക്കും.
+പ്രശ്നം തന്നെ രസകരമാണ്: "success" എന്ന് പറഞ്ഞിട്ടും output തെറ്റ്! ഇത് കേൾക്കുന്ന ഏത് engineer-ഉം ശ്രദ്ധിക്കും. Action-ൽ മൂന്ന് വ്യക്തമായ steps ഉണ്ട്. അവസാനം ഓർത്തിരിക്കാവുന്ന ഒരു lesson: "validate the result, not the status code". Interview കഴിഞ്ഞാലും ഈ വരി അവർ ഓർക്കും.
 
-TIP: "The lesson I carry everywhere is" എന്ന് പറയുമ്പോൾ ചെറുതായി നിർത്തുക. പിന്നെ lesson പതുക്കെ, വ്യക്തമായി പറയുക. ഇതാണ് നിങ്ങളുടെ ഉത്തരത്തിലെ ഏറ്റവും പ്രധാന വരി.
+TIP: "The lesson I carry everywhere is" എന്ന് പറയുമ്പോൾ ഒന്ന് നിർത്തുക. പിന്നെ lesson പതുക്കെ, വ്യക്തമായി പറയുക. നിങ്ങളുടെ ഉത്തരത്തിലെ ഏറ്റവും പ്രധാന വരി ഇതാണ്.
 
 ## 8.3 Technical deep-dive | Agent engine, RAG
 
 ### Why it matters
 
-AI roles-ൽ interviewer നിങ്ങളുടെ resume-ലെ ഒരു project എടുത്ത് ആഴത്തിൽ ചോദിക്കും. "Why did you choose this?" "What would you do differently?" നിങ്ങൾ ശരിക്കും build ചെയ്തതാണോ, അതോ tutorial കണ്ടതാണോ എന്ന് അറിയാനാണ് ഇത്.
+AI roles-ൽ interviewer നിങ്ങളുടെ resume-ലെ ഒരു project എടുത്ത് ആഴത്തിൽ ചോദിക്കും. "Why did you choose this?" "What would you do differently?" എന്തിനാണ് ഇത്? നിങ്ങൾ ശരിക്കും build ചെയ്തതാണോ, അതോ tutorial കണ്ടതാണോ എന്ന് അറിയാൻ.
 
 ### The common mistake
 
-WARN: Tool names-ന്റെ ഒരു list പറയുക: "I used LangChain, FAISS, Redis, FastAPI, Docker, Kubernetes." ഇത് ഒന്നും തെളിയിക്കുന്നില്ല. Interviewer-ന് വേണ്ടത് തീരുമാനങ്ങളും trade-offs-ഉം ആണ്. എന്തുകൊണ്ട് A, എന്തുകൊണ്ട് B അല്ല.
+WARN: Tool names-ന്റെ ഒരു list പറയും: "I used LangChain, FAISS, Redis, FastAPI, Docker, Kubernetes." ഇത് ഒന്നും തെളിയിക്കുന്നില്ല. Interviewer-ന് വേണ്ടത് തീരുമാനങ്ങളും trade-offs-ഉം ആണ്. എന്തുകൊണ്ട് A? എന്തുകൊണ്ട് B അല്ല?
 
 ### Structure: Problem, Decision, Trade-off, Result
 
@@ -103,13 +103,13 @@ EN: If I did it again, / I'd build the evaluation set on day one, / not after th
 
 ### Why it works
 
-ഓരോ script-ലും ഒരു പ്രശ്നം, ഒരു തീരുമാനം, ഒരു trade-off ഉണ്ട്. "The trade-off was" എന്ന് പറയുന്നത് senior thinking കാണിക്കുന്നു. "If I did it again" എന്നത് നിങ്ങൾ പഠിക്കുന്ന ആളാണെന്ന് കാണിക്കുന്നു. Interviewer അടുത്ത ചോദ്യം ചോദിക്കാൻ നിങ്ങൾ തന്നെ വഴി തുറന്നുകൊടുക്കുന്നു.
+ഓരോ script-ലും ഒരു പ്രശ്നം, ഒരു തീരുമാനം, ഒരു trade-off ഉണ്ട്. "The trade-off was" എന്ന് പറയുമ്പോൾ senior thinking കാണാം. "If I did it again" എന്ന് പറയുമ്പോൾ, നിങ്ങൾ പഠിക്കുന്ന ആളാണെന്നും കാണാം. അങ്ങനെ interviewer-ന് അടുത്ത ചോദ്യം ചോദിക്കാൻ നിങ്ങൾ തന്നെ വഴി തുറന്നുകൊടുക്കുന്നു.
 
 ### How to adapt it
 
-- നിങ്ങളുടെ ഒരു project-ന് ഈ നാല് ചോദ്യങ്ങൾക്ക് ഉത്തരം എഴുതുക: എന്തായിരുന്നു പ്രശ്നം? എന്ത് തീരുമാനിച്ചു? എന്ത് വിട്ടുകൊടുത്തു? എന്ത് മാറി?
-- "Why not X?" എന്ന ചോദ്യത്തിന് തയ്യാറാകുക. ഓരോ പ്രധാന തീരുമാനത്തിനും ഒരു alternative-ഉം അത് എന്തുകൊണ്ട് തിരഞ്ഞെടുത്തില്ല എന്നും ഓർത്തുവെക്കുക.
-- Whiteboard അല്ലെങ്കിൽ screen share ഉണ്ടെങ്കിൽ, ഒരു ലളിതമായ diagram വരച്ച് സംസാരിക്കുക.
+- നിങ്ങളുടെ ഒരു project എടുത്ത്, ഈ നാല് ചോദ്യങ്ങൾക്ക് ഉത്തരം എഴുതുക: എന്തായിരുന്നു പ്രശ്നം? എന്ത് തീരുമാനിച്ചു? എന്ത് വിട്ടുകൊടുത്തു? എന്ത് മാറി?
+- "Why not X?" എന്ന ചോദ്യത്തിന് തയ്യാറായിരിക്കുക. ഓരോ പ്രധാന തീരുമാനത്തിനും ഒരു alternative ഓർത്തുവെക്കുക. അത് എന്തുകൊണ്ട് എടുത്തില്ല എന്നും.
+- Whiteboard അല്ലെങ്കിൽ screen share ഉണ്ടോ? എങ്കിൽ ഒരു ലളിതമായ diagram വരച്ച് സംസാരിക്കുക.
 
 EN: Can I sketch the architecture quickly? / It'll be easier to explain.
 EN: We considered a managed vector database, / but we chose to self-host / because the client's data had to stay on-prem.
@@ -118,11 +118,11 @@ EN: We considered a managed vector database, / but we chose to self-host / becau
 
 ### Why it matters
 
-"Tell me about a mistake" അല്ലെങ്കിൽ "What's your weakness?" എന്നത് ഒരു trap പോലെ തോന്നും. പക്ഷേ interviewer അന്വേഷിക്കുന്നത് മൂന്ന് കാര്യങ്ങളാണ്. നിങ്ങൾ സത്യസന്ധനാണോ. ഉത്തരവാദിത്തം ഏറ്റെടുക്കുമോ. അതിൽ നിന്ന് പഠിച്ചോ.
+"Tell me about a mistake" അല്ലെങ്കിൽ "What's your weakness?" കേൾക്കുമ്പോൾ ഒരു trap പോലെ തോന്നും. പക്ഷേ interviewer നോക്കുന്നത് മൂന്ന് കാര്യങ്ങളാണ്. നിങ്ങൾ സത്യസന്ധനാണോ? ഉത്തരവാദിത്തം ഏറ്റെടുക്കുമോ? അതിൽ നിന്ന് പഠിച്ചോ?
 
 ### The common mistake
 
-WARN: "My weakness is I work too hard" എന്ന് പറയുക. ഇത് എല്ലാ interviewer-ഉം നൂറ് തവണ കേട്ടതാണ്. മറ്റൊരു തെറ്റ്: client-നെയോ manager-നെയോ കുറ്റം പറയുക. "They didn't explain properly" എന്ന് ഒരിക്കലും പറയരുത്.
+WARN: "My weakness is I work too hard" എന്ന് പറയരുത്. ഇത് എല്ലാ interviewer-ഉം നൂറ് തവണ കേട്ടതാണ്. ഇനി മറ്റൊരു തെറ്റ്: client-നെയോ manager-നെയോ കുറ്റം പറയുക. "They didn't explain properly" എന്ന് ഒരിക്കലും പറയരുത്.
 
 ### Structure: Real event, Ownership, Changed habit
 
@@ -136,25 +136,25 @@ EN: What I changed: / now I write down my understanding of the scope / and get a
 
 ### Why it works
 
-ഇത് ഒരു യഥാർത്ഥ, ചെറിയ തെറ്റാണ്. ആരുടെയും പേരില്ല, ഒരു client-ന്റെയും പേരില്ല. "That was on me" എന്ന വരി ഉത്തരവാദിത്തം പൂർണ്ണമായും ഏറ്റെടുക്കുന്നു. പിന്നെ വേഗത്തിലുള്ള പരിഹാരം. അവസാനം ഒരു മാറ്റിയ ശീലം. ഈ ശീലം അധ്യായം ഏഴിൽ പഠിച്ച "confirm in writing" തന്നെയാണ്.
+ഇത് ഒരു യഥാർത്ഥ, ചെറിയ തെറ്റാണ്. ആരുടെയും പേരില്ല, ഒരു client-ന്റെയും പേരില്ല. "That was on me" എന്ന വരിയിലൂടെ ഉത്തരവാദിത്തം മുഴുവനും ഏറ്റെടുക്കുന്നു. പിന്നെ വേഗത്തിലുള്ള പരിഹാരം. അവസാനം, മാറ്റിയ ഒരു ശീലം. ഈ ശീലം ഏതാണെന്നോ? അധ്യായം ഏഴിൽ പഠിച്ച "confirm in writing" തന്നെ!
 
-TIP: "That was on me" എന്നത് ശക്തമായ ഒരു വാചകമാണ്. {ON} എന്നതിൽ ചെറിയ ഊന്നൽ, പിന്നെ ഒരു pause. ക്ഷമാപണം ഇല്ല, ന്യായീകരണം ഇല്ല.
+TIP: "That was on me" ഒരു ശക്തമായ വാചകമാണ്. {ON} എന്നതിൽ ചെറിയ ഊന്നൽ, പിന്നെ ഒരു pause. ക്ഷമാപണം ഇല്ല. ന്യായീകരണവും ഇല്ല.
 
 ### How to adapt it
 
-- നിങ്ങളുടെ കരിയറിലെ ഒരു ചെറിയ, യഥാർത്ഥ തെറ്റ് തിരഞ്ഞെടുക്കുക. Production മുഴുവൻ down ആക്കിയ കഥ വേണ്ട.
-- അതിന്റെ ഫലമായി നിങ്ങൾ മാറ്റിയ ഒരു ശീലം ഉണ്ടായിരിക്കണം. ശീലം ഇല്ലെങ്കിൽ, ആ കഥ ഉപയോഗിക്കരുത്.
-- മറ്റാരെയും കുറ്റപ്പെടുത്തരുത്, ആരുടെയും പേര് പറയരുത്.
+- നിങ്ങളുടെ കരിയറിലെ ചെറിയ, യഥാർത്ഥമായ ഒരു തെറ്റ് എടുക്കുക. Production മുഴുവൻ down ആക്കിയ കഥ വേണ്ട, കേട്ടോ.
+- ആ തെറ്റിന്റെ ഫലമായി നിങ്ങൾ മാറ്റിയ ഒരു ശീലം വേണം. ശീലം ഇല്ലെങ്കിൽ, ആ കഥ ഉപയോഗിക്കരുത്.
+- മറ്റാരെയും കുറ്റപ്പെടുത്തരുത്. ആരുടെയും പേര് പറയുകയും അരുത്.
 
 ## 8.5 Why are you looking for a new role? | എന്തിന് ജോലി മാറുന്നു
 
 ### Why it matters
 
-ഇവിടെ interviewer നോക്കുന്നത് നിങ്ങൾ എന്തിലേക്ക് പോകുന്നു എന്നാണ്, എന്തിൽ നിന്ന് ഓടുന്നു എന്നല്ല. പോസിറ്റീവ് ആയ, ഭാവിയിലേക്ക് നോക്കുന്ന ഉത്തരം വേണം.
+ഇവിടെ interviewer നോക്കുന്നത് എന്താണ്? നിങ്ങൾ എന്തിലേക്ക് പോകുന്നു എന്നാണ്, എന്തിൽ നിന്ന് ഓടുന്നു എന്നല്ല. പോസിറ്റീവ് ആയ, ഭാവിയിലേക്ക് നോക്കുന്ന ഉത്തരമാണ് വേണ്ടത്.
 
 ### The common mistake
 
-WARN: "My manager is not good." "The company has no proper process." "Salary is very low." ഇതൊന്നും പറയരുത്. ഇപ്പോഴത്തെ employer-നെ കുറ്റം പറയുന്ന ആൾ, നാളെ ഞങ്ങളെക്കുറിച്ചും ഇങ്ങനെ പറയും എന്ന് interviewer ചിന്തിക്കും. ശമ്പളം ആദ്യ കാരണമായി പറയരുത്.
+WARN: "My manager is not good." "The company has no proper process." "Salary is very low." ഇതൊന്നും പറയരുത്. ഇപ്പോഴത്തെ employer-നെ കുറ്റം പറയുന്ന ആളെ കാണുമ്പോൾ interviewer ചിന്തിക്കും, നാളെ ഇയാൾ ഞങ്ങളെക്കുറിച്ചും ഇങ്ങനെ പറയും. ശമ്പളം ആദ്യ കാരണമായി പറയുകയും അരുത്.
 
 ### The script
 
@@ -164,11 +164,11 @@ EN: I want to own systems end to end / at that scale, / so I can keep growing as
 
 ### Why it works
 
-ആദ്യ വരി നന്ദിയും അഭിമാനവും കാണിക്കുന്നു. ഒരു കുറ്റവും ഇല്ല. പിന്നെ മുഴുവൻ ശ്രദ്ധയും ഭാവിയിലാണ്: scale, growth, AI core product. ഇതൊക്കെ ഈ പുതിയ company-ക്ക് കൊടുക്കാൻ കഴിയുന്ന കാര്യങ്ങളാണ്.
+ആദ്യ വരിയിൽ നന്ദിയും അഭിമാനവും ഉണ്ട്. ഒരു കുറ്റവും ഇല്ല. പിന്നെ ശ്രദ്ധ മുഴുവൻ ഭാവിയിലാണ്: scale, growth, AI core product. ഇതൊക്കെ ഈ പുതിയ company-ക്ക് കൊടുക്കാൻ പറ്റുന്ന കാര്യങ്ങളാണ്.
 
 ### How to adapt it
 
-നിങ്ങൾ ശരിക്കും അന്വേഷിക്കുന്നത് എന്ത് എന്ന് ചിന്തിക്കുക: വലിയ scale, പുതിയ domain, കൂടുതൽ ownership, global team. അതിൽ ഒന്നോ രണ്ടോ തിരഞ്ഞെടുത്ത്, ഈ company അത് എങ്ങനെ തരുന്നു എന്ന് ബന്ധിപ്പിക്കുക.
+നിങ്ങൾ ശരിക്കും അന്വേഷിക്കുന്നത് എന്താണ്? ഒന്ന് ആലോചിക്കൂ: വലിയ scale, പുതിയ domain, കൂടുതൽ ownership, global team. അതിൽ ഒന്നോ രണ്ടോ എടുക്കുക. എന്നിട്ട് ഈ company അത് എങ്ങനെ തരുന്നു എന്ന് ബന്ധിപ്പിക്കുക.
 
 EN: Your platform serves millions of users, / and that's exactly the scale I want to work at.
 
@@ -176,11 +176,11 @@ EN: Your platform serves millions of users, / and that's exactly the scale I wan
 
 ### Why it matters
 
-ഈ ഒരൊറ്റ ഉത്തരം അടുത്ത കുറേ വർഷത്തെ നിങ്ങളുടെ വരുമാനം തീരുമാനിക്കും. പേടിച്ച്, ചോദ്യം പോലെ ഉയർന്ന intonation-ൽ number പറഞ്ഞാൽ, അവർ ഉടൻ കുറയ്ക്കാൻ ശ്രമിക്കും.
+ഈ ഒരൊറ്റ ഉത്തരമാണ് അടുത്ത കുറേ വർഷത്തെ നിങ്ങളുടെ വരുമാനം തീരുമാനിക്കുന്നത്. പേടിച്ച്, ഒരു ചോദ്യം പോലെ ഉയർന്ന intonation-ൽ number പറഞ്ഞാലോ? അവർ ഉടനെ കുറയ്ക്കാൻ നോക്കും.
 
 ### The common mistake
 
-WARN: "Whatever you think is suitable, sir." അല്ലെങ്കിൽ ഇപ്പോഴത്തെ ശമ്പളത്തിൽ നിന്ന് ഒരു ചെറിയ ശതമാനം കൂട്ടി ചോദിക്കുക. Market research ഇല്ലാതെ number പറയുക. ഇതൊക്കെ പണം നഷ്ടപ്പെടുത്തും.
+WARN: "Whatever you think is suitable, sir." അല്ലെങ്കിൽ ഇപ്പോഴത്തെ ശമ്പളത്തിൽ നിന്ന് ഒരു ചെറിയ ശതമാനം മാത്രം കൂട്ടി ചോദിക്കുക. Market research ഇല്ലാതെ number പറയുക. ഇതൊക്കെ നിങ്ങൾക്ക് പണം നഷ്ടപ്പെടുത്തും.
 
 ### Step 1: ask for their range first
 
@@ -190,27 +190,27 @@ EN: Could you share the budgeted range for this role?
 
 EN: Based on the role / and the market for AI engineers here, / I'm looking at your target range, / for example, / twenty to twenty-two thousand a month, / but I'm open to discussing the full {PACK-age}.
 
-NOTE: ഇതിലെ number ഒരു ഉദാഹരണം മാത്രമാണ്. നിങ്ങളുടെ നഗരം, role, പരിചയം എന്നിവ അനുസരിച്ച് market research ചെയ്ത് സ്വന്തം range കണ്ടെത്തുക. Range-ന്റെ താഴത്തെ അറ്റം നിങ്ങൾ യഥാർത്ഥത്തിൽ സ്വീകരിക്കാൻ തയ്യാറുള്ള തുക ആയിരിക്കണം.
+NOTE: ഇതിലെ number ഒരു ഉദാഹരണം മാത്രമാണ്. നിങ്ങളുടെ നഗരം, role, പരിചയം, ഇവ അനുസരിച്ച് market research ചെയ്യുക. എന്നിട്ട് സ്വന്തം range കണ്ടെത്തുക. Range-ന്റെ താഴത്തെ അറ്റം, നിങ്ങൾ ശരിക്കും സ്വീകരിക്കാൻ തയ്യാറുള്ള തുക ആയിരിക്കണം.
 
 ### Why it works
 
-"Based on the role and the market" എന്ന് തുടങ്ങുന്നത്, ഈ number ഊഹമല്ല, research ആണെന്ന് കാണിക്കുന്നു. "Full package" എന്നത് negotiation-ന് ഇടം നൽകുന്നു. ഇപ്പോഴത്തെ ശമ്പളവുമായി ബന്ധിപ്പിക്കുന്നില്ല.
+"Based on the role and the market" എന്ന് തുടങ്ങിയാൽ എന്ത് സംഭവിക്കും? ഈ number ഊഹമല്ല, research ആണെന്ന് അവർക്ക് മനസ്സിലാകും. "Full package" എന്ന് പറയുന്നത് negotiation-ന് ഇടം നൽകുന്നു. ഇപ്പോഴത്തെ ശമ്പളവുമായി ബന്ധിപ്പിക്കുന്നുമില്ല.
 
-TIP: Number പറയുമ്പോൾ intonation താഴേക്ക് വരണം, ഒരു statement പോലെ. ചോദ്യം പോലെ മുകളിലേക്ക് പോകരുത്. പറഞ്ഞ ശേഷം നിശ്ശബ്ദമായിരിക്കുക. ആ നിശ്ശബ്ദത നിറയ്ക്കാൻ "but I can adjust" എന്ന് ചേർക്കരുത്.
+TIP: Number പറയുമ്പോൾ intonation താഴേക്ക് വരണം, ഒരു statement പോലെ. ചോദ്യം പോലെ മുകളിലേക്ക് പോകരുത്. പറഞ്ഞു കഴിഞ്ഞാൽ... മിണ്ടാതിരിക്കുക. ആ നിശ്ശബ്ദത നിറയ്ക്കാൻ "but I can adjust" എന്ന് ചേർക്കരുത്!
 
 EN: I'd prefer to focus on the value I'd bring to this role, / and the market range for it.
 
-ഇപ്പോഴത്തെ ശമ്പളം ചോദിച്ചാൽ മുകളിലുള്ള വാചകം ഉപയോഗിക്കാം. Negotiation-നെക്കുറിച്ച് പിന്നീടുള്ള അധ്യായത്തിൽ കൂടുതൽ പഠിക്കാം.
+ഇപ്പോഴത്തെ ശമ്പളം ചോദിച്ചാൽ മുകളിലെ വാചകം ഉപയോഗിക്കാം. Negotiation-നെക്കുറിച്ച് പിന്നീട് ഒരു അധ്യായത്തിൽ കൂടുതൽ പഠിക്കാം.
 
 ## 8.7 When you don't know the answer | ഉത്തരം അറിയില്ലെങ്കിൽ
 
 ### Why it matters
 
-എല്ലാ ചോദ്യത്തിനും ഉത്തരം അറിയാവുന്ന ആരും ഇല്ല. Interviewer-ഉം അത് പ്രതീക്ഷിക്കുന്നില്ല. അറിയാത്തപ്പോൾ നിങ്ങൾ എങ്ങനെ ചിന്തിക്കുന്നു എന്നാണ് അവർ നോക്കുന്നത്.
+എല്ലാ ചോദ്യത്തിനും ഉത്തരം അറിയാവുന്ന ആരും ഇല്ല. Interviewer-ഉം അത് പ്രതീക്ഷിക്കുന്നില്ല. പിന്നെ അവർ എന്താണ് നോക്കുന്നത്? അറിയാത്തപ്പോൾ നിങ്ങൾ എങ്ങനെ ചിന്തിക്കുന്നു എന്ന്.
 
 ### The common mistake
 
-WARN: രണ്ട് തെറ്റുകൾ. ഒന്ന്: "I don't know" എന്ന് പറഞ്ഞ് നിർത്തുക. രണ്ട്: അറിയാത്ത കാര്യം അറിയാമെന്ന് നടിച്ച് bluff ചെയ്യുക. Experienced interviewer-ന് bluff ഉടൻ മനസ്സിലാകും. അത് "I don't know" എന്നതിനേക്കാൾ മോശമാണ്.
+WARN: രണ്ട് തെറ്റുകളുണ്ട്. ഒന്ന്, "I don't know" എന്ന് പറഞ്ഞ് നിർത്തുക. രണ്ട്, അറിയാത്ത കാര്യം അറിയാമെന്ന് നടിച്ച് bluff ചെയ്യുക. Experienced interviewer-ന് bluff ഉടനെ മനസ്സിലാകും. അത് "I don't know" എന്നതിനേക്കാൾ മോശമാണ്.
 
 ### Structure: Honest, Closest experience, Approach
 
@@ -225,15 +225,15 @@ EN: That's a good question. / Let me think for a second.
 EN: I'm not sure, / but my best guess is the cache, / because the latency only spikes after a deploy.
 EN: I'd need to look that up, / but here's how I'd reason about it.
 
-TIP: "Let me think for a second" എന്ന് പറഞ്ഞ് അഞ്ച് സെക്കൻഡ് നിശ്ശബ്ദമായി ചിന്തിക്കുന്നത് തികച്ചും ശരിയാണ്. "Uhh, umm" എന്ന് നീട്ടുന്നതിനേക്കാൾ എത്രയോ നല്ലതാണ് ശാന്തമായ ഒരു pause.
+TIP: "Let me think for a second" എന്ന് പറഞ്ഞ്, അഞ്ച് സെക്കൻഡ് മിണ്ടാതെ ചിന്തിക്കാം. അത് തികച്ചും ശരിയാണ്. "Uhh, umm" എന്ന് നീട്ടുന്നതിനേക്കാൾ എത്രയോ നല്ലതാണ് ശാന്തമായ ഒരു pause.
 
 ## 8.8 Questions to ask them | നിങ്ങൾ ചോദിക്കേണ്ട ചോദ്യങ്ങൾ
 
 ### Why it matters
 
-Interview-ന്റെ അവസാനം "Do you have any questions for us?" എന്ന് എപ്പോഴും ചോദിക്കും. "No, everything is clear" എന്ന് പറഞ്ഞാൽ, നിങ്ങൾക്ക് ഈ ജോലിയിൽ വലിയ താല്പര്യമില്ലെന്ന് തോന്നും. നല്ല ചോദ്യങ്ങൾ നിങ്ങളെ ഒരു senior, ചിന്തിക്കുന്ന ആളായി കാണിക്കും.
+Interview-ന്റെ അവസാനം എപ്പോഴും ഒരു ചോദ്യം വരും: "Do you have any questions for us?" അപ്പോൾ "No, everything is clear" എന്ന് പറഞ്ഞാലോ? നിങ്ങൾക്ക് ഈ ജോലിയിൽ വലിയ താല്പര്യമില്ലെന്ന് തോന്നും. നല്ല ചോദ്യങ്ങൾ നിങ്ങളെ ഒരു senior, ചിന്തിക്കുന്ന ആളായി കാണിക്കും.
 
-എപ്പോഴും കുറഞ്ഞത് രണ്ട് ചോദ്യങ്ങൾ തയ്യാറാക്കി വെക്കുക.
+അതുകൊണ്ട് എപ്പോഴും കുറഞ്ഞത് രണ്ട് ചോദ്യങ്ങൾ തയ്യാറാക്കി വെക്കുക.
 
 EN: What would success look like for this role / in the first ninety days?
 EN: What's the biggest technical challenge / the team is facing right now?
@@ -241,15 +241,15 @@ EN: How do you evaluate model quality / before a release?
 EN: How is the team's time split / between building new features / and running production?
 EN: What do you enjoy most about working here?
 
-NOTE: ആദ്യ round-ൽ ശമ്പളം, leave, work from home എന്നിവയെക്കുറിച്ച് ആദ്യ ചോദ്യമായി ചോദിക്കരുത്. ജോലിയെക്കുറിച്ചും team-നെക്കുറിച്ചും ആദ്യം ചോദിക്കുക. HR round-ൽ മറ്റുള്ളവ ചോദിക്കാം.
+NOTE: ആദ്യ round-ൽ, ശമ്പളം, leave, work from home എന്നിവ ആദ്യ ചോദ്യമായി ചോദിക്കരുത്. ആദ്യം ജോലിയെക്കുറിച്ചും team-നെക്കുറിച്ചും ചോദിക്കുക. മറ്റുള്ളവ HR round-ൽ ചോദിക്കാം.
 
 ## 8.9 FDE-style customer role-play | Customer role-play interview
 
 ### Why it matters
 
-Forward Deployed Engineer, Solutions Engineer പോലുള്ള roles-ൽ interview-ന്റെ ഒരു ഭാഗം role-play ആണ്. Interviewer ഒരു customer ആയി അഭിനയിക്കും. നിങ്ങൾ engineer. അവർ നോക്കുന്നത്: നിങ്ങൾ ചോദ്യങ്ങൾ ചോദിക്കുന്നുണ്ടോ, നേരിട്ട് solution-ലേക്ക് ചാടുന്നുണ്ടോ, scope നിയന്ത്രിക്കുന്നുണ്ടോ, technical കാര്യങ്ങൾ ലളിതമായി പറയുന്നുണ്ടോ.
+Forward Deployed Engineer, Solutions Engineer പോലുള്ള roles-ൽ interview-ന്റെ ഒരു ഭാഗം role-play ആണ്. Interviewer ഒരു customer ആയി അഭിനയിക്കും. നിങ്ങൾ engineer. അവർ എന്താണ് നോക്കുന്നത്? നിങ്ങൾ ചോദ്യങ്ങൾ ചോദിക്കുന്നുണ്ടോ, നേരെ solution-ലേക്ക് ചാടുന്നുണ്ടോ, scope നിയന്ത്രിക്കുന്നുണ്ടോ, technical കാര്യങ്ങൾ ലളിതമായി പറയുന്നുണ്ടോ.
 
-WARN: ഏറ്റവും വലിയ തെറ്റ്: customer പ്രശ്നം പറഞ്ഞ ഉടൻ "We can use RAG with a vector database and fine-tune a model" എന്ന് തുടങ്ങുക. ആദ്യം ചോദ്യങ്ങൾ. Solution പിന്നെ.
+WARN: ഏറ്റവും വലിയ തെറ്റ് ഇതാണ്: customer പ്രശ്നം പറഞ്ഞ ഉടനെ "We can use RAG with a vector database and fine-tune a model" എന്ന് തുടങ്ങുക. ആദ്യം ചോദ്യങ്ങൾ. Solution പിന്നെ.
 
 ### Example role-play
 
@@ -272,22 +272,22 @@ EN: Arun: Great. As a next step, could you share about five hundred past tickets
 
 ### Why it works
 
-Arun ആദ്യം അനുവാദം ചോദിച്ചു, പിന്നെ നാല് discovery ചോദ്യങ്ങൾ. പിന്നെ customer-ന്റെ വാക്കുകളിൽ തന്നെ summary. Solution ചെറുതായി തുടങ്ങുന്നു: ഒരു use case, ഒരു human approval step. Refund ചോദ്യത്തിൽ risk വിശദീകരിച്ചു, പക്ഷേ "no" പറഞ്ഞില്ല. അവസാനം ഒരു വ്യക്തമായ next step, ഒരു തീയതിയോടെ.
+Arun ആദ്യം അനുവാദം ചോദിച്ചു. പിന്നെ നാല് discovery ചോദ്യങ്ങൾ. പിന്നെ customer-ന്റെ വാക്കുകളിൽ തന്നെ ഒരു summary. Solution ചെറുതായി തുടങ്ങുന്നു: ഒരു use case, ഒരു human approval step. Refund ചോദ്യം വന്നപ്പോൾ risk വിശദീകരിച്ചു, പക്ഷേ "no" പറഞ്ഞില്ല. അവസാനം, ഒരു തീയതിയോടെ, വ്യക്തമായ ഒരു next step.
 
-ഇതിൽ ഒരിക്കൽ പോലും "vector database" അല്ലെങ്കിൽ "embedding" എന്ന് പറഞ്ഞില്ല എന്നത് ശ്രദ്ധിക്കുക. Customer-ന് വേണ്ടത് ഫലമാണ്, technology-യുടെ പേരല്ല. Interviewer technical ആയി ചോദിച്ചാൽ മാത്രം ആ ആഴത്തിലേക്ക് പോകുക.
+ഒരു കാര്യം ശ്രദ്ധിച്ചോ? ഇതിൽ ഒരിക്കൽ പോലും "vector database" അല്ലെങ്കിൽ "embedding" എന്ന് പറഞ്ഞില്ല. Customer-ന് വേണ്ടത് ഫലമാണ്, technology-യുടെ പേരല്ല. Interviewer technical ആയി ചോദിച്ചാൽ മാത്രം ആ ആഴത്തിലേക്ക് പോകുക.
 
-TIP: ഈ role-play-യിലെ phrases അധ്യായം ഏഴിലെ client-facing calls ഭാഗത്ത് നിന്നാണ്. ആ ഭാഗം ഒരിക്കൽ കൂടി വായിക്കുക.
+TIP: ഈ role-play-യിലെ phrases അധ്യായം ഏഴിലെ client-facing calls ഭാഗത്ത് നിന്നാണ്. ആ ഭാഗം ഒന്നുകൂടി വായിച്ചു നോക്കൂ.
 
 ## 8.10 Mock interview practice | പരിശീലനം
 
 DRILL: 8 | Mock interview with an AI voice assistant
-ഒരു AI assistant-ന്റെ voice mode തുറന്ന് താഴെയുള്ള prompt പറയുക. ആഴ്ചയിൽ രണ്ട് തവണ ചെയ്യുക.
+ഒരു AI assistant-ന്റെ voice mode തുറക്കുക. എന്നിട്ട് താഴെയുള്ള prompt പറയുക. ആഴ്ചയിൽ രണ്ട് തവണ ചെയ്യുക.
 EN: Act as a senior engineering manager at an AI company. / Interview me for an AI Engineer role for twenty minutes. / Ask one question at a time, / follow up on vague answers, / and at the end, / give me feedback on clarity, structure and pronunciation.
-FDE role-play പരിശീലിക്കാൻ ഈ prompt ഉപയോഗിക്കുക.
+FDE role-play പരിശീലിക്കാൻ ഈ prompt ഉപയോഗിക്കാം.
 EN: Act as a customer who runs a small business / and wants to use AI, / but doesn't know exactly how. / I'm the engineer. / Let me ask you questions, / push back when I use jargon, / and at the end, / tell me if I understood your real problem.
-ഓരോ session-ന് ശേഷവും മൂന്ന് കാര്യങ്ങൾ എഴുതുക.
-1. ഏത് ഉത്തരം നന്നായി.
-2. ഏത് ഉത്തരം നീണ്ടുപോയി, അല്ലെങ്കിൽ വ്യക്തമല്ലായിരുന്നു.
+ഓരോ session കഴിഞ്ഞും മൂന്ന് കാര്യങ്ങൾ എഴുതിവെക്കുക.
+1. ഏത് ഉത്തരം നന്നായി?
+2. ഏത് ഉത്തരം നീണ്ടുപോയി, അല്ലെങ്കിൽ വ്യക്തമല്ലായിരുന്നു?
 3. അടുത്ത തവണ ശരിയാക്കേണ്ട ഒരു ഉച്ചാരണം.
 END
 

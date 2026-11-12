@@ -1,23 +1,23 @@
 # 9 | Writing that gets results | ഫലം കിട്ടുന്ന എഴുത്ത്
-SUMMARY: Remote, global ജോലികളിൽ ആളുകൾ നിങ്ങളെ ഏറ്റവും കൂടുതൽ "കേൾക്കുന്നത്" നിങ്ങളുടെ എഴുത്തിലൂടെയാണ്. Email, Slack, PR description, client status update, ഒരു പേജ് proposal, LinkedIn post എന്നിവ എങ്ങനെ വ്യക്തമായും ചുരുക്കിയും എഴുതാം എന്ന് ഈ അധ്യായത്തിൽ പഠിക്കാം.
+SUMMARY: Remote, global ജോലികളിൽ ആളുകൾ നിങ്ങളെ ഏറ്റവും കൂടുതൽ "കേൾക്കുന്നത്" എങ്ങനെയാണ്? നിങ്ങളുടെ എഴുത്തിലൂടെ. Email, Slack, PR description, client status update, ഒരു പേജ് proposal, LinkedIn post, ഇവയെല്ലാം വ്യക്തമായും ചുരുക്കിയും എങ്ങനെ എഴുതാം? അതാണ് ഈ അധ്യായത്തിൽ നമ്മൾ പഠിക്കുന്നത്.
 
 ## 9.0 The one rule | എല്ലാ എഴുത്തിനും ഒരു നിയമം
 
-Office-ൽ നിങ്ങളെ നേരിട്ട് കാണാത്ത ഒരാൾക്ക് നിങ്ങൾ ആരാണ് എന്ന് അറിയുന്നത് നിങ്ങളുടെ messages വഴിയാണ്. ഒരു manager ദിവസം നൂറോളം messages വായിക്കുന്നു. അതിൽ ഏത് message ആണ് ആദ്യം മനസ്സിലാകുന്നത്, അയച്ച ആളെയാണ് അവർ "clear", "reliable" എന്ന് ഓർക്കുന്നത്.
+Office-ൽ നിങ്ങളെ നേരിട്ട് കാണാത്ത ഒരാൾ നിങ്ങളെ അറിയുന്നത് നിങ്ങളുടെ messages വഴിയാണ്. ഒരു manager ദിവസവും നൂറോളം messages വായിക്കുന്നു. അതിൽ ഏത് message ആണോ ആദ്യം മനസ്സിലാകുന്നത്, അത് അയച്ച ആളെയാണ് അവർ "clear", "reliable" എന്ന് ഓർക്കുക.
 
-നിയമം ലളിതമാണ്. **ആദ്യ വരിയിൽ തന്നെ ആവശ്യം അല്ലെങ്കിൽ പ്രധാന വാർത്ത.** പിന്നെ ചെറിയ പാരഗ്രാഫുകൾ. പിന്നെ bullet points. അവസാനം ഒരു വ്യക്തമായ next step.
+നിയമം ലളിതമാണ്. **ആദ്യ വരിയിൽ തന്നെ ആവശ്യം അല്ലെങ്കിൽ പ്രധാന വാർത്ത.** പിന്നെ ചെറിയ പാരഗ്രാഫുകൾ. പിന്നെ bullet points. അവസാനം, വ്യക്തമായ ഒരു next step.
 
-ഇതിനെ "bottom line up front" എന്ന് പറയാറുണ്ട്. നമ്മൾ സ്കൂളിൽ പഠിച്ചത് കഥ പോലെ എഴുതാനാണ്: ആമുഖം, വിശദീകരണം, അവസാനം കാര്യം. ജോലിസ്ഥലത്ത് ഇത് തിരിച്ചാണ്. ആദ്യം കാര്യം, പിന്നെ വിശദീകരണം വേണ്ടവർക്ക് മാത്രം.
+ഇതിനെ "bottom line up front" എന്ന് പറയാറുണ്ട്. സ്കൂളിൽ നമ്മൾ പഠിച്ചത് കഥ പോലെ എഴുതാനാണ്, അല്ലേ? ആമുഖം, വിശദീകരണം, അവസാനം കാര്യം. പക്ഷേ ജോലിസ്ഥലത്ത് ഇത് നേരെ തിരിച്ചാണ്. ആദ്യം കാര്യം. വിശദീകരണം, വേണ്ടവർക്ക് മാത്രം.
 
-- ആദ്യ വരി: എന്ത് സംഭവിച്ചു, അല്ലെങ്കിൽ എനിക്ക് എന്ത് വേണം.
+- ആദ്യ വരി: എന്ത് സംഭവിച്ചു? അല്ലെങ്കിൽ, എനിക്ക് എന്ത് വേണം?
 - നടുവിൽ: വായിക്കുന്നയാൾക്ക് തീരുമാനമെടുക്കാൻ വേണ്ട വസ്തുതകൾ മാത്രം. നമ്പറുകൾ, തീയതികൾ.
 - അവസാനം: ആര്, എന്ത്, എപ്പോൾ ചെയ്യും.
 
-TIP: Send ചെയ്യുന്നതിന് മുമ്പ് ഒരു ചോദ്യം ചോദിക്കുക: "ഇയാൾ ആദ്യ വരി മാത്രം വായിച്ചാൽ, കാര്യം മനസ്സിലാകുമോ?" ഇല്ലെങ്കിൽ, ആദ്യ വരി മാറ്റി എഴുതുക.
+TIP: Send ചെയ്യുന്നതിന് മുമ്പ് സ്വയം ഒന്ന് ചോദിക്കൂ: "ഇയാൾ ആദ്യ വരി മാത്രം വായിച്ചാൽ, കാര്യം മനസ്സിലാകുമോ?" ഇല്ലെങ്കിൽ, ആദ്യ വരി മാറ്റി എഴുതുക.
 
 ### Malayali-English habits to drop | ഒഴിവാക്കേണ്ട ശീലങ്ങൾ
 
-നമ്മുടെ നാട്ടിൽ സാധാരണമായ ചില പ്രയോഗങ്ങൾ global teams-ന് പഴയതോ, വിചിത്രമോ, ചിലപ്പോൾ മര്യാദയില്ലാത്തതോ ആയി തോന്നും. ഇവ ഓരോന്നും ഒരു ലളിതമായ രൂപം കൊണ്ട് മാറ്റുക.
+നമ്മുടെ നാട്ടിൽ സാധാരണമായ ചില പ്രയോഗങ്ങളുണ്ട്. Global teams-ന് അവ പഴയതോ, വിചിത്രമോ, ചിലപ്പോൾ മര്യാദയില്ലാത്തതോ ആയി തോന്നും. ഓരോന്നിനും പകരം ഒരു ലളിതമായ രൂപം ഉപയോഗിക്കുക.
 
 | Avoid | Use instead |
 | Kindly do the needful. | Could you please approve the PR by Thursday? |
@@ -30,17 +30,17 @@ TIP: Send ചെയ്യുന്നതിന് മുമ്പ് ഒരു �
 | Same to you sir | Thanks, you too. |
 | Respected Sir, | Hi Rahul, |
 
-NOTE: "Revert" എന്നതിന് software-ൽ ഒരു പ്രത്യേക അർത്ഥമുണ്ട്: ഒരു മാറ്റം പിൻവലിക്കുക. "Please revert" എന്ന് എഴുതിയാൽ ഒരു global engineer കരുതുക നിങ്ങൾ commit പിൻവലിക്കാൻ പറയുകയാണെന്നാണ്.
+NOTE: Software-ൽ "Revert" എന്നതിന് ഒരു പ്രത്യേക അർത്ഥമുണ്ട്: ഒരു മാറ്റം പിൻവലിക്കുക. അപ്പോൾ "Please revert" എന്ന് എഴുതിയാലോ? നിങ്ങൾ commit പിൻവലിക്കാൻ പറയുകയാണെന്ന് ഒരു global engineer കരുതും.
 
-WARN: "Sir", "Madam" എന്ന് എല്ലാവരെയും വിളിക്കുന്നത് global teams-ൽ സാധാരണമല്ല. CEO-യെ പോലും first name കൊണ്ടാണ് വിളിക്കുന്നത്. ബഹുമാനം കാണിക്കുന്നത് വാക്കുകൾ കൊണ്ടല്ല, വ്യക്തതയും സമയനിഷ്ഠയും കൊണ്ടാണ്.
+WARN: എല്ലാവരെയും "Sir", "Madam" എന്ന് വിളിക്കുന്നത് global teams-ൽ സാധാരണമല്ല. CEO-യെ പോലും first name വിളിച്ചാണ് സംസാരിക്കുന്നത്. അപ്പോൾ ബഹുമാനം എങ്ങനെ കാണിക്കും? വാക്കുകൾ കൊണ്ടല്ല, വ്യക്തതയും സമയനിഷ്ഠയും കൊണ്ട്.
 
 ## 9.1 Email | ഇമെയിൽ
 
 ### Why this structure works | എന്തുകൊണ്ട് ഈ ഘടന
 
-ഒരു നല്ല work email-ന് അഞ്ച് ഭാഗങ്ങളുണ്ട്. Subject line തന്നെ ഒരു ചെറിയ summary ആണ്. ആദ്യ വാചകം പ്രധാന വാർത്ത. പിന്നെ മൂന്നോ നാലോ bullet points. പിന്നെ next step. അവസാനം പേര്.
+ഒരു നല്ല work email-ന് അഞ്ച് ഭാഗങ്ങളുണ്ട്. Subject line തന്നെ ഒരു ചെറിയ summary ആണ്. ആദ്യ വാചകം, പ്രധാന വാർത്ത. പിന്നെ മൂന്നോ നാലോ bullet points. പിന്നെ next step. അവസാനം പേര്.
 
-Subject line പ്രധാനമാണ്, കാരണം inbox-ൽ ആളുകൾ ആദ്യം കാണുന്നത് അതാണ്. "Update" അല്ലെങ്കിൽ "Regarding the issue" എന്നത് ഒന്നും പറയുന്നില്ല. "Transcription service live on production" എന്നത് open ചെയ്യാതെ തന്നെ കാര്യം പറയുന്നു.
+Subject line എന്തുകൊണ്ട് പ്രധാനമാണ്? കാരണം inbox-ൽ ആളുകൾ ആദ്യം കാണുന്നത് അതാണ്. "Update" അല്ലെങ്കിൽ "Regarding the issue" ഒന്നും പറയുന്നില്ല. പക്ഷേ "Transcription service live on production" എന്ന് കണ്ടാൽ, open ചെയ്യാതെ തന്നെ കാര്യം അറിയാം.
 
 ### Before | മോശം രൂപം
 
@@ -49,7 +49,7 @@ EN: Dear Sir,
 EN: Greetings of the day. As per our discussion today morning, I have done the deployment of the service and the testing was also done and everything is working fine as of now. Kindly check and revert back if any issues.
 EN: Thanks and regards.
 
-ഇതിൽ എന്താണ് പ്രശ്നം? ഏത് service എന്ന് പറയുന്നില്ല. ഏത് environment എന്ന് പറയുന്നില്ല. എത്ര test ചെയ്തു എന്നതിന് നമ്പർ ഇല്ല. "Kindly check" എന്നത് ജോലി വായിക്കുന്നയാളുടെ തലയിൽ ഇടുന്നു. Next step ഇല്ല.
+ഇതിൽ എന്താണ് പ്രശ്നം? ഏത് service എന്ന് പറയുന്നില്ല. ഏത് environment എന്നും ഇല്ല. എത്ര test ചെയ്തു എന്നതിന് ഒരു നമ്പറും ഇല്ല. "Kindly check" എന്ന് പറയുമ്പോൾ, ജോലി മുഴുവൻ വായിക്കുന്നയാളുടെ തലയിലാകും. Next step-ഉം ഇല്ല.
 
 ### After | നല്ല രൂപം
 
@@ -62,11 +62,11 @@ EN: Monitoring: latency and error alerts are on the dashboard.
 EN: Next step: I'll share a one-week performance summary on November 18.
 EN: Thanks, Arun.
 
-ശ്രദ്ധിക്കുക: ആദ്യ വാചകം വായിച്ചാൽ മാത്രം മതി, കാര്യം അറിയാം. Bullets-ൽ ഓരോന്നിലും ഒരു നമ്പർ അല്ലെങ്കിൽ ഒരു വസ്തുത. അവസാനം "I'll" കൊണ്ട് ഒരു ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നു, ഒരു തീയതിയോടെ.
+ഒന്ന് ശ്രദ്ധിക്കൂ: ആദ്യ വാചകം മാത്രം വായിച്ചാൽ മതി, കാര്യം അറിയാം. Bullets-ൽ ഓരോന്നിലും ഒരു നമ്പർ, അല്ലെങ്കിൽ ഒരു വസ്തുത. അവസാനം "I'll" കൊണ്ട് ഒരു ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നു, ഒരു തീയതിയോടെ.
 
 ### Asking for something by email | എന്തെങ്കിലും ആവശ്യപ്പെടുമ്പോൾ
 
-ആവശ്യം ആദ്യം. കാരണം രണ്ടാമത്. Deadline വ്യക്തമായി. എളുപ്പമാക്കാൻ ഒരു option.
+ആവശ്യം ആദ്യം. കാരണം രണ്ടാമത്. Deadline വ്യക്തമായി. പിന്നെ, കാര്യം എളുപ്പമാക്കാൻ ഒരു option.
 
 EN: Subject: Approval needed by Thursday: production GPU quota
 EN: Hi Meera,
@@ -75,17 +75,17 @@ EN: We need it for Friday's release. Without it, the release moves to next week.
 EN: The request is in the cloud console, ticket 4512. It takes about two minutes to approve.
 EN: Thanks, Arun.
 
-TIP: "Could you" കൊണ്ട് തുടങ്ങുന്ന ഒരു നേരിട്ടുള്ള ചോദ്യം മര്യാദയുള്ളതും വ്യക്തവുമാണ്. "I wanted to check if it might be possible" പോലെ നീട്ടേണ്ടതില്ല.
+TIP: "Could you" കൊണ്ട് തുടങ്ങുന്ന ഒരു നേരിട്ടുള്ള ചോദ്യം, മര്യാദയുള്ളതും വ്യക്തവുമാണ്. "I wanted to check if it might be possible" എന്നൊക്കെ നീട്ടേണ്ട കാര്യമില്ല.
 
 ## 9.2 Slack and Teams messages | ചാറ്റ് സന്ദേശങ്ങൾ
 
-Chat-ൽ എഴുതുന്നത് ചെറുതായിരിക്കണം, പക്ഷേ പൂർണ്ണമായിരിക്കണം. ഒരു message വായിച്ചാൽ മറ്റേയാൾക്ക് ഉടനെ ഉത്തരം നൽകാൻ കഴിയണം. തിരിച്ച് ചോദ്യം ചോദിക്കേണ്ടി വരരുത്.
+Chat-ൽ എഴുതുന്നത് ചെറുതായിരിക്കണം. പക്ഷേ പൂർണ്ണവുമായിരിക്കണം. ഒരു message വായിച്ചാൽ മറ്റേയാൾക്ക് ഉടനെ ഉത്തരം തരാൻ പറ്റണം. തിരിച്ച് ഒരു ചോദ്യം ചോദിക്കേണ്ടി വരരുത്.
 
 ### The "Hi" problem | വെറും "Hi" എന്ന പ്രശ്നം
 
-നമ്മുടെ ശീലം: "Hi" എന്ന് അയച്ച്, മറ്റേയാൾ "Hi, tell me" എന്ന് പറയുന്നത് വരെ കാത്തിരിക്കുക. ഫോൺ വിളിക്കുന്നത് പോലെ. പക്ഷേ chat-ൽ ഇത് മറ്റേയാളുടെ സമയം കളയുന്നു. അവർ ഒരു meeting-ൽ ആണെങ്കിൽ, ഒരു മണിക്കൂർ കഴിഞ്ഞ് "Hi" എന്ന് മാത്രം കാണും. പിന്നെ നിങ്ങൾ വീണ്ടും ഒരു മണിക്കൂർ കാത്തിരിക്കും.
+നമ്മുടെ ശീലം എന്താണ്? "Hi" എന്ന് അയക്കും. എന്നിട്ട് മറ്റേയാൾ "Hi, tell me" എന്ന് പറയുന്നത് വരെ കാത്തിരിക്കും, ഫോൺ വിളിക്കുന്നത് പോലെ. പക്ഷേ chat-ൽ ഇത് മറ്റേയാളുടെ സമയം കളയും. അവർ ഒരു meeting-ൽ ആണെങ്കിലോ? ഒരു മണിക്കൂർ കഴിഞ്ഞ് "Hi" എന്ന് മാത്രം കാണും. പിന്നെ നിങ്ങൾ വീണ്ടും ഒരു മണിക്കൂർ കാത്തിരിക്കും.
 
-പരിഹാരം: greeting-ഉം ചോദ്യവും ഒരേ message-ൽ.
+അപ്പോൾ പരിഹാരം? Greeting-ഉം ചോദ്യവും ഒരേ message-ൽ.
 
 | Weak | Strong |
 | Hi. (then waits) | Hi Priya, quick one: is the staging GPU free this afternoon? I'd like to run a 30-minute load test. |
@@ -96,31 +96,31 @@ Chat-ൽ എഴുതുന്നത് ചെറുതായിരിക്ക�
 
 ### Reporting a problem in chat | പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുമ്പോൾ
 
-ഒരു നല്ല problem message-ൽ നാല് കാര്യങ്ങൾ ഉണ്ടാകും: എന്ത് കാണുന്നു, എപ്പോൾ മുതൽ, എന്താണ് കാരണം എന്ന് കരുതുന്നു, നിങ്ങൾ ഇപ്പോൾ എന്ത് ചെയ്യുന്നു.
+ഒരു നല്ല problem message-ൽ നാല് കാര്യങ്ങൾ ഉണ്ടാകും. എന്ത് കാണുന്നു? എപ്പോൾ മുതൽ? എന്താണ് കാരണം എന്ന് കരുതുന്നു? നിങ്ങൾ ഇപ്പോൾ എന്ത് ചെയ്യുന്നു?
 
 EN: Heads-up: login is failing for about 5 percent of users since 10:15 AM.
 EN: Likely cause: the new token cache. I'm rolling it back now.
 EN: Next update in 20 minutes.
 
-WARN: "Not working", "Facing issue", "Getting error" എന്ന് മാത്രം എഴുതരുത്. ഏത് error, എവിടെ, എപ്പോൾ മുതൽ എന്ന് എഴുതുക. Error message copy ചെയ്ത് ഇടുക.
+WARN: "Not working", "Facing issue", "Getting error" എന്ന് മാത്രം എഴുതരുത്. ഏത് error? എവിടെ? എപ്പോൾ മുതൽ? അത് എഴുതുക. Error message copy ചെയ്ത് ഇടുക.
 
 ### Threads and tone | Thread-ഉം സ്വരവും
 
-- ഒരു വിഷയത്തിന് ഒരു thread. പത്ത് ചെറിയ messages ഒന്നിന് പുറകെ ഒന്നായി അയക്കരുത്.
-- ALL CAPS, കൂടുതൽ ചോദ്യചിഹ്നങ്ങൾ എന്നിവ ദേഷ്യം പോലെ തോന്നും.
-- "Okay" എന്നതിന് പകരം "Sounds good, I'll start after lunch" എന്ന് എഴുതിയാൽ, നിങ്ങൾ എന്ത് ചെയ്യും എന്ന് അവർക്ക് അറിയാം.
+- ഒരു വിഷയത്തിന് ഒരു thread മതി. പത്ത് ചെറിയ messages ഒന്നിന് പുറകെ ഒന്നായി അയക്കരുത്.
+- ALL CAPS, ഒരുപാട് ചോദ്യചിഹ്നങ്ങൾ, ഇവയൊക്കെ ദേഷ്യം പോലെ തോന്നും.
+- "Okay" എന്നതിന് പകരം "Sounds good, I'll start after lunch" എന്ന് എഴുതി നോക്കൂ. നിങ്ങൾ എന്ത് ചെയ്യും എന്ന് അവർക്ക് അറിയാം.
 
 ## 9.3 Pull request description | PR വിവരണം
 
-Reviewer-ന്റെ സമയം ലാഭിക്കുന്ന PR ആണ് വേഗം merge ആകുന്നത്. PR description ഒരു ചെറിയ document ആണ്: ഈ മാറ്റം എന്ത്, എന്തിന്, എങ്ങനെ, എങ്ങനെ test ചെയ്തു, എന്ത് risk.
+ഏത് PR ആണ് വേഗം merge ആകുന്നത്? Reviewer-ന്റെ സമയം ലാഭിക്കുന്നത്. PR description ഒരു ചെറിയ document ആണ്: ഈ മാറ്റം എന്ത്, എന്തിന്, എങ്ങനെ, എങ്ങനെ test ചെയ്തു, എന്ത് risk.
 
-ഇത് പ്രധാനമാണ്, കാരണം ആറുമാസം കഴിഞ്ഞ് ആരെങ്കിലും "ഈ code എന്തിനാണ്?" എന്ന് ചോദിക്കുമ്പോൾ, അവർ git history-യിൽ നിങ്ങളുടെ PR വായിക്കും. നിങ്ങൾ team-ൽ ഇല്ലെങ്കിൽ പോലും നിങ്ങളുടെ എഴുത്ത് അവിടെ സംസാരിക്കും.
+ഇത് എന്തുകൊണ്ട് പ്രധാനമാണ്? ആറുമാസം കഴിഞ്ഞ് ആരെങ്കിലും ചോദിക്കും, "ഈ code എന്തിനാണ്?" അപ്പോൾ അവർ git history-യിൽ നിങ്ങളുടെ PR വായിക്കും. നിങ്ങൾ team-ൽ ഇല്ലെങ്കിൽ പോലും, നിങ്ങളുടെ എഴുത്ത് അവിടെ സംസാരിക്കും.
 
 ### Before | മോശം രൂപം
 
 EN: Fixed the issue. Please review.
 
-ഏത് issue? എന്ത് fix? Reviewer മുഴുവൻ code വായിച്ച് ഊഹിക്കേണ്ടി വരും.
+ഏത് issue? എന്ത് fix? Reviewer മുഴുവൻ code-ഉം വായിച്ച് ഊഹിക്കേണ്ടി വരും.
 
 ### After | നല്ല രൂപം
 
@@ -137,21 +137,21 @@ EN: Risk: Adds about 15 milliseconds per request.
 | Testing | എങ്ങനെ ഉറപ്പാക്കി. നമ്പറുകളോടെ. |
 | Risk | എന്ത് തെറ്റാകാം. Rollback എങ്ങനെ. |
 
-TIP: Reviewer-ന് ഒരു പ്രത്യേക ഭാഗം നോക്കണമെന്നുണ്ടെങ്കിൽ നേരിട്ട് പറയുക: "Please look closely at the fallback logic in worker dot py. The rest is tests."
+TIP: Reviewer ഒരു പ്രത്യേക ഭാഗം നോക്കണമെങ്കിൽ, അത് നേരിട്ട് പറയുക: "Please look closely at the fallback logic in worker dot py. The rest is tests."
 
-WARN: Commit messages-ഉം ഇതേ നിയമം പാലിക്കുന്നു. "changes", "fix", "final final" എന്നിവ ഒഴിവാക്കുക. "Add retry with backoff to upload client" പോലെ ഒരു verb കൊണ്ട് തുടങ്ങുക.
+WARN: Commit messages-നും ഇതേ നിയമം തന്നെ. "changes", "fix", "final final" ഇവയൊക്കെ ഒഴിവാക്കുക. "Add retry with backoff to upload client" പോലെ ഒരു verb കൊണ്ട് തുടങ്ങുക.
 
 ## 9.4 Client status update | ക്ലയന്റിനുള്ള സ്റ്റാറ്റസ് അപ്ഡേറ്റ്
 
-Client-ന് code-ൽ താൽപ്പര്യമില്ല. അവർക്ക് മൂന്ന് കാര്യങ്ങൾ അറിയണം: പ്രോജക്ട് സമയത്ത് തീരുമോ? എന്തെങ്കിലും പ്രശ്നമുണ്ടോ? എന്നിൽ നിന്ന് എന്തെങ്കിലും വേണോ?
+Client-ന് code-ൽ താൽപ്പര്യമില്ല. അവർക്ക് അറിയേണ്ടത് മൂന്ന് കാര്യങ്ങൾ: പ്രോജക്ട് സമയത്ത് തീരുമോ? എന്തെങ്കിലും പ്രശ്നമുണ്ടോ? എന്നിൽ നിന്ന് എന്തെങ്കിലും വേണോ?
 
-അതുകൊണ്ട് ഒരു ലളിതമായ ഘടന ഉപയോഗിക്കുക: Status, Done, Next, Risks, Need from you. ഓരോ ആഴ്ചയും ഒരേ ദിവസം, ഒരേ format-ൽ അയക്കുക. സ്ഥിരത തന്നെ വിശ്വാസം ഉണ്ടാക്കുന്നു.
+അതുകൊണ്ട് ഒരു ലളിതമായ ഘടന ഉപയോഗിക്കുക: Status, Done, Next, Risks, Need from you. എല്ലാ ആഴ്ചയും ഒരേ ദിവസം, ഒരേ format-ൽ അയക്കുക. ഈ സ്ഥിരത തന്നെയാണ് വിശ്വാസം ഉണ്ടാക്കുന്നത്.
 
 ### Before | മോശം രൂപം
 
 EN: Hi, work is going on. Some issues are there with the integration but we are working on it. Will update soon.
 
-"Some issues" എന്ന് കേട്ടാൽ client ഭയപ്പെടും. "Will update soon" എന്നതിന് തീയതി ഇല്ല. ഇത് വിശ്വാസം കുറയ്ക്കുന്നു.
+"Some issues" എന്ന് കേട്ടാൽ client പേടിക്കും. "Will update soon" എന്നതിന് തീയതിയില്ല. ഇതൊക്കെ വിശ്വാസം കുറയ്ക്കും.
 
 ### After | നല്ല രൂപം
 
@@ -162,13 +162,13 @@ EN: Next week: drafted replies and the approval step.
 EN: Risk: the help-desk API limits us to 200 calls a minute. I've added a queue, so this should not affect launch.
 EN: Need from you: a list of five refund rules by Wednesday.
 
-NOTE: Status-ന് മൂന്ന് വാക്കുകൾ മതി: "On track", "At risk", "Delayed". At risk ആണെങ്കിൽ, കാരണവും നിങ്ങളുടെ പരിഹാരവും ഒപ്പം എഴുതുക. മോശം വാർത്ത നേരത്തെ പറയുന്നവരെയാണ് clients വിശ്വസിക്കുന്നത്.
+NOTE: Status-ന് മൂന്ന് വാക്കുകൾ മതി: "On track", "At risk", "Delayed". At risk ആണെങ്കിൽ, കാരണവും നിങ്ങളുടെ പരിഹാരവും കൂടെ എഴുതുക. Clients ആരെയാണ് വിശ്വസിക്കുന്നത്? മോശം വാർത്ത നേരത്തെ പറയുന്നവരെ.
 
-TIP: "Need from you" എന്ന വരി ഏറ്റവും പ്രധാനമാണ്. Client-ന്റെ ഭാഗത്തെ delay കാരണം project വൈകിയാൽ, ഈ വരി നിങ്ങളെ സംരക്ഷിക്കും, കാരണം നിങ്ങൾ എഴുതി ചോദിച്ചിരുന്നു.
+TIP: ഏറ്റവും പ്രധാനം "Need from you" എന്ന വരിയാണ്. Client-ന്റെ ഭാഗത്തെ delay കാരണം project വൈകിയാൽ, ഈ വരി നിങ്ങളെ രക്ഷിക്കും. കാരണം, നിങ്ങൾ അത് എഴുതി ചോദിച്ചിരുന്നു!
 
 ## 9.5 One-page proposal outline | ഒരു പേജ് പ്രൊപ്പോസൽ
 
-ഒരു പുതിയ tool, ഒരു architecture മാറ്റം, അല്ലെങ്കിൽ ഒരു client project. തീരുമാനമെടുക്കുന്ന ആൾക്ക് ഒരു പേജിൽ കൂടുതൽ വായിക്കാൻ സമയമില്ല. ഒരു പേജിൽ ഒതുക്കാൻ കഴിയുന്നില്ലെങ്കിൽ, നിങ്ങൾക്ക് തന്നെ ആശയം ഇതുവരെ വ്യക്തമായിട്ടില്ല എന്നാണ് അർത്ഥം.
+ഒരു പുതിയ tool, ഒരു architecture മാറ്റം, അല്ലെങ്കിൽ ഒരു client project. തീരുമാനമെടുക്കുന്ന ആൾക്ക് ഒരു പേജിൽ കൂടുതൽ വായിക്കാൻ സമയമില്ല. ഒരു പേജിൽ ഒതുക്കാൻ പറ്റുന്നില്ലെങ്കിലോ? അതിനർത്ഥം, ആശയം നിങ്ങൾക്ക് തന്നെ ഇതുവരെ വ്യക്തമായിട്ടില്ല എന്നാണ്.
 
 | Section | What to write | Length |
 | Problem | ഇപ്പോഴത്തെ പ്രശ്നം, നമ്പറുകളോടെ. | 2 to 3 lines |
@@ -186,28 +186,28 @@ EN: Proposal: an LLM classifies each ticket and drafts a reply. A human approves
 EN: Success measure: response time under 2 hours, with classification accuracy above 90 percent.
 EN: Decision needed: a go or no-go from the support lead by May 10.
 
-"Options considered" എന്ന ഭാഗം ഒഴിവാക്കരുത്. നിങ്ങൾ മറ്റ് വഴികളും ചിന്തിച്ചു എന്ന് കാണിക്കുന്നത് senior engineer-ന്റെ ലക്ഷണമാണ്. "We could also buy a ready-made tool, but it doesn't support our on-prem setup" എന്ന ഒരു വരി മതി.
+"Options considered" എന്ന ഭാഗം ഒഴിവാക്കരുത്. നിങ്ങൾ മറ്റ് വഴികളും ആലോചിച്ചു എന്ന് കാണിക്കുന്നത്, ഒരു senior engineer-ന്റെ ലക്ഷണമാണ്. "We could also buy a ready-made tool, but it doesn't support our on-prem setup" എന്ന ഒരു വരി മതി.
 
 ## 9.6 LinkedIn post | ലിങ്ക്ഡ്ഇൻ പോസ്റ്റ്
 
-രണ്ടാഴ്ചയിൽ ഒരിക്കൽ ഒരു post. ലക്ഷ്യം പ്രശസ്തിയല്ല. Recruiters-ഉം clients-ഉം നിങ്ങളുടെ profile നോക്കുമ്പോൾ, നിങ്ങൾ യഥാർത്ഥ പ്രശ്നങ്ങൾ പരിഹരിക്കുന്ന ആളാണ് എന്ന് കാണണം.
+രണ്ടാഴ്ചയിൽ ഒരിക്കൽ ഒരു post. ലക്ഷ്യം പ്രശസ്തിയല്ല, കേട്ടോ. Recruiters-ഉം clients-ഉം നിങ്ങളുടെ profile നോക്കുമ്പോൾ ഒരു കാര്യം കാണണം: നിങ്ങൾ യഥാർത്ഥ പ്രശ്നങ്ങൾ പരിഹരിക്കുന്ന ആളാണ്.
 
 ### The formula | ഫോർമുല
 
-Hook, Problem, What you did, Result, Lesson, Question. 120 മുതൽ 200 വാക്കുകൾ വരെ.
+Hook, Problem, What you did, Result, Lesson, Question. 120 മുതൽ 200 വാക്കുകൾ വരെ മതി.
 
-- Hook: ആദ്യ വരിയാണ് എല്ലാം. "See more" എന്ന് click ചെയ്യുന്നതിന് മുമ്പ് ആളുകൾ കാണുന്നത് ഇത് മാത്രമാണ്. ഒരു ആശ്ചര്യപ്പെടുത്തുന്ന ഫലം അല്ലെങ്കിൽ ഒരു വിപരീത അഭിപ്രായം.
-- Problem: രണ്ട് വരി. എന്തായിരുന്നു ബുദ്ധിമുട്ട്.
-- What you did: പ്രത്യേക വിശദാംശങ്ങൾ. "We used AI" എന്നല്ല, എന്ത് technique.
+- Hook: ആദ്യ വരിയാണ് എല്ലാം! "See more" എന്ന് click ചെയ്യുന്നതിന് മുമ്പ് ആളുകൾ കാണുന്നത് ഇത് മാത്രമാണ്. ഒരു ആശ്ചര്യപ്പെടുത്തുന്ന ഫലം, അല്ലെങ്കിൽ ഒരു വിപരീത അഭിപ്രായം.
+- Problem: രണ്ട് വരി. എന്തായിരുന്നു ബുദ്ധിമുട്ട്?
+- What you did: കൃത്യമായ വിശദാംശങ്ങൾ. "We used AI" എന്നല്ല, ഏത് technique?
 - Result: ഒരു നമ്പർ.
-- Lesson: മറ്റുള്ളവർക്ക് ഉപയോഗപ്പെടുന്ന ഒരു വാചകം.
-- Question: comments ക്ഷണിക്കാൻ.
+- Lesson: മറ്റുള്ളവർക്ക് ഉപകാരപ്പെടുന്ന ഒരു വാചകം.
+- Question: comments ക്ഷണിക്കാൻ ഒരു ചോദ്യം.
 
 ### Before | മോശം രൂപം
 
 EN: I am very happy and excited to share that I have successfully completed a project on LLM agents. Thanks to my team and my manager for their support. Hashtag AI, hashtag LLM, hashtag blessed.
 
-ഇതിൽ ഒരു വിവരവും ഇല്ല. വായിക്കുന്നയാൾക്ക് ഒന്നും പഠിക്കാനില്ല.
+ഇതിൽ ഒരു വിവരവും ഇല്ല. വായിക്കുന്നയാൾക്ക് ഒന്നും പഠിക്കാനുമില്ല.
 
 ### After | നല്ല രൂപം
 
@@ -218,14 +218,14 @@ EN: Result: each deployment went from a GPU cluster to a single node.
 EN: Lesson: before you buy a bigger model, check how much work you're asking the prompt to do.
 EN: How are you handling tool calling on small models?
 
-WARN: Client-ന്റെ പേര്, രഹസ്യ നമ്പറുകൾ, internal screenshots എന്നിവ ഒരിക്കലും post ചെയ്യരുത്. "A client in healthcare" അല്ലെങ്കിൽ "an on-prem RAG platform" എന്ന് മതി. സംശയമുണ്ടെങ്കിൽ manager-നോട് ചോദിക്കുക.
+WARN: Client-ന്റെ പേര്, രഹസ്യ നമ്പറുകൾ, internal screenshots, ഇവയൊന്നും ഒരിക്കലും post ചെയ്യരുത്. "A client in healthcare" അല്ലെങ്കിൽ "an on-prem RAG platform" എന്ന് പറഞ്ഞാൽ മതി. സംശയമുണ്ടെങ്കിൽ manager-നോട് ചോദിക്കുക.
 
-TIP: "I am happy to share", "Thrilled to announce" എന്നിവയ്ക്ക് പകരം നേരിട്ട് ഫലം കൊണ്ട് തുടങ്ങുക. ആദ്യ വാക്കുകൾ തന്നെയാണ് hook.
+TIP: "I am happy to share", "Thrilled to announce" എന്നൊന്നും വേണ്ട. നേരെ ഫലം കൊണ്ട് തുടങ്ങുക. ആദ്യ വാക്കുകൾ തന്നെയാണ് hook.
 
 DRILL: 9 | Rewrite three messages
-ഈ ആഴ്ച നിങ്ങൾ അയച്ച മൂന്ന് യഥാർത്ഥ messages എടുക്കുക: ഒരു email, ഒരു Slack message, ഒരു PR description. ഓരോന്നും ഈ അധ്യായത്തിലെ ഘടനയിൽ മാറ്റി എഴുതുക.
-- ആദ്യ വരിയിൽ ആവശ്യം അല്ലെങ്കിൽ വാർത്ത ഉണ്ടോ?
-- കുറഞ്ഞത് ഒരു നമ്പർ അല്ലെങ്കിൽ തീയതി ഉണ്ടോ?
+ഇനി ഈ ആഴ്ച നിങ്ങൾ അയച്ച മൂന്ന് യഥാർത്ഥ messages എടുക്കൂ: ഒരു email, ഒരു Slack message, ഒരു PR description. ഓരോന്നും ഈ അധ്യായത്തിലെ ഘടനയിൽ മാറ്റി എഴുതുക.
+- ആദ്യ വരിയിൽ ആവശ്യം, അല്ലെങ്കിൽ വാർത്ത ഉണ്ടോ?
+- കുറഞ്ഞത് ഒരു നമ്പർ, അല്ലെങ്കിൽ തീയതി ഉണ്ടോ?
 - അവസാനം ഒരു next step ഉണ്ടോ?
 - "Kindly", "revert", "do the needful" ഒഴിവാക്കിയോ?
 EN: Before I send this, does the first line tell them what I need?

@@ -1,36 +1,36 @@
 # 15 | The 90-day plan | 12 ആഴ്ച, ആഴ്ചതോറും ഒരു ലക്ഷ്യം
-SUMMARY: ഈ പുസ്തകത്തിലെ എല്ലാ അധ്യായങ്ങളും ഒരു 12 ആഴ്ച പ്ലാനിൽ ചേർത്തിരിക്കുന്നു. ഓരോ ആഴ്ചയും എന്ത് ചെയ്യണം, എന്തുകൊണ്ട്, "ചെയ്തു കഴിഞ്ഞു" എന്ന് എങ്ങനെ അറിയാം എന്നിവ ഇവിടെയുണ്ട്, ഒപ്പം Forward Deployed Engineer ആകാൻ ആഗ്രഹിക്കുന്നവർക്കുള്ള ഒരു optional FDE track-ഉം.
+SUMMARY: ഈ പുസ്തകത്തിലെ എല്ലാ അധ്യായങ്ങളും നമ്മൾ ഇവിടെ ഒരു 12 ആഴ്ച പ്ലാനിൽ ചേർക്കുകയാണ്. ഓരോ ആഴ്ചയും എന്ത് ചെയ്യണം? എന്തുകൊണ്ട്? "ചെയ്തു കഴിഞ്ഞു" എന്ന് എങ്ങനെ അറിയാം? എല്ലാം ഇവിടെയുണ്ട്. ഒപ്പം Forward Deployed Engineer ആകാൻ ആഗ്രഹിക്കുന്നവർക്ക് ഒരു optional FDE track-ഉം.
 
-NOTE: Chapter 13-ലെ agent engineering 12 ആഴ്ച പ്ലാനും Chapter 14-ലെ healthcare 90 ദിവസ പ്ലാനും ഈ പ്ലാനിനൊപ്പം ഒരു track ആയി ചേർക്കാം. ഒരു സമയം ഒരു track മാത്രം തിരഞ്ഞെടുക്കുക.
+NOTE: Chapter 13-ലെ agent engineering 12 ആഴ്ച പ്ലാൻ, Chapter 14-ലെ healthcare 90 ദിവസ പ്ലാൻ, ഇവ രണ്ടും ഈ പ്ലാനിനൊപ്പം ഒരു track ആയി ചേർക്കാം. പക്ഷേ ഒരു സമയം ഒരു track മാത്രം തിരഞ്ഞെടുക്കുക.
 
 ## 15.1 How the plan works | പ്ലാൻ എങ്ങനെ പ്രവർത്തിക്കുന്നു
 
-ഒരു പുസ്തകം വായിച്ചതുകൊണ്ട് മാത്രം ഉച്ചാരണം മാറില്ല. ശമ്പളവും മാറില്ല. മാറ്റം വരുന്നത് ദിവസവുമുള്ള ചെറിയ പരിശീലനത്തിൽ നിന്നാണ്. അതുകൊണ്ട് ഈ അധ്യായം ഒരു timetable ആണ്. ഓരോ ആഴ്ചയ്ക്കും ഒരു English focus, ഒരു Tech focus, ഞായറാഴ്ചയ്ക്കുള്ളിൽ ഉണ്ടാകേണ്ട ഒരു output.
+ഒരു പുസ്തകം വായിച്ചതുകൊണ്ട് മാത്രം ഉച്ചാരണം മാറുമോ? ഇല്ല. ശമ്പളവും മാറില്ല. മാറ്റം വരുന്നത് ദിവസവുമുള്ള ചെറിയ പരിശീലനത്തിൽ നിന്നാണ്. അതുകൊണ്ട് ഈ അധ്യായം ഒരു timetable ആണ്. ഓരോ ആഴ്ചയ്ക്കും ഒരു English focus, ഒരു Tech focus, പിന്നെ ഞായറാഴ്ചയ്ക്കുള്ളിൽ ഉണ്ടാകേണ്ട ഒരു output.
 
 ### Every day | ദിവസവും
 
-- **45 മിനിറ്റ് English.** Chapter 1-ലെ routine. Shadowing, sound drill, read aloud, record yourself, 5 phrases.
-- **60 മുതൽ 90 മിനിറ്റ് വരെ Tech.** DSA, system design, cloud, demo projects. ആ ആഴ്ചയുടെ focus അനുസരിച്ച്.
-- **ആഴ്ചയിൽ ഒരു ദിവസം വിശ്രമം.** വിശ്രമം പ്ലാനിന്റെ ഭാഗമാണ്. ക്ഷീണിച്ച തലച്ചോർ പഠിച്ചത് ഓർത്തുവെക്കില്ല.
+- **45 മിനിറ്റ് English.** Chapter 1-ലെ അതേ routine. Shadowing, sound drill, read aloud, record yourself, 5 phrases.
+- **60 മുതൽ 90 മിനിറ്റ് വരെ Tech.** DSA, system design, cloud, demo projects. ഏതാണെന്നത് ആ ആഴ്ചയുടെ focus അനുസരിച്ച്.
+- **ആഴ്ചയിൽ ഒരു ദിവസം വിശ്രമം.** വിശ്രമവും പ്ലാനിന്റെ ഭാഗമാണ്! ക്ഷീണിച്ച തലച്ചോർ പഠിച്ചത് ഓർത്തുവെക്കില്ല.
 
-ജോലി ഭാരം കൂടിയ ആഴ്ചകൾ വരും. Release, incident, client visit. അപ്പോൾ English-ന്റെ 20 മിനിറ്റ് മാത്രം ചെയ്യുക. Tech മാറ്റിവെക്കാം. പക്ഷേ ശീലം മുറിയരുത്. ഒരു ദിവസം മുടങ്ങിയാൽ കുഴപ്പമില്ല. രണ്ട് ദിവസം തുടർച്ചയായി മുടങ്ങാതിരിക്കുക. ഇതാണ് "never miss twice" നിയമം.
+ജോലി ഭാരം കൂടിയ ആഴ്ചകൾ വരും. Release, incident, client visit. അപ്പോൾ എന്ത് ചെയ്യും? English-ന്റെ 20 മിനിറ്റ് മാത്രം ചെയ്യുക. Tech മാറ്റിവെക്കാം. പക്ഷേ ശീലം മുറിയരുത്. ഒരു ദിവസം മുടങ്ങിയാൽ കുഴപ്പമില്ല. രണ്ട് ദിവസം തുടർച്ചയായി മുടങ്ങരുത്, അത്രമാത്രം. ഇതാണ് "never miss twice" നിയമം.
 
-TIP: രാവിലെ ജോലിക്ക് മുൻപ് English ചെയ്യുക. രാത്രി Tech ചെയ്യുക. English-ന് ശബ്ദം പുറത്തേക്ക് വേണം, Tech-ന് ശാന്തത വേണം. രണ്ടിനും വ്യത്യസ്ത സമയം നല്ലതാണ്.
+TIP: രാവിലെ ജോലിക്ക് മുൻപ് English, രാത്രി Tech. എന്തുകൊണ്ട്? English-ന് ശബ്ദം പുറത്തേക്ക് വേണം, Tech-ന് ശാന്തത വേണം. അതുകൊണ്ട് രണ്ടിനും വ്യത്യസ്ത സമയം ആണ് നല്ലത്.
 
 ### Three phases | മൂന്ന് ഘട്ടങ്ങൾ
 
-12 ആഴ്ചകളെ മൂന്ന് ഘട്ടങ്ങളായി കാണുക. ഓരോ ഘട്ടത്തിനും ഒരു വ്യക്തമായ ലക്ഷ്യമുണ്ട്.
+12 ആഴ്ചകളെ മൂന്ന് ഘട്ടങ്ങളായി കാണാം. ഓരോ ഘട്ടത്തിനും ഒരു വ്യക്തമായ ലക്ഷ്യമുണ്ട്.
 
 | Phase | Weeks | Goal |
 | Foundation | 1 to 4 | Fix the biggest sounds. Build the daily habit. Start DSA. Tell your story in 60 seconds |
 | Build | 5 to 8 | Rhythm and intonation. Evals and AWS. Mock interview. A public presence |
 | Show | 9 to 12 | Demo, negotiation, proposals and applications. Measure the change with the Day 90 recording |
 
-ആദ്യ ഘട്ടത്തിൽ നിങ്ങൾക്ക് പുരോഗതി അധികം തോന്നില്ല. അത് സ്വാഭാവികമാണ്. അടിത്തറ കാണാൻ കഴിയില്ല, പക്ഷേ അതില്ലാതെ കെട്ടിടം നിൽക്കില്ല. രണ്ടാം ഘട്ടത്തിൽ മറ്റുള്ളവർ മാറ്റം ശ്രദ്ധിക്കാൻ തുടങ്ങും. മൂന്നാം ഘട്ടത്തിൽ ആ മാറ്റം interviews, proposals, offers എന്നിവയായി മാറും.
+ആദ്യ ഘട്ടത്തിൽ നിങ്ങൾക്ക് പുരോഗതി അധികം തോന്നില്ല. അത് സ്വാഭാവികമാണ്, വിഷമിക്കേണ്ട. അടിത്തറ ആരും കാണില്ല, പക്ഷേ അതില്ലാതെ കെട്ടിടം നിൽക്കില്ല. രണ്ടാം ഘട്ടത്തിൽ മറ്റുള്ളവർ മാറ്റം ശ്രദ്ധിക്കാൻ തുടങ്ങും. മൂന്നാം ഘട്ടത്തിലോ? ആ മാറ്റം interviews, proposals, offers ആയി മാറും!
 
 ### The optional FDE track | FDE track
 
-Chapter 12-ൽ പറഞ്ഞ Forward Deployed Engineer റോൾ ലക്ഷ്യമിടുന്നവർക്ക്, ഓരോ ആഴ്ചയിലും ഒരു ചെറിയ FDE task കൂടി ചേർത്തിട്ടുണ്ട്. ആഴ്ചയിൽ ഏകദേശം 2 മുതൽ 3 മണിക്കൂർ അധികം. ഇത് optional ആണ്. നിങ്ങൾ സാധാരണ AI engineer, backend റോളുകൾ മാത്രമാണ് ലക്ഷ്യമിടുന്നതെങ്കിൽ ഇത് ഒഴിവാക്കാം. പക്ഷേ FDE track-ലെ English കഴിവുകൾ, അതായത് discovery questions, demo narration, written updates, ഏത് റോളിലും ഉപകാരപ്പെടും.
+Chapter 12-ൽ പറഞ്ഞ Forward Deployed Engineer റോൾ ആണോ നിങ്ങളുടെ ലക്ഷ്യം? എങ്കിൽ ഓരോ ആഴ്ചയിലും ഒരു ചെറിയ FDE task കൂടി ചേർത്തിട്ടുണ്ട്. ആഴ്ചയിൽ ഏകദേശം 2 മുതൽ 3 മണിക്കൂർ അധികം. ഇത് optional ആണ്. സാധാരണ AI engineer, backend റോളുകൾ മാത്രമാണ് ലക്ഷ്യമെങ്കിൽ ഇത് ഒഴിവാക്കാം. പക്ഷേ FDE track-ലെ English കഴിവുകൾ, അതായത് discovery questions, demo narration, written updates, ഏത് റോളിലും ഉപകാരപ്പെടും.
 
 ## 15.2 The plan at a glance | ഒറ്റനോട്ടത്തിൽ
 
@@ -48,78 +48,78 @@ Chapter 12-ൽ പറഞ്ഞ Forward Deployed Engineer റോൾ ലക്ഷ�
 | 11 | Freelance proposal. Discovery call role-play | DSA: DP basics. Design 4: Arabic voice agent | Customer role-play and a written deployment update | Three proposals or three applications sent |
 | 12 | Day 90 recording. Compare with Day 1 | AWS exam. Design 5: eval pipeline | FDE mock loop and targeted applications | Updated CV and LinkedIn with cert and demo |
 
-താഴെ ഓരോ ആഴ്ചയും വിശദമായി. ഓരോ ആഴ്ചയ്ക്കും "Why this week" എന്നത് ആ focus എന്തുകൊണ്ട് ആ സമയത്ത് എന്ന് വിശദീകരിക്കുന്നു. "Done looks like" എന്നത് ആഴ്ച പൂർത്തിയായി എന്ന് എങ്ങനെ ഉറപ്പിക്കാം എന്ന് പറയുന്നു.
+ഇനി ഓരോ ആഴ്ചയും വിശദമായി നോക്കാം. "Why this week" എന്ന ഭാഗം പറയും, ആ focus എന്തുകൊണ്ട് ആ സമയത്ത് വരുന്നു എന്ന്. "Done looks like" പറയും, ആഴ്ച പൂർത്തിയായി എന്ന് എങ്ങനെ ഉറപ്പിക്കാം എന്ന്.
 
 ## 15.3 Phase 1: Foundation, weeks 1 to 4 | അടിത്തറ
 
 ### Week 1: Baseline, V and W, thought groups
 
-**Why this week.** എവിടെ നിന്ന് തുടങ്ങുന്നു എന്നറിയാതെ പുരോഗതി അളക്കാൻ കഴിയില്ല. അതുകൊണ്ട് ആദ്യം Day 1 recording. V, W ആദ്യം വരുന്നത് മലയാളികൾക്ക് ഏറ്റവും സാധാരണമായ തെറ്റായതുകൊണ്ടാണ്. "we", "very", "work", "version" എന്നിവ ദിവസവും നൂറ് തവണ പറയുന്ന വാക്കുകളാണ്. Thought groups എന്നാൽ ആശയങ്ങൾക്കിടയിൽ pause ചെയ്യുന്നത്. ഇത് ഉടനെ clarity കൂട്ടുന്ന ഏറ്റവും എളുപ്പമുള്ള മാറ്റമാണ്.
+**Why this week.** എവിടെ നിന്ന് തുടങ്ങുന്നു എന്നറിയാതെ പുരോഗതി അളക്കാൻ പറ്റുമോ? ഇല്ല. അതുകൊണ്ട് ആദ്യം Day 1 recording. ഇനി, V, W ആദ്യം വരുന്നത് എന്തിന്? മലയാളികൾക്ക് ഏറ്റവും സാധാരണമായ തെറ്റ് ഇതാണ്. "we", "very", "work", "version", ഇവ ദിവസവും നൂറ് തവണ പറയുന്ന വാക്കുകളാണ്. Thought groups എന്നാൽ ആശയങ്ങൾക്കിടയിൽ pause ചെയ്യുന്നത്. Clarity ഉടനെ കൂട്ടുന്ന ഏറ്റവും എളുപ്പമുള്ള മാറ്റമാണ് ഇത്.
 
-**Tech.** DSA തുടങ്ങുന്നത് arrays, hashing എന്നിവയിൽ നിന്നാണ്. ഇവ ഏറ്റവും കൂടുതൽ ചോദിക്കപ്പെടുന്നതും മറ്റ് patterns-ന്റെ അടിസ്ഥാനവുമാണ്. ആദ്യ ആഴ്ച എളുപ്പമുള്ള problems ചെയ്ത് ആത്മവിശ്വാസം ഉണ്ടാക്കുക.
+**Tech.** DSA തുടങ്ങുന്നത് arrays, hashing എന്നിവയിൽ നിന്നാണ്. എന്തുകൊണ്ട്? ഇവയാണ് ഏറ്റവും കൂടുതൽ ചോദിക്കപ്പെടുന്നത്, മറ്റ് patterns-ന്റെ അടിസ്ഥാനവും ഇവ തന്നെ. ആദ്യ ആഴ്ച എളുപ്പമുള്ള problems ചെയ്ത് ആത്മവിശ്വാസം ഉണ്ടാക്കൂ.
 
-**FDE track.** അഞ്ച് FDE അല്ലെങ്കിൽ Applied AI Engineer job posts വായിക്കുക. എല്ലാറ്റിലും വരുന്ന skills ഒരു പട്ടികയാക്കുക. നിങ്ങൾക്കുള്ളതിന് tick ഇടുക.
+**FDE track.** അഞ്ച് FDE അല്ലെങ്കിൽ Applied AI Engineer job posts വായിക്കുക. എല്ലാറ്റിലും വരുന്ന skills ഒരു പട്ടികയാക്കുക. എന്നിട്ട് നിങ്ങൾക്കുള്ളതിന് tick ഇടുക.
 
 **Done looks like.**
 - Day 1 recordings മൂന്നും save ചെയ്തു. Tell me about yourself, read-aloud sentence, best project explanation.
 - 10 DSA problems ചെയ്തു, ഓരോന്നും ഉറക്കെ ചിന്തിച്ചുകൊണ്ട്.
-- ഈ വാചകം V, W ശരിയാക്കി, pauses സഹിതം പറയാൻ കഴിയുന്നു.
+- ഈ വാചകം V, W ശരിയാക്കി, pauses സഹിതം പറയാൻ നിങ്ങൾക്ക് കഴിയുന്നു.
 
 EN: We validated the workflow / with version two / of the vector service.
 
 ### Week 2: F, Z and word stress
 
-**Why this week.** F, Z എന്നിവ V, W-യുടെ അടുത്ത ബന്ധുക്കളാണ്. ചുണ്ടും പല്ലും ഉപയോഗിക്കുന്ന അതേ രീതി. അതുകൊണ്ട് ഒന്നാം ആഴ്ചയ്ക്ക് ശേഷം ഇത് എളുപ്പമാണ്. Word stress (Chapter 3.1) ഈ ആഴ്ച വരുന്നത് tech words തെറ്റായി stress ചെയ്യുന്നത് മലയാളികളുടെ ഏറ്റവും വലിയ "മനസ്സിലാകായ്മ" കാരണം ആയതുകൊണ്ടാണ്. {de-VEL-op-ment}, {AN-a-lyse}, {ar-CHI-tec-ture} എന്നിവ ഉദാഹരണം.
+**Why this week.** F, Z എന്നിവ V, W-യുടെ അടുത്ത ബന്ധുക്കളാണ്. ചുണ്ടും പല്ലും ഉപയോഗിക്കുന്ന അതേ രീതി. അതുകൊണ്ട് ഒന്നാം ആഴ്ച കഴിഞ്ഞാൽ ഇത് എളുപ്പമാണ്. Word stress (Chapter 3.1) ഈ ആഴ്ച തന്നെ വരുന്നത് എന്തുകൊണ്ട്? Tech words തെറ്റായി stress ചെയ്യുന്നതാണ് മലയാളികളെ മനസ്സിലാകാതെ പോകുന്നതിന്റെ ഏറ്റവും വലിയ കാരണം. ഉദാഹരണത്തിന്, {de-VEL-op-ment}, {AN-a-lyse}, {ar-CHI-tec-ture}.
 
-**Tech.** Two pointers, sliding window. Arrays-ന്റെ നേരിട്ടുള്ള തുടർച്ച. Interviews-ൽ വളരെ സാധാരണം.
+**Tech.** Two pointers, sliding window. Arrays-ന്റെ നേരിട്ടുള്ള തുടർച്ചയാണ്. Interviews-ൽ വളരെ സാധാരണവും.
 
 **FDE track.** നിങ്ങളുടെ one-line pitch എഴുതുക. Chapter 12.9-ലെ ഉദാഹരണം ഉപയോഗിക്കാം.
 
 **Done looks like.**
-- "Tell me about yourself" 60 സെക്കൻഡിനുള്ളിൽ, കടലാസ് നോക്കാതെ, മൂന്ന് തവണ ഒരേ ഗുണനിലവാരത്തിൽ.
+- "Tell me about yourself" 60 സെക്കൻഡിനുള്ളിൽ പറയുന്നു. കടലാസ് നോക്കാതെ, മൂന്ന് തവണ, ഒരേ ഗുണനിലവാരത്തിൽ.
 - ആ ഉത്തരത്തിലെ എല്ലാ tech words-ന്റെയും stress പരിശോധിച്ചു.
 - 10 പുതിയ DSA problems. ആകെ 20.
 
 ### Week 3: TH, schwa and Indian English
 
-**Why this week.** TH ബുദ്ധിമുട്ടുള്ള sound ആണ്. അതുകൊണ്ട് ആദ്യ രണ്ട് ആഴ്ചകൾക്ക് ശേഷം, വായ് പുതിയ positions-ന് ശീലിച്ച ശേഷം. Schwa എന്നാൽ stress ഇല്ലാത്ത syllables-ലെ ചെറിയ "അ" ശബ്ദം. ഇത് ഇംഗ്ലീഷിന്റെ താളത്തിന്റെ രഹസ്യമാണ്. Indian English list (Chapter 5) ഈ ആഴ്ച വരുന്നത് നിങ്ങളുടെ STAR story എഴുതുന്ന ആഴ്ചയായതുകൊണ്ടാണ്. "Do the needful", "revert back" പോലുള്ളവ കഥയിൽ നിന്ന് ഒഴിവാക്കാം.
+**Why this week.** TH ബുദ്ധിമുട്ടുള്ള sound ആണ്. അതുകൊണ്ടാണ് ആദ്യ രണ്ട് ആഴ്ചകൾക്ക് ശേഷം, വായ് പുതിയ positions-ന് ശീലിച്ച ശേഷം, ഇത് വരുന്നത്. Schwa എന്നാൽ stress ഇല്ലാത്ത syllables-ലെ ചെറിയ "അ" ശബ്ദം. ഇംഗ്ലീഷിന്റെ താളത്തിന്റെ രഹസ്യം ഇതാണ്! Indian English list (Chapter 5) ഈ ആഴ്ച വരാൻ കാരണം, നിങ്ങൾ STAR story എഴുതുന്നത് ഈ ആഴ്ചയാണ്. അപ്പോൾ "Do the needful", "revert back" പോലുള്ളവ കഥയിൽ നിന്ന് ഒഴിവാക്കാം.
 
-**Tech.** Stack, binary search. ചെറിയ code, പക്ഷേ edge cases ഒരുപാട്. ഉറക്കെ test cases പറയാൻ നല്ല പരിശീലനം.
+**Tech.** Stack, binary search. Code ചെറുതാണ്, പക്ഷേ edge cases ഒരുപാടുണ്ട്. ഉറക്കെ test cases പറയാൻ നല്ല പരിശീലനമാണ്.
 
-**FDE track.** മൂന്ന് പ്രോജക്റ്റുകൾ FDE stories ആക്കി എഴുതുക. Chapter 12-ലെ Drill 12.1.
+**FDE track.** മൂന്ന് പ്രോജക്റ്റുകൾ FDE stories ആക്കി എഴുതുക. Chapter 12-ലെ Drill 12.1 നോക്കൂ.
 
 **Done looks like.**
-- നിങ്ങളുടെ ഏറ്റവും നല്ല പ്രോജക്റ്റിന്റെ STAR story റെക്കോർഡ് ചെയ്തു. ഉദാഹരണം: ഒരു speech-AI product. 90 സെക്കൻഡിനുള്ളിൽ, ഒരു number സഹിതം.
-- Story-യിൽ Indian English expressions ഇല്ല.
-- 30 DSA problems ആകെ.
+- നിങ്ങളുടെ ഏറ്റവും നല്ല പ്രോജക്റ്റിന്റെ STAR story റെക്കോർഡ് ചെയ്തു. ഉദാഹരണത്തിന്, ഒരു speech-AI product. 90 സെക്കൻഡിനുള്ളിൽ, ഒരു number സഹിതം.
+- Story-യിൽ Indian English expressions ഒന്നും ഇല്ല.
+- ആകെ 30 DSA problems.
 
 ### Week 4: Sentence stress, linking, Day 30
 
-**Why this week.** ഇതുവരെ ഒറ്റ sounds, ഒറ്റ വാക്കുകൾ. ഇനി വാചകങ്ങളുടെ താളം. Sentence stress എന്നാൽ പ്രധാന വാക്കുകൾ, അതായത് numbers, nouns, verbs, ശക്തമാക്കി പറയുക. Linking എന്നാൽ വാക്കുകൾ ഒഴുക്കോടെ ചേർക്കുക. ഇത് നിങ്ങളെ "വായിക്കുന്നു" എന്ന് തോന്നിക്കാതെ "സംസാരിക്കുന്നു" എന്ന് തോന്നിക്കും. Day 30 recording ആദ്യ മാസത്തിന്റെ ഫലം കാണാനുള്ളതാണ്.
+**Why this week.** ഇതുവരെ നമ്മൾ ഒറ്റ sounds, ഒറ്റ വാക്കുകൾ ആണ് നോക്കിയത്. ഇനി വാചകങ്ങളുടെ താളം. Sentence stress എന്നാൽ പ്രധാന വാക്കുകൾ ശക്തമാക്കി പറയുക, അതായത് numbers, nouns, verbs. Linking എന്നാൽ വാക്കുകൾ ഒഴുക്കോടെ ചേർക്കുക. ഇതോടെ നിങ്ങൾ "വായിക്കുന്നു" എന്നല്ല, "സംസാരിക്കുന്നു" എന്ന് തോന്നും. Day 30 recording എന്തിനാണ്? ആദ്യ മാസത്തിന്റെ ഫലം കാണാൻ.
 
-**Tech.** Trees ആണ് DSA-യിൽ. ഒപ്പം ആദ്യത്തെ LLM system design, RAG. RAG ആദ്യം വരുന്നത് അത് നിങ്ങൾക്ക് ഏറ്റവും നന്നായി അറിയാവുന്നതായതുകൊണ്ടാണ്. ആദ്യ design-ൽ ആത്മവിശ്വാസം വേണം.
+**Tech.** DSA-യിൽ ഈ ആഴ്ച trees. ഒപ്പം ആദ്യത്തെ LLM system design, RAG. RAG ആദ്യം വരുന്നത് എന്തുകൊണ്ട്? നിങ്ങൾക്ക് ഏറ്റവും നന്നായി അറിയാവുന്നത് അതാണ്. ആദ്യ design-ൽ ആത്മവിശ്വാസം വേണം.
 
-**FDE track.** Chapter 12.8-ലെ discovery questions ദിവസവും ഉറക്കെ പറയുക. ഒരു സുഹൃത്തിനോട് അവരുടെ ജോലിയിലെ ഒരു പ്രശ്നത്തെക്കുറിച്ച് 10 മിനിറ്റ് discovery ചോദ്യങ്ങൾ ചോദിക്കുക. Solution പറയരുത്, കേൾക്കുക മാത്രം.
+**FDE track.** Chapter 12.8-ലെ discovery questions ദിവസവും ഉറക്കെ പറയുക. പിന്നെ ഒരു സുഹൃത്തിനോട്, അവരുടെ ജോലിയിലെ ഒരു പ്രശ്നത്തെക്കുറിച്ച്, 10 മിനിറ്റ് discovery ചോദ്യങ്ങൾ ചോദിക്കുക. Solution പറയരുത്, കേൾക്കുക മാത്രം.
 
 **Done looks like.**
-- Day 30 recording ചെയ്ത് Day 1-മായി താരതമ്യം ചെയ്തു. മൂന്ന് മാറ്റങ്ങൾ എഴുതി വെച്ചു.
-- RAG design 15 മിനിറ്റിൽ ഉറക്കെ, ചിത്രം വരച്ചുകൊണ്ട്, റെക്കോർഡ് ചെയ്തു.
+- Day 30 recording ചെയ്തു, Day 1-മായി താരതമ്യം ചെയ്തു. മൂന്ന് മാറ്റങ്ങൾ എഴുതി വെച്ചു.
+- RAG design 15 മിനിറ്റിൽ ഉറക്കെ പറഞ്ഞു, ചിത്രം വരച്ചുകൊണ്ട്. അത് റെക്കോർഡ് ചെയ്തു.
 - ആദ്യ LinkedIn post പ്രസിദ്ധീകരിച്ചു. നിങ്ങൾ പഠിച്ച ഒരു കാര്യം, അല്ലെങ്കിൽ ഒരു project-ലെ ഒരു പാഠം.
 
-NOTE: ആദ്യ LinkedIn post എല്ലാവർക്കും പേടിയാണ്. Perfect ആകേണ്ടതില്ല. 120 വാക്കുകൾ, ഒരു പാഠം, ഒരു ചോദ്യം. അത്ര മതി. Chapter 9-ലെ format ഉപയോഗിക്കുക.
+NOTE: ആദ്യ LinkedIn post എല്ലാവർക്കും പേടിയാണ്. പക്ഷേ perfect ആകേണ്ടതില്ല. 120 വാക്കുകൾ, ഒരു പാഠം, ഒരു ചോദ്യം. അത്ര മതി! Chapter 9-ലെ format ഉപയോഗിക്കുക.
 
 ## 15.4 Phase 2: Build, weeks 5 to 8 | നിർമ്മാണം
 
 ### Week 5: Vowels and stand-up phrases
 
-**Why this week.** Ship, sheep, cat എന്നിവ പോലുള്ള vowels ആദ്യം വരാത്തതിന് കാരണം, consonants-നേക്കാൾ ഇവ അർത്ഥത്തെ കുറച്ചേ ബാധിക്കൂ എന്നതാണ്. പക്ഷേ ഇപ്പോൾ അടിത്തറ ശരിയായതുകൊണ്ട് polish ചെയ്യാം. Stand-up phrases ഈ ആഴ്ച വരുന്നത്, ദിവസവുമുള്ള meetings-ൽ ഉടനെ ഉപയോഗിക്കാൻ കഴിയുന്നതുകൊണ്ടാണ്. പഠിച്ചത് അടുത്ത ദിവസം തന്നെ ജോലിയിൽ ഉപയോഗിക്കുമ്പോൾ ഓർമ്മ ഉറയ്ക്കും.
+**Why this week.** Ship, sheep, cat പോലുള്ള vowels എന്തുകൊണ്ട് ആദ്യം വന്നില്ല? കാരണം consonants-നേക്കാൾ കുറച്ചേ ഇവ അർത്ഥത്തെ ബാധിക്കൂ. പക്ഷേ ഇപ്പോൾ അടിത്തറ ശരിയായി, അതുകൊണ്ട് polish ചെയ്യാം. Stand-up phrases ഈ ആഴ്ച വരുന്നത്, ദിവസവുമുള്ള meetings-ൽ ഉടനെ ഉപയോഗിക്കാൻ പറ്റുന്നതുകൊണ്ടാണ്. പഠിച്ചത് അടുത്ത ദിവസം തന്നെ ജോലിയിൽ ഉപയോഗിച്ചാൽ ഓർമ്മ ഉറയ്ക്കും.
 
-**Tech.** Graphs, പിന്നെ evals basics. Evals ഇവിടെ വരുന്നത് 2026-ൽ ഏറ്റവും ആവശ്യമുള്ളതും കുറവുള്ളതുമായ skill ആയതുകൊണ്ടാണ്. Demo ഉണ്ടാക്കുന്നവർ ധാരാളം. Ship ചെയ്യാമെന്ന് തെളിയിക്കുന്നവർ കുറവ്.
+**Tech.** Graphs, പിന്നെ evals basics. Evals ഇവിടെ വരുന്നത് എന്തിന്? 2026-ൽ ഏറ്റവും ആവശ്യമുള്ളതും, ഏറ്റവും കുറച്ച് പേർക്ക് മാത്രം ഉള്ളതുമായ skill ആണ് ഇത്. Demo ഉണ്ടാക്കുന്നവർ ധാരാളം. Ship ചെയ്യാമെന്ന് തെളിയിക്കുന്നവർ കുറവ്.
 
-**FDE track.** ഒരു customer-style demo project തിരഞ്ഞെടുക്കുക. ഒരു സാങ്കൽപ്പിക കസ്റ്റമർ, ഒരു യഥാർത്ഥ തരം പ്രശ്നം. ഉദാഹരണം: ഒരു clinic-ന്റെ front desk FAQ, ഒരു logistics കമ്പനിയുടെ invoices. ഒരു one-page scope എഴുതുക. Problem, users, success metric, out of scope, risks.
+**FDE track.** ഒരു customer-style demo project തിരഞ്ഞെടുക്കുക. ഒരു സാങ്കൽപ്പിക കസ്റ്റമർ, ഒരു യഥാർത്ഥ തരം പ്രശ്നം. ഉദാഹരണത്തിന്, ഒരു clinic-ന്റെ front desk FAQ, അല്ലെങ്കിൽ ഒരു logistics കമ്പനിയുടെ invoices. എന്നിട്ട് ഒരു one-page scope എഴുതുക. Problem, users, success metric, out of scope, risks.
 
 **Done looks like.**
-- നിങ്ങളുടെ ഒരു repo-യിൽ ഒരു eval harness. ഒരു ചെറിയ golden dataset, ഒരു script, ഒരു score.
+- നിങ്ങളുടെ ഒരു repo-യിൽ ഒരു eval harness ഉണ്ട്. ഒരു ചെറിയ golden dataset, ഒരു script, ഒരു score.
 - അടുത്ത stand-up-ൽ ഈ ആഴ്ച പഠിച്ച രണ്ട് phrases ഉപയോഗിച്ചു.
 - FDE track: scope document തയ്യാർ.
 
@@ -127,60 +127,60 @@ EN: Yesterday I finished the retrieval tests. / Today I'm adding the eval to CI.
 
 ### Week 6: Intonation and mock interview 1
 
-**Why this week.** Intonation എന്നാൽ ശബ്ദത്തിന്റെ ഉയർച്ചയും താഴ്ചയും. ചോദ്യങ്ങൾ, lists, salary പറയുമ്പോൾ ഇത് വളരെ പ്രധാനമാണ്. Statement അവസാനം ഉയർത്തിയാൽ നിങ്ങൾ സംശയിക്കുന്നത് പോലെ തോന്നും. പ്രത്യേകിച്ച് salary number പറയുമ്പോൾ. ആദ്യ mock interview ആറാം ആഴ്ചയിൽ വരുന്നത് മതിയായ stories-ഉം sounds-ഉം ഇപ്പോൾ തയ്യാറായതുകൊണ്ടാണ്. നേരത്തെ ചെയ്താൽ ആത്മവിശ്വാസം പോകും. വൈകിയാൽ തിരുത്താൻ സമയം കിട്ടില്ല.
+**Why this week.** Intonation എന്നാൽ ശബ്ദത്തിന്റെ ഉയർച്ചയും താഴ്ചയും. ചോദ്യങ്ങൾ, lists, salary, ഇവ പറയുമ്പോൾ ഇത് വളരെ പ്രധാനമാണ്. Statement-ന്റെ അവസാനം ശബ്ദം ഉയർത്തിയാലോ? നിങ്ങൾക്ക് സംശയമുള്ളത് പോലെ തോന്നും, പ്രത്യേകിച്ച് salary number പറയുമ്പോൾ. ആദ്യ mock interview ആറാം ആഴ്ചയിൽ വരുന്നത്, ഇപ്പോൾ മതിയായ stories-ഉം sounds-ഉം തയ്യാറായതുകൊണ്ടാണ്. നേരത്തെ ചെയ്താൽ ആത്മവിശ്വാസം പോകും. വൈകിയാൽ തിരുത്താൻ സമയം കിട്ടില്ല.
 
-**Tech.** Heaps, intervals. ഒപ്പം design 2: voicemail transcription at scale, ദിവസം ഒരു ദശലക്ഷം messages. ഇത് queues, batching, cost എന്നിവ പഠിപ്പിക്കും.
+**Tech.** Heaps, intervals. ഒപ്പം design 2: voicemail transcription at scale, ദിവസം ഒരു ദശലക്ഷം messages. ഇതിൽ നിന്ന് queues, batching, cost എന്നിവ പഠിക്കാം.
 
-**FDE track.** ആദ്യത്തെ decomposition case ഉറക്കെ ചെയ്യുക. ഉദാഹരണം: "An insurance company wants to speed up claims with AI." Chapter 12.7-ലെ ക്രമം. Clarify, decompose, prioritise, plan, measure, risks.
+**FDE track.** ആദ്യത്തെ decomposition case ഉറക്കെ ചെയ്യുക. ഉദാഹരണത്തിന്: "An insurance company wants to speed up claims with AI." Chapter 12.7-ലെ ക്രമം പിന്തുടരുക. Clarify, decompose, prioritise, plan, measure, risks.
 
 **Done looks like.**
-- ഒരു സുഹൃത്തിനോടോ AI partner-നോടോ 45 മിനിറ്റ് mock interview. Recording സഹിതം.
+- ഒരു സുഹൃത്തിനോടോ AI partner-നോടോ 45 മിനിറ്റ് mock interview ചെയ്തു, recording സഹിതം.
 - Feedback മൂന്ന് പോയിന്റുകളായി എഴുതി. ഓരോന്നിനും ഒരു fix.
-- Salary sentence താഴുന്ന intonation-ൽ പറയാൻ കഴിയുന്നു.
+- Salary sentence താഴുന്ന intonation-ൽ പറയാൻ നിങ്ങൾക്ക് കഴിയുന്നു.
 
 EN: Based on the role and the market, / I'm looking for a total package / in the range we discussed.
 
 ### Week 7: Endings and incident updates
 
-**Why this week.** "-ed", "-s" endings മലയാളികൾ പലപ്പോഴും വിഴുങ്ങും. "deployed" "deploy" ആകും, "requests" "request" ആകും. ഇത് incident updates-ൽ വലിയ പ്രശ്നമാണ്, കാരണം ഭൂതകാലവും വർത്തമാനവും തെറ്റിയാൽ എന്ത് സംഭവിച്ചു, എന്ത് നടക്കുന്നു എന്ന് ആശയക്കുഴപ്പം വരും. അതുകൊണ്ട് രണ്ടും ഒരേ ആഴ്ച.
+**Why this week.** "-ed", "-s" endings മലയാളികൾ പലപ്പോഴും വിഴുങ്ങും. "deployed" "deploy" ആകും, "requests" "request" ആകും. Incident updates-ൽ ഇത് വലിയ പ്രശ്നമാണ്. എന്തുകൊണ്ട്? ഭൂതകാലവും വർത്തമാനവും തെറ്റിയാൽ, എന്ത് സംഭവിച്ചു, എന്ത് നടക്കുന്നു എന്ന് ആശയക്കുഴപ്പം വരും. അതുകൊണ്ട് രണ്ടും ഒരേ ആഴ്ച.
 
-**Tech.** AWS certification പഠനം തുടങ്ങുന്നു. Compute, storage, networking. ഇത് 7-ാം ആഴ്ചയിൽ വരുന്നത് DSA-യുടെ പ്രധാന patterns കഴിഞ്ഞതുകൊണ്ടാണ്. ഇനി DSA ആഴ്ചയിൽ കുറച്ച് problems മാത്രം, maintenance ആയി.
+**Tech.** AWS certification പഠനം ഇവിടെ തുടങ്ങുന്നു. Compute, storage, networking. 7-ാം ആഴ്ചയിൽ ഇത് വരുന്നത്, DSA-യുടെ പ്രധാന patterns കഴിഞ്ഞതുകൊണ്ടാണ്. ഇനി DSA ആഴ്ചയിൽ കുറച്ച് problems മാത്രം, maintenance ആയി.
 
-**FDE track.** Demo project പണി തുടങ്ങുക. ആദ്യ ആഴ്ച data ingestion, ഒരു basic pipeline. Data മനഃപൂർവം messy ആക്കുക. Scanned PDFs, missing fields. യഥാർത്ഥ കസ്റ്റമർ data അങ്ങനെയാണ്.
+**FDE track.** Demo project പണി തുടങ്ങാം. ആദ്യ ആഴ്ച data ingestion, ഒരു basic pipeline. Data മനഃപൂർവം messy ആക്കുക. Scanned PDFs, missing fields. എന്തിന്? യഥാർത്ഥ കസ്റ്റമർ data അങ്ങനെയാണ്.
 
 **Done looks like.**
-- AWS practice test 1 ചെയ്തു. Score നോക്കി ദുർബലമായ മൂന്ന് മേഖലകൾ എഴുതി.
-- ഒരു incident update എഴുതി ഉറക്കെ പറഞ്ഞു, എല്ലാ endings-ഉം വ്യക്തമായി.
+- AWS practice test 1 ചെയ്തു. Score നോക്കി, ദുർബലമായ മൂന്ന് മേഖലകൾ എഴുതി.
+- ഒരു incident update എഴുതി, ഉറക്കെ പറഞ്ഞു, എല്ലാ endings-ഉം വ്യക്തമായി.
 
 EN: The service failed at nine twenty. / We restarted it and moved traffic to the backup. / It's been stable since ten. / We're now checking the logs.
 
 ### Week 8: Shadowing week and Day 60
 
-**Why this week.** ഈ ആഴ്ച മുഴുവൻ ഒരു tech talk shadow ചെയ്യുക. ഇതുവരെ പഠിച്ച sounds, stress, rhythm, intonation എല്ലാം ഒരുമിച്ച് ഒരു native speaker-ന്റെ ഒപ്പം. പുതിയതൊന്നും പഠിക്കുന്നില്ല, പഠിച്ചത് ഉറപ്പിക്കുന്നു. Day 60 recording രണ്ടാം ഘട്ടത്തിന്റെ അവസാനത്തെ അളവാണ്.
+**Why this week.** ഈ ആഴ്ച മുഴുവൻ ഒരു tech talk shadow ചെയ്യുക. ഇതുവരെ പഠിച്ച sounds, stress, rhythm, intonation, എല്ലാം ഒരുമിച്ച്, ഒരു native speaker-ന്റെ ഒപ്പം. പുതിയതൊന്നും പഠിക്കുന്നില്ല, പഠിച്ചത് ഉറപ്പിക്കുകയാണ്. Day 60 recording ആണ് രണ്ടാം ഘട്ടത്തിന്റെ അവസാനത്തെ അളവ്.
 
-**Tech.** AWS security, databases. ഒപ്പം design 3: LLM gateway with routing and caching. ഇത് cost-ഉം reliability-ഉം ഒരുമിച്ച് ചിന്തിക്കാൻ പഠിപ്പിക്കും.
+**Tech.** AWS security, databases. ഒപ്പം design 3: LLM gateway with routing and caching. Cost-ഉം reliability-ഉം ഒരുമിച്ച് ചിന്തിക്കാൻ ഇത് പഠിപ്പിക്കും.
 
-**FDE track.** Demo project രണ്ടാം ആഴ്ച. Retrieval അല്ലെങ്കിൽ agent logic പൂർത്തിയാക്കുക. 50 ചോദ്യങ്ങളുള്ള eval set ഉണ്ടാക്കി ആദ്യ score എടുക്കുക.
+**FDE track.** Demo project-ന്റെ രണ്ടാം ആഴ്ച. Retrieval അല്ലെങ്കിൽ agent logic പൂർത്തിയാക്കുക. 50 ചോദ്യങ്ങളുള്ള ഒരു eval set ഉണ്ടാക്കി, ആദ്യ score എടുക്കുക.
 
 **Done looks like.**
-- ഒരു 3 മുതൽ 5 മിനിറ്റ് വരെയുള്ള talk ക്ലിപ്പ് native speaker-നോടൊപ്പം ഏകദേശം ഒരേ വേഗത്തിൽ shadow ചെയ്യാൻ കഴിയുന്നു.
-- Day 60 recording. Day 1, Day 30 എന്നിവയുമായി താരതമ്യം.
-- രണ്ടാം LinkedIn post. ഉദാഹരണം: evals-ൽ നിന്ന് പഠിച്ച ഒരു കാര്യം.
+- 3 മുതൽ 5 മിനിറ്റ് വരെയുള്ള ഒരു talk ക്ലിപ്പ് shadow ചെയ്യാൻ കഴിയുന്നു, native speaker-നോടൊപ്പം ഏകദേശം ഒരേ വേഗത്തിൽ.
+- Day 60 recording ചെയ്തു. Day 1, Day 30 എന്നിവയുമായി താരതമ്യം ചെയ്തു.
+- രണ്ടാം LinkedIn post. ഉദാഹരണത്തിന്, evals-ൽ നിന്ന് പഠിച്ച ഒരു കാര്യം.
 
-WARN: എട്ടാം ആഴ്ചയോടെ പലർക്കും മടുപ്പ് വരും. പുതുമ പോയി, ഫലം ഇനിയും പൂർണ്ണമായി കാണുന്നില്ല. ഇവിടെയാണ് പലരും നിർത്തുന്നത്. Day 1, Day 60 recordings അടുത്തടുത്ത് കേൾക്കുക. മാറ്റം നിങ്ങൾക്ക് തന്നെ കേൾക്കാം. അത് മുന്നോട്ട് പോകാനുള്ള ഇന്ധനമാണ്.
+WARN: എട്ടാം ആഴ്ചയോടെ പലർക്കും മടുപ്പ് വരും. പുതുമ പോയി, ഫലം ഇനിയും പൂർണ്ണമായി കാണുന്നില്ല. ഇവിടെയാണ് പലരും നിർത്തുന്നത്. അപ്പോൾ എന്ത് ചെയ്യണം? Day 1, Day 60 recordings അടുത്തടുത്ത് കേൾക്കുക. മാറ്റം നിങ്ങൾക്ക് തന്നെ കേൾക്കാം! അതാണ് മുന്നോട്ട് പോകാനുള്ള ഇന്ധനം.
 
 ## 15.5 Phase 3: Show, weeks 9 to 12 | കാണിക്കാനുള്ള സമയം
 
 ### Week 9: Disagreeing politely, negotiation, demo
 
-**Why this week.** ഇനി നിങ്ങൾ പുറത്തേക്ക് പോവുകയാണ്. Interviews, clients, offers. അവിടെ മാന്യമായി വിയോജിക്കാനും negotiate ചെയ്യാനും കഴിയണം (Chapter 10). Demo ഇതേ ആഴ്ച വരുന്നത്, ഒരു demo പലപ്പോഴും negotiation-ലെ ഏറ്റവും ശക്തമായ തെളിവ് ആയതുകൊണ്ടാണ്. "I can do this" എന്ന് പറയുന്നതിനേക്കാൾ "here it is" എന്ന് കാണിക്കുന്നതാണ് ശക്തം.
+**Why this week.** ഇനി നിങ്ങൾ പുറത്തേക്ക് ഇറങ്ങുകയാണ്. Interviews, clients, offers. അവിടെ മാന്യമായി വിയോജിക്കാനും negotiate ചെയ്യാനും കഴിയണം (Chapter 10). Demo-യും ഇതേ ആഴ്ച തന്നെ, കാരണം negotiation-ലെ ഏറ്റവും ശക്തമായ തെളിവ് പലപ്പോഴും ഒരു demo ആണ്. "I can do this" എന്ന് പറയുന്നതിനേക്കാൾ ശക്തം, "here it is" എന്ന് കാണിക്കുന്നതാണ്.
 
-**Tech.** ഒരു real-time voice agent demo. LiveKit Agents അല്ലെങ്കിൽ Pipecat ഉപയോഗിച്ച്. Streaming STT, LLM, TTS. Speech AI അനുഭവമുള്ളവർക്ക് ഇത് സ്വാഭാവിക തുടർച്ചയാണ്.
+**Tech.** ഒരു real-time voice agent demo. LiveKit Agents അല്ലെങ്കിൽ Pipecat ഉപയോഗിക്കാം. Streaming STT, LLM, TTS. Speech AI അനുഭവമുള്ളവർക്ക് ഇത് സ്വാഭാവിക തുടർച്ചയാണ്.
 
-**FDE track.** Customer-style demo project-ന്റെ 3 മിനിറ്റ് video. Chapter 12.8-ലെ demo narration ക്രമം. Problem, real example, result, honest limits, next step. നിങ്ങൾക്ക് സമയം കുറവാണെങ്കിൽ voice agent-ഉം FDE demo-യും ഒരേ project ആക്കാം. ഉദാഹരണം: ഒരു clinic-ന്റെ appointment voice agent.
+**FDE track.** Customer-style demo project-ന്റെ ഒരു 3 മിനിറ്റ് video. Chapter 12.8-ലെ demo narration ക്രമം ഉപയോഗിക്കുക. Problem, real example, result, honest limits, next step. സമയം കുറവാണോ? എങ്കിൽ voice agent-ഉം FDE demo-യും ഒരേ project ആക്കാം. ഉദാഹരണത്തിന്, ഒരു clinic-ന്റെ appointment voice agent.
 
 **Done looks like.**
-- Demo video, README, ഒരു architecture diagram. Public repo-യിൽ.
+- Demo video, README, ഒരു architecture diagram, എല്ലാം public repo-യിൽ.
 - Negotiation phrases ഒരു സുഹൃത്തിനോട് role-play ചെയ്തു.
 
 EN: I see it a bit differently. / Can I share what the data shows?
@@ -188,14 +188,14 @@ EN: Here's a three-minute demo / of an appointment assistant / I built and evalu
 
 ### Week 10: Mock interview 2 and system design English
 
-**Why this week.** ആദ്യ mock interview-ന് ശേഷം നാല് ആഴ്ച കഴിഞ്ഞു. ഇപ്പോൾ നിങ്ങളുടെ മാറ്റം അളക്കാൻ സമയമായി. System design English (Chapter 11.1) ഇതേ ആഴ്ച വരുന്നത്, senior റോളുകളിൽ ഏറ്റവും ഭാരമുള്ള round അതാണ് എന്നതുകൊണ്ടാണ്. Clarify, big picture, walk the request, trade-offs, scale, measure.
+**Why this week.** ആദ്യ mock interview കഴിഞ്ഞിട്ട് നാല് ആഴ്ചയായി. ഇനി നിങ്ങളുടെ മാറ്റം അളക്കാം. System design English (Chapter 11.1) ഇതേ ആഴ്ച വരുന്നത് എന്തിന്? Senior റോളുകളിൽ ഏറ്റവും ഭാരമുള്ള round അതാണ്. Clarify, big picture, walk the request, trade-offs, scale, measure.
 
-**Tech.** AWS ML services, practice tests. Exam ബുക്ക് ചെയ്യുക. തീയതി ഉറപ്പിക്കുമ്പോൾ പഠനത്തിന് വേഗം കൂടും.
+**Tech.** AWS ML services, practice tests. ഇനി exam ബുക്ക് ചെയ്യുക. തീയതി ഉറപ്പിച്ചാൽ പഠനത്തിന് താനേ വേഗം കൂടും!
 
-**FDE track.** രണ്ട് mock discovery calls. ഒരു സുഹൃത്തിനോട് ഒരു "കസ്റ്റമർ" ആകാൻ പറയുക. അല്ലെങ്കിൽ AI voice partner ഉപയോഗിക്കുക. 20 മിനിറ്റ്. Open questions, play-back, scope summary, next step. ഓരോ call-ന് ശേഷവും ഒരു one-paragraph summary email എഴുതുക.
+**FDE track.** രണ്ട് mock discovery calls. ഒരു സുഹൃത്തിനോട് "കസ്റ്റമർ" ആകാൻ പറയുക, അല്ലെങ്കിൽ AI voice partner ഉപയോഗിക്കുക. 20 മിനിറ്റ്. Open questions, play-back, scope summary, next step. ഓരോ call കഴിഞ്ഞും ഒരു one-paragraph summary email എഴുതുക.
 
 **Done looks like.**
-- Mock interview 2 റെക്കോർഡ് ചെയ്തു. Mock 1-ന്റെ feedback-ലെ മൂന്ന് പോയിന്റുകൾ മെച്ചപ്പെട്ടോ എന്ന് പരിശോധിച്ചു.
+- Mock interview 2 റെക്കോർഡ് ചെയ്തു. Mock 1-ന്റെ feedback-ലെ മൂന്ന് പോയിന്റുകൾ മെച്ചപ്പെട്ടോ? അത് പരിശോധിച്ചു.
 - AWS exam തീയതി ബുക്ക് ചെയ്തു.
 - FDE track: രണ്ട് discovery calls, രണ്ട് summary emails.
 
@@ -203,61 +203,61 @@ EN: Thanks for your time today. / Here's what I heard: / your team loses about t
 
 ### Week 11: Proposals, discovery calls, applications
 
-**Why this week.** ഇപ്പോൾ നിങ്ങൾക്ക് ഒരു demo, stories, certification-ന് അടുത്ത്, ഒരു public presence എല്ലാമുണ്ട്. Market-ലേക്ക് പോകാനുള്ള സമയം. Freelance proposals-ഉം job applications-ഉം ഒരേ കഴിവാണ് ഉപയോഗിക്കുന്നത്. മറ്റൊരാളുടെ പ്രശ്നം മനസ്സിലാക്കി, നിങ്ങളുടെ തെളിവ് അതുമായി ബന്ധിപ്പിക്കുക.
+**Why this week.** ഇപ്പോൾ നിങ്ങളുടെ കയ്യിൽ എന്തൊക്കെയുണ്ട്? ഒരു demo, stories, certification-ന് അടുത്ത്, ഒരു public presence. Market-ലേക്ക് ഇറങ്ങാൻ സമയമായി! Freelance proposals-ഉം job applications-ഉം ഒരേ കഴിവാണ് ഉപയോഗിക്കുന്നത്. മറ്റൊരാളുടെ പ്രശ്നം മനസ്സിലാക്കുക, നിങ്ങളുടെ തെളിവ് അതുമായി ബന്ധിപ്പിക്കുക.
 
-**Tech.** DP basics. ഒപ്പം design 4: Arabic customer-support voice agent. GCC റോളുകൾ ലക്ഷ്യമിടുന്നവർക്ക് ഇത് interview-ൽ വളരെ ഉപകാരപ്പെടും.
+**Tech.** DP basics. ഒപ്പം design 4: Arabic customer-support voice agent. GCC റോളുകളാണ് ലക്ഷ്യമെങ്കിൽ, interview-ൽ ഇത് വളരെ ഉപകാരപ്പെടും.
 
-**FDE track.** ഒരു customer role-play. Chapter 12-ലെ Drill 12.2. ഒപ്പം demo project-നെക്കുറിച്ച് ഒരു written deployment update. Status, done, risks, what we need from you, next week.
+**FDE track.** ഒരു customer role-play, Chapter 12-ലെ Drill 12.2. ഒപ്പം demo project-നെക്കുറിച്ച് ഒരു written deployment update. Status, done, risks, what we need from you, next week.
 
 **Done looks like.**
-- മൂന്ന് proposals അല്ലെങ്കിൽ മൂന്ന് ലക്ഷ്യമിട്ട applications അയച്ചു. ഓരോന്നിലും ആ കമ്പനിക്കായി എഴുതിയ ഒരു ചെറിയ note.
+- മൂന്ന് proposals, അല്ലെങ്കിൽ മൂന്ന് ലക്ഷ്യമിട്ട applications അയച്ചു. ഓരോന്നിലും ആ കമ്പനിക്കായി എഴുതിയ ഒരു ചെറിയ note ഉണ്ട്.
 - ഒരു discovery call role-play റെക്കോർഡ് ചെയ്തു.
 - FDE track: role-play recording, ഒരു deployment update.
 
-TIP: "Three applications" എന്നത് ചെറിയ സംഖ്യയായി തോന്നാം. പക്ഷേ ഇവിടെ ലക്ഷ്യം ഗുണനിലവാരമാണ്. 50 generic applications-നേക്കാൾ 3 നന്നായി ലക്ഷ്യമിട്ടവ കൂടുതൽ interviews കൊണ്ടുവരും.
+TIP: "Three applications" എന്നത് ചെറിയ സംഖ്യയായി തോന്നാം. പക്ഷേ ഇവിടെ ലക്ഷ്യം ഗുണനിലവാരമാണ്. 50 generic applications-നേക്കാൾ കൂടുതൽ interviews കൊണ്ടുവരും, നന്നായി ലക്ഷ്യമിട്ട 3 എണ്ണം.
 
 ### Week 12: Day 90 and the finish line
 
-**Why this week.** Day 90 recording ആണ് ഈ മുഴുവൻ യാത്രയുടെ തെളിവ്. Day 1-ഉം Day 90-ഉം അടുത്തടുത്ത് കേൾക്കുമ്പോൾ മാറ്റം വ്യക്തമാകും. AWS exam, അവസാന design, പുതിയ CV എന്നിവ ഈ ആഴ്ചയിൽ ഒരുമിച്ച് വരുന്നത് എല്ലാ തെളിവുകളും ഒരു സ്ഥലത്ത് എത്തിക്കാനാണ്.
+**Why this week.** ഈ മുഴുവൻ യാത്രയുടെ തെളിവ് എന്താണ്? Day 90 recording. Day 1-ഉം Day 90-ഉം അടുത്തടുത്ത് കേൾക്കുമ്പോൾ മാറ്റം വ്യക്തമാകും. AWS exam, അവസാന design, പുതിയ CV, ഇവ ഈ ആഴ്ച ഒരുമിച്ച് വരുന്നു. എല്ലാ തെളിവുകളും ഒരു സ്ഥലത്ത് എത്തിക്കാനാണ് ഇത്.
 
-**Tech.** AWS exam എഴുതുക. Design 5: an eval pipeline that gates releases. ഇത് നിങ്ങൾ ഈ 90 ദിവസം പഠിച്ച evals, cloud, system design എല്ലാം ചേർക്കുന്നു.
+**Tech.** AWS exam എഴുതുക. Design 5: an eval pipeline that gates releases. ഈ 90 ദിവസം നിങ്ങൾ പഠിച്ച evals, cloud, system design, എല്ലാം ഇതിൽ ഒരുമിക്കുന്നു.
 
-**FDE track.** ഒരു full FDE mock loop. Decomposition case, customer role-play, demo walkthrough. ഓരോന്നും 30 മിനിറ്റ്. പിന്നെ Chapter 12.10-ലെ company types-ൽ നിന്ന് അഞ്ച് ലക്ഷ്യമിട്ട FDE applications.
+**FDE track.** ഒരു full FDE mock loop. Decomposition case, customer role-play, demo walkthrough, ഓരോന്നും 30 മിനിറ്റ്. പിന്നെ Chapter 12.10-ലെ company types-ൽ നിന്ന് അഞ്ച് ലക്ഷ്യമിട്ട FDE applications.
 
 **Done looks like.**
-- Day 90 recording. Day 1-മായി താരതമ്യം. മാറ്റങ്ങൾ എഴുതി വെച്ചു.
-- CV, LinkedIn എന്നിവയിൽ certification, demo link, പുതിയ stories.
+- Day 90 recording ചെയ്തു. Day 1-മായി താരതമ്യം ചെയ്തു. മാറ്റങ്ങൾ എഴുതി വെച്ചു.
+- CV-ലും LinkedIn-ലും certification, demo link, പുതിയ stories ചേർത്തു.
 - FDE track: mock loop recording, അഞ്ച് applications.
 
 ## 15.6 What you will have after 90 days | 90 ദിവസത്തിന് ശേഷം
 
-90 ദിവസം കഴിയുമ്പോൾ നിങ്ങളുടെ കയ്യിൽ ഉണ്ടാകേണ്ടത് ഇതാണ്. ഇവയെല്ലാം തെളിവുകളാണ്. Interviewer-നോ client-നോ കാണിക്കാൻ കഴിയുന്നവ.
+90 ദിവസം കഴിയുമ്പോൾ നിങ്ങളുടെ കയ്യിൽ എന്തൊക്കെ ഉണ്ടാകണം? ഇതാ. ഇവയെല്ലാം തെളിവുകളാണ്, interviewer-നോ client-നോ കാണിക്കാൻ കഴിയുന്നവ.
 
-- Day 1, Day 30, Day 60, Day 90 recordings. Clarity-യിലെ വ്യക്തമായ മാറ്റം.
-- 100-ൽ കൂടുതൽ DSA problems. NeetCode roadmap അനുസരിച്ച്.
+- Day 1, Day 30, Day 60, Day 90 recordings. Clarity-യിൽ വ്യക്തമായ മാറ്റം.
+- 100-ൽ കൂടുതൽ DSA problems, NeetCode roadmap അനുസരിച്ച്.
 - ഉറക്കെ പറഞ്ഞ് പരിശീലിച്ച 5 system designs.
 - ഒരു AWS certification, അല്ലെങ്കിൽ exam-ന് തൊട്ടടുത്ത്.
 - ഒരു public voice-agent demo, ഒരു eval harness.
 - 4 മുതൽ 6 വരെ LinkedIn posts. 500-ൽ കൂടുതൽ connections.
 - ഉയർന്ന ശമ്പളമുള്ള ഒരു offer-ന് വേണ്ടി തയ്യാറായ interview stories.
 
-FDE track ചെയ്തവർക്ക് ഇതും കൂടി:
+FDE track ചെയ്തവർക്ക് ഇതും കൂടി ഉണ്ടാകും.
 
 - ഒരു customer-style demo project. Scope document, eval score, 3 മിനിറ്റ് video സഹിതം.
 - റെക്കോർഡ് ചെയ്ത discovery calls, ഒരു customer role-play, ഒരു full mock loop.
-- ഒരു written deployment update sample. Interview-ൽ കാണിക്കാൻ.
+- ഒരു written deployment update sample, interview-ൽ കാണിക്കാൻ.
 - FDE ഭാഷയിൽ എഴുതിയ മൂന്ന് project stories.
 
 ## 15.7 When the plan breaks | പ്ലാൻ തെറ്റുമ്പോൾ
 
-ഒരു പ്ലാനും പൂർണ്ണമായി നടക്കില്ല. അത് പരാജയമല്ല. പ്രധാനം വീണ്ടും തുടങ്ങാൻ അറിയുന്നതാണ്.
+ഒരു പ്ലാനും പൂർണ്ണമായി നടക്കില്ല. അത് പരാജയമല്ല, കേട്ടോ. പ്രധാനം, വീണ്ടും തുടങ്ങാൻ അറിയുക എന്നതാണ്.
 
-- **ഒരാഴ്ച പൂർണ്ണമായി നഷ്ടപ്പെട്ടാൽ.** പ്ലാൻ ഒരാഴ്ച മുന്നോട്ട് നീക്കുക. പിന്നിലുള്ളത് "പിടിക്കാൻ" രണ്ട് ആഴ്ചയുടെ പണി ഒരാഴ്ചയിൽ ചെയ്യരുത്.
-- **ഒരു sound ഇനിയും ശരിയായില്ലെങ്കിൽ.** അത് അടുത്ത ആഴ്ചയുടെ sound drill-ലേക്ക് 5 മിനിറ്റ് ചേർക്കുക. ബാക്കി പ്ലാൻ തുടരുക.
-- **AWS exam പരാജയപ്പെട്ടാൽ.** Score report നോക്കി ദുർബലമായ domains മാത്രം രണ്ടാഴ്ച പഠിച്ച് വീണ്ടും എഴുതുക. ഇത് സാധാരണമാണ്.
+- **ഒരാഴ്ച പൂർണ്ണമായി നഷ്ടപ്പെട്ടാൽ.** പ്ലാൻ ഒരാഴ്ച മുന്നോട്ട് നീക്കുക. പിന്നിലുള്ളത് "പിടിക്കാൻ" വേണ്ടി രണ്ട് ആഴ്ചയുടെ പണി ഒരാഴ്ചയിൽ ചെയ്യരുത്.
+- **ഒരു sound ഇനിയും ശരിയായില്ലെങ്കിൽ.** അടുത്ത ആഴ്ചയുടെ sound drill-ൽ അതിന് 5 മിനിറ്റ് കൂടി ചേർക്കുക. ബാക്കി പ്ലാൻ തുടരുക.
+- **AWS exam പരാജയപ്പെട്ടാൽ.** Score report നോക്കുക. ദുർബലമായ domains മാത്രം രണ്ടാഴ്ച പഠിക്കുക, എന്നിട്ട് വീണ്ടും എഴുതുക. ഇത് സാധാരണമാണ്, വിഷമിക്കേണ്ട.
 - **Job വിട്ട് മാറാൻ സമ്മർദ്ദം കൂടിയാൽ.** 11, 12 ആഴ്ചകൾ നേരത്തെ ചെയ്യാം. പക്ഷേ Day 1 recording-ഉം ഒരു demo-യും ഇല്ലാതെ apply ചെയ്യരുത്.
 
-NOTE: ജോലി ഭാരം കൂടിയ ആഴ്ചയിലെ minimum. 20 മിനിറ്റ് English, ഒരു DSA problem, ഒരു LinkedIn comment. ഇത്രയും ചെയ്താൽ ശീലം ജീവിക്കും.
+NOTE: ജോലി ഭാരം കൂടിയ ആഴ്ചയിൽ minimum എന്താണ്? 20 മിനിറ്റ് English, ഒരു DSA problem, ഒരു LinkedIn comment. ഇത്രയും ചെയ്താൽ ശീലം ജീവിക്കും.
 
 ## 15.8 Quick check | സ്വയം പരിശോധിക്കാം
 

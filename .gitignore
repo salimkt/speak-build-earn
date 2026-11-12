@@ -2,3 +2,5 @@ node_modules
 dist
 .tts-cache
 .DS_Store
+voice-test/
+.env
